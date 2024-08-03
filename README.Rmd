@@ -4,10 +4,10 @@ output: html_document
 date: "2024-08-02"
 ---
 
-# Title: Metagenomic Assembly and Analysis of the Coffee Fermentation Ecosystem
+#Title: Metagenomic Assembly and Analysis of the Coffee Fermentation Ecosystem
 
 
-## Project Overview
+#Project Overview
 This project aims to conduct a comprehensive metagenomic assembly and quality evaluation of the coffee fermentation ecosystem using shotgun metagenomic data. The analysis leverages advanced bioinformatics tools such as FastQC, MEGAHIT, MetaQUAST, and Bandage to identify and characterize the microorganisms present at different time points during the coffee fermentation process.
 
 
