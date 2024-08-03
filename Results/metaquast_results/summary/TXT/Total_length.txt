@@ -1,0 +1,10 @@
+Assemblies                                 final.contigs
+Kosakonia_cowanii                          1777094      
+Lactococcus_lactis_subsp._lactis_CV56      500379       
+Leuconostoc_pseudomesenteroides_KCTC_3652  2194628      
+Pantoea_rwandensis                         2036305      
+Pectobacterium_atrosepticum_CFBP_6276      1099599      
+Pectobacterium_parmentieri                 671221       
+Tatumella_morbirosei                       2714231      
+Tatumella_punctata                         644137       
+not_aligned                                52459967     

@@ -1,0 +1,14 @@
+reference chromosomes:
+	Pantoea_rwandensis_NZ_CP009454.1 (total length: 4327607 bp, total length without N's: 4327607 bp, maximal covered length: 1660342 bp)
+
+total genome size: 4327607
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Pantoea | 38.366    | 1.073       | 1839      | -         | -         | -         | -         |

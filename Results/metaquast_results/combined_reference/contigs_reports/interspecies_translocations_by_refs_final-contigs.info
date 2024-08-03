@@ -1,0 +1,19 @@
+Number of interspecies translocations by references: 
+References                                 1   2  3  4   5   6   7   8 
+Kosakonia_cowanii                          -   0  0  19  6   6   6   0 
+Lactococcus_lactis_subsp._lactis_CV56      0   -  0  0   0   0   0   0 
+Leuconostoc_pseudomesenteroides_KCTC_3652  0   0  -  0   0   0   1   0 
+Pantoea_rwandensis                         19  0  0  -   4   4   7   11
+Pectobacterium_atrosepticum_CFBP_6276      6   0  0  4   -   18  1   2 
+Pectobacterium_parmentieri                 6   0  0  4   18  -   4   0 
+Tatumella_morbirosei                       6   0  1  7   1   4   -   23
+Tatumella_punctata                         0   0  0  11  2   0   23  - 
+References:
+1 - Kosakonia_cowanii
+2 - Lactococcus_lactis_subsp._lactis_CV56
+3 - Leuconostoc_pseudomesenteroides_KCTC_3652
+4 - Pantoea_rwandensis
+5 - Pectobacterium_atrosepticum_CFBP_6276
+6 - Pectobacterium_parmentieri
+7 - Tatumella_morbirosei
+8 - Tatumella_punctata

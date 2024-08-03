@@ -1,0 +1,19 @@
+reference chromosomes:
+	Lactococcus_lactis_subsp._lactis_CV56_NC_017483.1 (total length: 44098 bp, total length without N's: 44098 bp, maximal covered length: 1404 bp)
+	Lactococcus_lactis_subsp._lactis_CV56_NC_017484.1 (total length: 31442 bp, total length without N's: 31442 bp, maximal covered length: 2371 bp)
+	Lactococcus_lactis_subsp._lactis_CV56_NC_017485.1 (total length: 5543 bp, total length without N's: 5543 bp, maximal covered length: 139 bp)
+	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 (total length: 2399458 bp, total length without N's: 2399458 bp, maximal covered length: 463844 bp)
+	Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1 (total length: 35934 bp, total length without N's: 35934 bp, maximal covered length: 3168 bp)
+	Lactococcus_lactis_subsp._lactis_CV56_NC_017488.1 (total length: 2262 bp, total length without N's: 2262 bp, maximal covered length: 0 bp)
+
+total genome size: 2518737
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Lactoco | 18.697    | 1.006       | 604       | -         | -         | -         | -         |

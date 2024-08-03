@@ -1,0 +1,1531 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+827473	828455	1715	732	Pectobacterium_parmentieri_NZ_CP062254.1	k91_215700	92.1		True
+CONTIG	k91_215700	1715	correct
+3197138	3197838	1	704	Pectobacterium_parmentieri_NZ_CP062254.1	k91_215797	90.34		True
+CONTIG	k91_215797	706	correct
+CONTIG	k91_215	2208	unaligned
+2827812	2828556	72	831	Pectobacterium_parmentieri_NZ_CP062254.1	k91_72203	92.76		True
+CONTIG	k91_72203	831	correct
+4195	4895	12	712	Pectobacterium_parmentieri_NZ_CP062254.1	k91_215899	93.15		True
+CONTIG	k91_215899	714	correct
+4372293	4372960	696	29	Pectobacterium_parmentieri_NZ_CP062254.1	k91_215929	90.73		True
+CONTIG	k91_215929	696	correct
+3709083	3709860	817	39	Pectobacterium_parmentieri_NZ_CP062254.1	k91_108237	90.76		True
+CONTIG	k91_108237	854	correct
+4644820	4644942	128	6	Pectobacterium_parmentieri_NZ_CP062254.1	k91_314	93.5		True
+CONTIG	k91_314	645	correct_unaligned
+4440647	4442547	8	1908	Pectobacterium_parmentieri_NZ_CP062254.1	k91_180059	93.69		True
+CONTIG	k91_180059	1908	correct
+2166118	2167079	4	965	Pectobacterium_parmentieri_NZ_CP062254.1	k91_72293	90.16		True
+CONTIG	k91_72293	966	correct
+1396940	1398765	1	1826	Pectobacterium_parmentieri_NZ_CP062254.1	k91_216082	92.61		True
+CONTIG	k91_216082	1829	correct
+3189478	3190320	843	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_108556	91.6		True
+CONTIG	k91_108556	843	correct
+1649663	1649943	339	59	Pectobacterium_parmentieri_NZ_CP062254.1	k91_216267	93.24		True
+CONTIG	k91_216267	1314	correct_unaligned
+4413607	4414238	1	632	Pectobacterium_parmentieri_NZ_CP062254.1	k91_72648	93.35		True
+CONTIG	k91_72648	650	correct
+3387008	3388236	1229	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_36792	92.27		True
+CONTIG	k91_36792	1237	correct
+100855	101879	1025	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_72738	90.6		True
+CONTIG	k91_72738	1033	correct
+129987	130646	1	660	Pectobacterium_parmentieri_NZ_CP062254.1	k91_180507	91.67		True
+CONTIG	k91_180507	691	correct
+4551746	4552466	728	8	Pectobacterium_parmentieri_NZ_CP062254.1	k91_36842	90.01		True
+CONTIG	k91_36842	755	correct
+2908682	2909047	413	47	Pectobacterium_parmentieri_NZ_CP062254.1	k91_180577	90.19		True
+CONTIG	k91_180577	670	correct
+348519	349131	615	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_144712	93.67		True
+CONTIG	k91_144712	615	correct
+3280596	3281555	279	1238	Pectobacterium_parmentieri_NZ_CP062254.1	k91_216621	91.36		True
+CONTIG	k91_216621	1412	correct
+27078	27978	5	905	Pectobacterium_parmentieri_NZ_CP062254.1	k91_37008	93.34		True
+CONTIG	k91_37008	922	correct
+685093	685807	1	715	Pectobacterium_parmentieri_NZ_CP062254.1	k91_109313	92.17		True
+CONTIG	k91_109313	725	correct
+888081	888969	892	4	Pectobacterium_parmentieri_NZ_CP062254.1	k91_37160	93.03		True
+CONTIG	k91_37160	894	correct
+2894743	2894871	246	118	Pectobacterium_parmentieri_NZ_CP062254.1	k91_252784	93.8		True
+CONTIG	k91_252784	702	correct
+4438084	4438840	754	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_144950	92.88		True
+CONTIG	k91_144950	755	correct
+3976072	3976758	133	819	Pectobacterium_parmentieri_NZ_CP062254.1	k91_73220	93.16		True
+CONTIG	k91_73220	819	correct
+1588412	1589439	1039	12	Pectobacterium_parmentieri_NZ_CP062254.1	k91_1285	90.76		True
+CONTIG	k91_1285	1044	correct
+4340707	4341141	435	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_181109	91.49		True
+CONTIG	k91_181109	611	correct
+827413	827528	1	116	Pectobacterium_parmentieri_NZ_CP062254.1	k91_37658	96.55		True
+CONTIG	k91_37658	719	correct_unaligned
+1630072	1630189	610	726	Pectobacterium_parmentieri_NZ_CP062254.1	k91_73606	94.92		True
+CONTIG	k91_73606	731	correct_unaligned
+4375183	4375896	714	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_145340	97.34		True
+CONTIG	k91_145340	714	correct
+4003055	4003655	1	601	Pectobacterium_parmentieri_NZ_CP062254.1	k91_1595	91.68		True
+CONTIG	k91_1595	601	correct
+500800	501609	1	811	Pectobacterium_parmentieri_NZ_CP062254.1	k91_73795	91.25		True
+CONTIG	k91_73795	975	correct
+3167747	3168528	783	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_181547	91.44		True
+CONTIG	k91_181547	792	correct
+3555803	3556374	578	7	Pectobacterium_parmentieri_NZ_CP062254.1	k91_110372	90.73		True
+CONTIG	k91_110372	796	correct
+4512515	4513287	799	27	Pectobacterium_parmentieri_NZ_CP062254.1	k91_145572	94.57		True
+CONTIG	k91_145572	889	correct
+3134203	3134484	574	293	Pectobacterium_parmentieri_NZ_CP062254.1	k91_253521	92.91		True
+CONTIG	k91_253521	574	correct
+2916146	2916315	46	215	Pectobacterium_parmentieri_NZ_CP062254.1	k91_1883	92.94		True
+CONTIG	k91_1883	699	correct
+2748686	2749176	45	535	Pectobacterium_parmentieri_NZ_CP062254.1	k91_1902	90.84		True
+CONTIG	k91_1902	535	correct
+4153642	4154409	33	800	Pectobacterium_parmentieri_NZ_CP062254.1	k91_74064	90.1		True
+CONTIG	k91_74064	940	correct
+1034637	1035177	10	550	Pectobacterium_parmentieri_NZ_CP062254.1	k91_1956	90.39		True
+CONTIG	k91_1956	825	correct
+4380528	4381323	796	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_2074	97.99		True
+CONTIG	k91_2074	796	correct
+3544507	3544788	1269	988	Pectobacterium_parmentieri_NZ_CP062254.1	k91_253704	90.78		True
+CONTIG	k91_253704	1281	correct_unaligned
+1332272	1332747	476	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_182081	94.75		True
+CONTIG	k91_182081	531	correct
+2471293	2472629	1	1337	Pectobacterium_parmentieri_NZ_CP062254.1	k91_110960	91.85		True
+CONTIG	k91_110960	1337	correct
+189483	190189	3	709	Pectobacterium_parmentieri_NZ_CP062254.1	k91_38569	90.68		True
+CONTIG	k91_38569	709	correct
+270729	270868	156	17	Pectobacterium_parmentieri_NZ_CP062254.1	k91_146110	96.43		True
+indel: indel (> 5bp)
+270282	270682	557	157	Pectobacterium_parmentieri_NZ_CP062254.1	k91_146110	91.02		True
+CONTIG	k91_146110	557	correct
+4421298	4422745	4	1451	Pectobacterium_parmentieri_NZ_CP062254.1	k91_74430	93.09		True
+CONTIG	k91_74430	1451	correct
+3005639	3006181	1	543	Pectobacterium_parmentieri_NZ_CP062254.1	k91_74441	93.55		True
+CONTIG	k91_74441	795	correct
+4625626	4626186	10	570	Pectobacterium_parmentieri_NZ_CP062254.1	k91_38630	93.05		True
+CONTIG	k91_38630	740	correct
+2437331	2437901	511	1081	Pectobacterium_parmentieri_NZ_CP062254.1	k91_218231	91.07		True
+CONTIG	k91_218231	1090	correct
+4491848	4492129	213	494	Pectobacterium_parmentieri_NZ_CP062254.1	k91_218243	92.55		True
+CONTIG	k91_218243	501	correct
+1059530	1060117	51	638	Pectobacterium_parmentieri_NZ_CP062254.1	k91_218270	91.84		True
+CONTIG	k91_218270	638	correct
+3380637	3381247	617	7	Pectobacterium_parmentieri_NZ_CP062254.1	k91_111154	90.83		True
+CONTIG	k91_111154	618	correct
+1587508	1588010	7	508	Pectobacterium_parmentieri_NZ_CP062254.1	k91_2448	97.61		True
+CONTIG	k91_2448	508	correct
+4952512	4953508	1	997	Pectobacterium_parmentieri_NZ_CP062254.1	k91_182305	92.38		True
+CONTIG	k91_182305	997	correct
+1003277	1005452	2189	16	Pectobacterium_parmentieri_NZ_CP062254.1	k91_146383	91.62		True
+CONTIG	k91_146383	2193	correct
+4926180	4926307	549	422	Pectobacterium_parmentieri_NZ_CP062254.1	k91_75177	96.09		True
+CONTIG	k91_75177	1400	correct_unaligned
+14375	15089	724	10	Pectobacterium_parmentieri_NZ_CP062254.1	k91_254384	93.29		True
+CONTIG	k91_254384	839	correct
+2989056	2989348	297	6	Pectobacterium_parmentieri_NZ_CP062254.1	k91_39610	92.49		True
+CONTIG	k91_39610	827	correct_unaligned
+4519211	4519892	5	686	Pectobacterium_parmentieri_NZ_CP062254.1	k91_39660	95.16		True
+CONTIG	k91_39660	691	correct
+4373020	4374861	1841	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_219214	96.85		True
+CONTIG	k91_219214	1841	correct
+262363	262462	127	28	Pectobacterium_parmentieri_NZ_CP062254.1	k91_3296	96.0		True
+CONTIG	k91_3296	549	correct
+1574811	1575360	566	17	Pectobacterium_parmentieri_NZ_CP062254.1	k91_39810	91.27		True
+CONTIG	k91_39810	566	correct
+3414706	3415608	908	4	Pectobacterium_parmentieri_NZ_CP062254.1	k91_219390	90.61		True
+CONTIG	k91_219390	1051	correct
+4899425	4900382	1012	55	Pectobacterium_parmentieri_NZ_CP062254.1	k91_39939	93.53		True
+CONTIG	k91_39939	1012	correct
+4766373	4767895	1	1533	Pectobacterium_parmentieri_NZ_CP062254.1	k91_75715	92.98		True
+CONTIG	k91_75715	1536	correct
+1519523	1520266	906	169	Pectobacterium_parmentieri_NZ_CP062254.1	k91_75760	90.86		True
+CONTIG	k91_75760	906	correct
+4241496	4242068	579	7	Pectobacterium_parmentieri_NZ_CP062254.1	k91_112265	96.68		True
+CONTIG	k91_112265	579	correct
+1996380	1997191	826	15	Pectobacterium_parmentieri_NZ_CP062254.1	k91_3771	90.65		True
+CONTIG	k91_3771	826	correct
+1225805	1225919	505	620	Pectobacterium_parmentieri_NZ_CP062254.1	k91_112386	97.41		True
+CONTIG	k91_112386	620	correct_unaligned
+1224508	1225919	6	1417	Pectobacterium_parmentieri_NZ_CP062254.1	k91_112409	91.01		True
+CONTIG	k91_112409	1417	correct
+3061005	3061287	311	592	Pectobacterium_parmentieri_NZ_CP062254.1	k91_3822	95.05		True
+CONTIG	k91_3822	593	correct
+3006502	3007243	13	754	Pectobacterium_parmentieri_NZ_CP062254.1	k91_76040	93.67		True
+CONTIG	k91_76040	754	correct
+3904784	3906050	1	1267	Pectobacterium_parmentieri_NZ_CP062254.1	k91_147658	91.63		True
+CONTIG	k91_147658	1267	correct
+3290195	3290884	697	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_219947	92.11		True
+CONTIG	k91_219947	989	correct
+391874	391968	650	744	Pectobacterium_parmentieri_NZ_CP062254.1	k91_4141	97.89		True
+CONTIG	k91_4141	746	correct_unaligned
+355039	355865	840	14	Pectobacterium_parmentieri_NZ_CP062254.1	k91_147767	92.14		True
+CONTIG	k91_147767	840	correct
+4641861	4642176	315	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_220058	91.14		True
+CONTIG	k91_220058	565	correct
+2577061	2577268	124	331	Pectobacterium_parmentieri_NZ_CP062254.1	k91_220064	91.47		True
+CONTIG	k91_220064	741	correct
+2055145	2055777	1	633	Pectobacterium_parmentieri_NZ_CP062254.1	k91_4206	92.1		True
+CONTIG	k91_4206	633	correct
+3808814	3809632	819	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_112830	90.23		True
+CONTIG	k91_112830	819	correct
+1072256	1072674	1	419	Pectobacterium_parmentieri_NZ_CP062254.1	k91_255532	91.89		True
+CONTIG	k91_255532	527	correct
+4131736	4132174	445	7	Pectobacterium_parmentieri_NZ_CP062254.1	k91_40727	91.8		True
+CONTIG	k91_40727	525	correct
+3758638	3758919	294	13	Pectobacterium_parmentieri_NZ_CP062254.1	k91_40729	93.62		True
+indel: indel (> 5bp)
+3758386	3758604	512	295	Pectobacterium_parmentieri_NZ_CP062254.1	k91_40729	92.69		True
+CONTIG	k91_40729	512	correct
+3567808	3568395	593	6	Pectobacterium_parmentieri_NZ_CP062254.1	k91_255628	90.31		True
+CONTIG	k91_255628	593	correct
+2262566	2263338	1	773	Pectobacterium_parmentieri_NZ_CP062254.1	k91_184300	98.06		True
+CONTIG	k91_184300	773	correct
+134762	136227	1473	8	Pectobacterium_parmentieri_NZ_CP062254.1	k91_255799	91.47		True
+CONTIG	k91_255799	1524	correct
+4892092	4893028	1	937	Pectobacterium_parmentieri_NZ_CP062254.1	k91_76571	90.18		True
+CONTIG	k91_76571	972	correct
+3792901	3793402	1129	1627	Pectobacterium_parmentieri_NZ_CP062254.1	k91_220431	91.24		True
+CONTIG	k91_220431	1627	correct_unaligned
+3133592	3133704	113	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_184571	92.92		True
+indel: indel (> 5bp)
+3132909	3133570	787	114	Pectobacterium_parmentieri_NZ_CP062254.1	k91_184571	90.06		True
+CONTIG	k91_184571	802	correct
+3424673	3425398	726	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_41111	93.94		True
+CONTIG	k91_41111	745	correct
+4972107	4972810	1	704	Pectobacterium_parmentieri_NZ_CP062254.1	k91_148116	91.0		True
+CONTIG	k91_148116	857	correct
+4147120	4147615	501	6	Pectobacterium_parmentieri_NZ_CP062254.1	k91_220523	93.35		True
+CONTIG	k91_220523	501	correct
+2926331	2927672	5	1346	Pectobacterium_parmentieri_NZ_CP062254.1	k91_220524	91.97		True
+CONTIG	k91_220524	1346	correct
+3235822	3236884	1064	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_184720	96.43		True
+CONTIG	k91_184720	1068	correct
+1498515	1499224	745	36	Pectobacterium_parmentieri_NZ_CP062254.1	k91_113338	91.69		True
+CONTIG	k91_113338	748	correct
+3391811	3392092	613	332	Pectobacterium_parmentieri_NZ_CP062254.1	k91_148216	95.39		True
+CONTIG	k91_148216	613	correct
+3543974	3544382	618	210	Pectobacterium_parmentieri_NZ_CP062254.1	k91_220627	93.64		True
+CONTIG	k91_220627	628	correct
+4389552	4390305	13	766	Pectobacterium_parmentieri_NZ_CP062254.1	k91_4754	92.18		True
+CONTIG	k91_4754	769	correct
+4823682	4824187	506	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_148345	91.7		True
+CONTIG	k91_148345	516	correct
+3219789	3220721	1	933	Pectobacterium_parmentieri_NZ_CP062254.1	k91_220821	94.64		True
+CONTIG	k91_220821	939	correct
+954428	955099	9	680	Pectobacterium_parmentieri_NZ_CP062254.1	k91_41515	92.11		True
+CONTIG	k91_41515	809	correct
+1938101	1938650	550	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_41550	92.0		True
+CONTIG	k91_41550	550	correct
+1182282	1182865	584	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_113619	99.32		True
+CONTIG	k91_113619	584	correct
+682860	683624	764	18	Pectobacterium_parmentieri_NZ_CP062254.1	k91_148570	90.2		True
+CONTIG	k91_148570	846	correct
+4369761	4370657	1	897	Pectobacterium_parmentieri_NZ_CP062254.1	k91_41649	98.89		True
+CONTIG	k91_41649	897	correct
+343548	344093	586	41	Pectobacterium_parmentieri_NZ_CP062254.1	k91_221059	90.48		True
+CONTIG	k91_221059	586	correct
+4757339	4757600	1018	757	Pectobacterium_parmentieri_NZ_CP062254.1	k91_77282	90.84		True
+CONTIG	k91_77282	1018	correct_unaligned
+3293218	3293819	1	602	Pectobacterium_parmentieri_NZ_CP062254.1	k91_41799	96.18		True
+CONTIG	k91_41799	602	correct
+2566601	2566892	293	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_221182	90.75		True
+CONTIG	k91_221182	532	correct
+4352539	4353058	1	520	Pectobacterium_parmentieri_NZ_CP062254.1	k91_41922	92.12		True
+CONTIG	k91_41922	531	correct
+4013197	4014436	6	1245	Pectobacterium_parmentieri_NZ_CP062254.1	k91_185447	92.02		True
+CONTIG	k91_185447	1248	correct
+3355490	3356295	806	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_41966	90.94		True
+CONTIG	k91_41966	812	correct
+1160794	1162371	1582	5	Pectobacterium_parmentieri_NZ_CP062254.1	k91_148910	91.59		True
+CONTIG	k91_148910	1582	correct
+55260	56193	936	6	Pectobacterium_parmentieri_NZ_CP062254.1	k91_185479	94.22		True
+CONTIG	k91_185479	946	correct
+2086291	2086785	757	262	Pectobacterium_parmentieri_NZ_CP062254.1	k91_221462	91.73		True
+CONTIG	k91_221462	757	correct
+3446213	3446434	280	499	Pectobacterium_parmentieri_NZ_CP062254.1	k91_42075	94.14		True
+CONTIG	k91_42075	762	correct
+2999090	2999790	7	707	Pectobacterium_parmentieri_NZ_CP062254.1	k91_77631	91.58		True
+CONTIG	k91_77631	712	correct
+2894068	2894642	824	250	Pectobacterium_parmentieri_NZ_CP062254.1	k91_221528	90.78		True
+CONTIG	k91_221528	872	correct
+2874017	2874881	16	880	Pectobacterium_parmentieri_NZ_CP062254.1	k91_42163	92.72		True
+CONTIG	k91_42163	913	correct
+1860622	1861047	209	634	Pectobacterium_parmentieri_NZ_CP062254.1	k91_221564	95.77		True
+CONTIG	k91_221564	634	correct
+4237932	4238394	32	494	Pectobacterium_parmentieri_NZ_CP062254.1	k91_256923	90.5		True
+CONTIG	k91_256923	616	correct
+3522398	3523140	796	54	Pectobacterium_parmentieri_NZ_CP062254.1	k91_185729	92.33		True
+CONTIG	k91_185729	801	correct
+169106	169753	1	649	Pectobacterium_parmentieri_NZ_CP062254.1	k91_77804	97.38		True
+CONTIG	k91_77804	1354	correct_unaligned
+3594643	3595679	1037	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_42353	93.92		True
+CONTIG	k91_42353	1047	correct
+2052326	2053041	787	72	Pectobacterium_parmentieri_NZ_CP062254.1	k91_42357	90.82		True
+CONTIG	k91_42357	909	correct
+3168202	3169440	1244	5	Pectobacterium_parmentieri_NZ_CP062254.1	k91_149260	92.52		True
+CONTIG	k91_149260	1244	correct
+1862290	1863187	1	897	Pectobacterium_parmentieri_NZ_CP062254.1	k91_42566	91.43		True
+CONTIG	k91_42566	918	correct
+4586744	4588132	1403	16	Pectobacterium_parmentieri_NZ_CP062254.1	k91_6038	92.73		True
+CONTIG	k91_6038	1408	correct
+3334031	3334313	215	495	Pectobacterium_parmentieri_NZ_CP062254.1	k91_186228	95.05		True
+CONTIG	k91_186228	527	correct
+4794220	4795442	1233	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_149665	94.73		True
+CONTIG	k91_149665	1235	correct
+382169	382749	581	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_149696	90.36		True
+CONTIG	k91_149696	850	correct
+830240	832029	1	1793	Pectobacterium_parmentieri_NZ_CP062254.1	k91_78336	93.54		True
+CONTIG	k91_78336	1812	correct
+294360	295043	684	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_114813	91.67		True
+CONTIG	k91_114813	695	correct
+1531674	1531908	547	781	Pectobacterium_parmentieri_NZ_CP062254.1	k91_43034	90.68		True
+CONTIG	k91_43034	810	correct_unaligned
+4004984	4005627	1	639	Pectobacterium_parmentieri_NZ_CP062254.1	k91_78527	91.05		True
+CONTIG	k91_78527	1325	correct_unaligned
+2113533	2113729	6	202	Pectobacterium_parmentieri_NZ_CP062254.1	k91_78531	97.97		True
+CONTIG	k91_78531	618	correct
+1396069	1397006	944	7	Pectobacterium_parmentieri_NZ_CP062254.1	k91_222503	93.5		True
+CONTIG	k91_222503	946	correct
+1111295	1111997	154	855	Pectobacterium_parmentieri_NZ_CP062254.1	k91_149903	90.68		True
+CONTIG	k91_149903	860	correct
+1675633	1677384	11	1763	Pectobacterium_parmentieri_NZ_CP062254.1	k91_149924	90.76		True
+CONTIG	k91_149924	1763	correct
+3490549	3490717	302	134	Pectobacterium_parmentieri_NZ_CP062254.1	k91_6450	94.67		True
+CONTIG	k91_6450	668	correct
+3227539	3228002	464	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_186707	94.61		True
+CONTIG	k91_186707	521	correct
+860715	860995	538	258	Pectobacterium_parmentieri_NZ_CP062254.1	k91_222785	91.52		True
+CONTIG	k91_222785	550	correct
+162472	163013	543	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_6774	91.7		True
+CONTIG	k91_6774	614	correct
+371003	372028	1021	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_186791	90.75		True
+CONTIG	k91_186791	1061	correct
+4828562	4829117	723	168	Pectobacterium_parmentieri_NZ_CP062254.1	k91_222875	91.19		True
+CONTIG	k91_222875	748	correct
+3108215	3108878	1035	1698	Pectobacterium_parmentieri_NZ_CP062254.1	k91_222880	90.81		True
+CONTIG	k91_222880	1698	correct_unaligned
+256896	257568	1	673	Pectobacterium_parmentieri_NZ_CP062254.1	k91_43521	92.87		True
+CONTIG	k91_43521	690	correct
+4370867	4371870	1	1004	Pectobacterium_parmentieri_NZ_CP062254.1	k91_186940	98.9		True
+CONTIG	k91_186940	1004	correct
+3415550	3416308	760	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_6990	95.13		True
+CONTIG	k91_6990	789	correct
+94350	95085	826	92	Pectobacterium_parmentieri_NZ_CP062254.1	k91_43632	91.45		True
+CONTIG	k91_43632	826	correct
+2382675	2383305	634	4	Pectobacterium_parmentieri_NZ_CP062254.1	k91_187085	92.87		True
+CONTIG	k91_187085	828	correct
+5011533	5012058	527	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_115643	91.3		True
+CONTIG	k91_115643	531	correct
+222918	223142	2	226	Pectobacterium_parmentieri_NZ_CP062254.1	k91_79533	92.44		True
+CONTIG	k91_79533	632	correct
+28334	29426	1093	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_187317	92.96		True
+CONTIG	k91_187317	1093	correct
+4640973	4641372	102	501	Pectobacterium_parmentieri_NZ_CP062254.1	k91_7416	91.0		True
+CONTIG	k91_7416	501	correct
+1986416	1987300	885	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_115853	91.53		True
+CONTIG	k91_115853	885	correct
+1196166	1196977	13	823	Pectobacterium_parmentieri_NZ_CP062254.1	k91_223565	94.7		True
+CONTIG	k91_223565	914	correct
+4568536	4569164	656	27	Pectobacterium_parmentieri_NZ_CP062254.1	k91_150863	92.38		True
+indel: indel (> 5bp)
+4567595	4568412	1477	657	Pectobacterium_parmentieri_NZ_CP062254.1	k91_150863	95.74		True
+CONTIG	k91_150863	1477	correct
+3496259	3496353	1	95	Pectobacterium_parmentieri_NZ_CP062254.1	k91_44195	94.12		True
+relocation, inconsistency = 386773
+3883127	3883631	96	600	Pectobacterium_parmentieri_NZ_CP062254.1	k91_44195	91.34		True
+CONTIG	k91_44195	607	misassembled
+970441	971352	912	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_116010	93.64		True
+CONTIG	k91_116010	912	correct
+2239732	2240251	519	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_187560	95.77		True
+CONTIG	k91_187560	551	correct
+2687609	2688014	12	417	Pectobacterium_parmentieri_NZ_CP062254.1	k91_44344	92.12		True
+CONTIG	k91_44344	528	correct
+3292432	3292539	660	767	Pectobacterium_parmentieri_NZ_CP062254.1	k91_79957	96.3		True
+CONTIG	k91_79957	770	correct_unaligned
+4056852	4057476	1	625	Pectobacterium_parmentieri_NZ_CP062254.1	k91_223801	96.48		True
+CONTIG	k91_223801	631	correct
+366728	367001	9	282	Pectobacterium_parmentieri_NZ_CP062254.1	k91_223806	95.62		True
+indel: indel (> 5bp)
+367002	367587	305	890	Pectobacterium_parmentieri_NZ_CP062254.1	k91_223806	90.1		True
+CONTIG	k91_223806	906	correct
+1448091	1448839	769	21	Pectobacterium_parmentieri_NZ_CP062254.1	k91_7790	90.03		True
+CONTIG	k91_7790	797	correct
+1018347	1018885	606	68	Pectobacterium_parmentieri_NZ_CP062254.1	k91_223937	92.95		True
+CONTIG	k91_223937	606	correct
+4780629	4781367	75	813	Pectobacterium_parmentieri_NZ_CP062254.1	k91_224249	91.47		True
+CONTIG	k91_224249	817	correct
+4849611	4850340	245	974	Pectobacterium_parmentieri_NZ_CP062254.1	k91_116713	92.21		True
+CONTIG	k91_116713	980	correct
+4648426	4648932	1	507	Pectobacterium_parmentieri_NZ_CP062254.1	k91_45097	90.14		True
+CONTIG	k91_45097	513	correct
+3918737	3919401	1	658	Pectobacterium_parmentieri_NZ_CP062254.1	k91_45195	90.38		True
+CONTIG	k91_45195	658	correct
+2396221	2396800	1	578	Pectobacterium_parmentieri_NZ_CP062254.1	k91_224645	91.75		True
+CONTIG	k91_224645	635	correct
+679688	679870	1	183	Pectobacterium_parmentieri_NZ_CP062254.1	k91_117058	92.9		True
+CONTIG	k91_117058	778	correct_unaligned
+749780	750766	987	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_224703	91.49		True
+CONTIG	k91_224703	987	correct
+2363220	2364699	10	1489	Pectobacterium_parmentieri_NZ_CP062254.1	k91_152119	90.07		True
+CONTIG	k91_152119	1493	correct
+4842800	4843305	76	581	Pectobacterium_parmentieri_NZ_CP062254.1	k91_8994	90.71		True
+CONTIG	k91_8994	585	correct
+208612	209256	1	645	Pectobacterium_parmentieri_NZ_CP062254.1	k91_188985	91.33		True
+CONTIG	k91_188985	662	correct
+2293876	2294065	611	800	Pectobacterium_parmentieri_NZ_CP062254.1	k91_9090	95.26		True
+CONTIG	k91_9090	800	correct_unaligned
+3228113	3228626	514	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_9106	92.41		True
+CONTIG	k91_9106	515	correct
+4969786	4970539	1	754	Pectobacterium_parmentieri_NZ_CP062254.1	k91_225249	96.02		True
+CONTIG	k91_225249	754	correct
+4027150	4027464	1	315	Pectobacterium_parmentieri_NZ_CP062254.1	k91_9304	91.75		True
+CONTIG	k91_9304	841	correct_unaligned
+1313007	1313368	3	364	Pectobacterium_parmentieri_NZ_CP062254.1	k91_9352	95.03		True
+CONTIG	k91_9352	1934	correct_unaligned
+4792046	4793030	1067	83	Pectobacterium_parmentieri_NZ_CP062254.1	k91_9355	96.24		True
+CONTIG	k91_9355	1067	correct
+996196	996871	743	68	Pectobacterium_parmentieri_NZ_CP062254.1	k91_225427	93.2		True
+CONTIG	k91_225427	743	correct
+4927587	4928191	1	605	Pectobacterium_parmentieri_NZ_CP062254.1	k91_9573	92.4		True
+CONTIG	k91_9573	605	correct
+4610344	4610948	653	49	Pectobacterium_parmentieri_NZ_CP062254.1	k91_46309	92.07		True
+CONTIG	k91_46309	654	correct
+4425685	4426666	7	987	Pectobacterium_parmentieri_NZ_CP062254.1	k91_153154	92.17		True
+CONTIG	k91_153154	987	correct
+4541146	4542186	7	1047	Pectobacterium_parmentieri_NZ_CP062254.1	k91_9954	90.69		True
+CONTIG	k91_9954	1047	correct
+1593512	1594649	1140	3	Pectobacterium_parmentieri_NZ_CP062254.1	k91_82217	92.54		True
+CONTIG	k91_82217	1414	correct
+4213032	4213611	580	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_226008	96.55		True
+CONTIG	k91_226008	583	correct
+2708662	2709427	766	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_10090	91.64		True
+CONTIG	k91_10090	772	correct
+2904108	2904765	9	666	Pectobacterium_parmentieri_NZ_CP062254.1	k91_190113	92.86		True
+CONTIG	k91_190113	666	correct
+4404421	4404846	1085	660	Pectobacterium_parmentieri_NZ_CP062254.1	k91_153442	91.31		True
+CONTIG	k91_153442	1085	correct_unaligned
+4382656	4383559	901	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_46941	93.63		True
+CONTIG	k91_46941	901	correct
+4452382	4452923	10	551	Pectobacterium_parmentieri_NZ_CP062254.1	k91_190434	93.17		True
+CONTIG	k91_190434	551	correct
+4207579	4208320	93	834	Pectobacterium_parmentieri_NZ_CP062254.1	k91_261224	93.67		True
+CONTIG	k91_261224	834	correct
+3082307	3082816	510	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_153727	92.35		True
+CONTIG	k91_153727	516	correct
+1777531	1778165	192	826	Pectobacterium_parmentieri_NZ_CP062254.1	k91_190580	92.76		True
+CONTIG	k91_190580	848	correct
+184216	185220	1004	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_153821	90.79		True
+CONTIG	k91_153821	1008	correct
+4852111	4852703	70	662	Pectobacterium_parmentieri_NZ_CP062254.1	k91_47368	91.23		True
+CONTIG	k91_47368	1088	correct
+257622	258199	1	578	Pectobacterium_parmentieri_NZ_CP062254.1	k91_119008	93.25		True
+CONTIG	k91_119008	578	correct
+825729	827082	1354	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_190720	93.8		True
+CONTIG	k91_190720	1354	correct
+3278174	3278785	612	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_119026	92.65		True
+CONTIG	k91_119026	612	correct
+2891408	2892131	724	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_83021	90.07		True
+CONTIG	k91_83021	724	correct
+1566743	1567198	457	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_47523	91.9		True
+local misassembly
+1566264	1566520	734	478	Pectobacterium_parmentieri_NZ_CP062254.1	k91_47523	90.27		True
+CONTIG	k91_47523	764	correct
+38843	39572	730	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_10858	90.27		True
+CONTIG	k91_10858	730	correct
+3175130	3175457	52	381	Pectobacterium_parmentieri_NZ_CP062254.1	k91_47536	90.61		True
+CONTIG	k91_47536	1082	correct_unaligned
+4383469	4384123	656	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_190864	93.47		True
+CONTIG	k91_190864	656	correct
+4776517	4776848	1841	1510	Pectobacterium_parmentieri_NZ_CP062254.1	k91_154103	90.06		True
+CONTIG	k91_154103	1946	correct_unaligned
+4988931	4989434	153	656	Pectobacterium_parmentieri_NZ_CP062254.1	k91_154123	92.26		True
+CONTIG	k91_154123	656	correct
+4772548	4773806	6	1264	Pectobacterium_parmentieri_NZ_CP062254.1	k91_226877	93.33		True
+CONTIG	k91_226877	1264	correct
+4404934	4405383	453	4	Pectobacterium_parmentieri_NZ_CP062254.1	k91_226905	92.67		True
+CONTIG	k91_226905	570	correct
+4317565	4318520	4	959	Pectobacterium_parmentieri_NZ_CP062254.1	k91_47743	90.29		True
+CONTIG	k91_47743	964	correct
+2299388	2299895	1	520	Pectobacterium_parmentieri_NZ_CP062254.1	k91_83331	90.79		True
+CONTIG	k91_83331	536	correct
+1500831	1501132	346	45	Pectobacterium_parmentieri_NZ_CP062254.1	k91_261821	94.04		True
+indel: indel (> 5bp)
+1500660	1500830	547	377	Pectobacterium_parmentieri_NZ_CP062254.1	k91_261821	93.57		True
+CONTIG	k91_261821	547	correct
+4759493	4761025	1	1533	Pectobacterium_parmentieri_NZ_CP062254.1	k91_47843	92.77		True
+CONTIG	k91_47843	1533	correct
+1046013	1047401	1	1388	Pectobacterium_parmentieri_NZ_CP062254.1	k91_154296	93.59		True
+CONTIG	k91_154296	1393	correct
+3536025	3537046	1029	6	Pectobacterium_parmentieri_NZ_CP062254.1	k91_11144	90.53		True
+CONTIG	k91_11144	1029	correct
+894700	895395	728	1425	Pectobacterium_parmentieri_NZ_CP062254.1	k91_47870	90.31		True
+CONTIG	k91_47870	1440	correct_unaligned
+2712012	2712604	593	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_154417	95.28		True
+CONTIG	k91_154417	593	correct
+4432436	4433309	10	883	Pectobacterium_parmentieri_NZ_CP062254.1	k91_154427	93.94		True
+CONTIG	k91_154427	949	correct
+4053426	4054116	723	33	Pectobacterium_parmentieri_NZ_CP062254.1	k91_48062	90.88		True
+CONTIG	k91_48062	742	correct
+3330634	3331646	1013	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_119515	91.91		True
+CONTIG	k91_119515	1083	correct
+4906158	4906439	169	449	Pectobacterium_parmentieri_NZ_CP062254.1	k91_48068	91.13		True
+CONTIG	k91_48068	742	correct
+1286388	1288086	1705	7	Pectobacterium_parmentieri_NZ_CP062254.1	k91_83649	92.58		True
+CONTIG	k91_83649	1728	correct
+392055	392696	643	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_11374	91.28		True
+CONTIG	k91_11374	653	correct
+4663360	4664785	2	1425	Pectobacterium_parmentieri_NZ_CP062254.1	k91_154540	90.92		True
+CONTIG	k91_154540	1428	correct
+2860254	2861290	1049	13	Pectobacterium_parmentieri_NZ_CP062254.1	k91_191442	91.13		True
+CONTIG	k91_191442	1049	correct
+1402119	1402830	876	165	Pectobacterium_parmentieri_NZ_CP062254.1	k91_119669	90.03		True
+CONTIG	k91_119669	876	correct
+3784290	3784590	1538	1231	Pectobacterium_parmentieri_NZ_CP062254.1	k91_119753	90.58		True
+unknown
+3784039	3784289	1810	1560	Pectobacterium_parmentieri_NZ_CP062254.1	k91_119753	93.63		True
+unknown
+CONTIG	k91_119753	1810	mis_unaligned
+1579802	1580396	1	595	Pectobacterium_parmentieri_NZ_CP062254.1	k91_48373	92.1		True
+CONTIG	k91_48373	595	correct
+1808350	1808974	631	7	Pectobacterium_parmentieri_NZ_CP062254.1	k91_191612	90.72		True
+CONTIG	k91_191612	640	correct
+49710	50385	14	689	Pectobacterium_parmentieri_NZ_CP062254.1	k91_227799	96.15		True
+CONTIG	k91_227799	703	correct
+4449235	4449751	540	23	Pectobacterium_parmentieri_NZ_CP062254.1	k91_191783	90.54		True
+CONTIG	k91_191783	551	correct
+1226673	1226887	141	356	Pectobacterium_parmentieri_NZ_CP062254.1	k91_228027	90.28		True
+CONTIG	k91_228027	673	correct
+1288929	1289464	1	536	Pectobacterium_parmentieri_NZ_CP062254.1	k91_84313	90.67		True
+CONTIG	k91_84313	536	correct
+3209595	3210724	175	1304	Pectobacterium_parmentieri_NZ_CP062254.1	k91_48880	91.15		True
+CONTIG	k91_48880	1328	correct
+4944472	4944643	473	303	Pectobacterium_parmentieri_NZ_CP062254.1	k91_12175	93.06		True
+CONTIG	k91_12175	599	correct
+1615345	1616047	3	706	Pectobacterium_parmentieri_NZ_CP062254.1	k91_84513	90.06		True
+CONTIG	k91_84513	706	correct
+3997092	3998106	1194	181	Pectobacterium_parmentieri_NZ_CP062254.1	k91_49015	90.05		True
+CONTIG	k91_49015	1194	correct
+1001996	1003119	103	1227	Pectobacterium_parmentieri_NZ_CP062254.1	k91_84681	90.09		True
+CONTIG	k91_84681	1302	correct
+758510	759202	743	51	Pectobacterium_parmentieri_NZ_CP062254.1	k91_192365	90.04		True
+CONTIG	k91_192365	758	correct
+3065313	3065623	462	152	Pectobacterium_parmentieri_NZ_CP062254.1	k91_120494	92.93		True
+CONTIG	k91_120494	742	correct
+3206155	3206864	2	711	Pectobacterium_parmentieri_NZ_CP062254.1	k91_192391	94.65		True
+CONTIG	k91_192391	711	correct
+93550	94233	689	6	Pectobacterium_parmentieri_NZ_CP062254.1	k91_84752	94.3		True
+CONTIG	k91_84752	693	correct
+4019646	4020608	118	1091	Pectobacterium_parmentieri_NZ_CP062254.1	k91_192428	90.55		True
+CONTIG	k91_192428	1091	correct
+840554	841187	1365	1998	Pectobacterium_parmentieri_NZ_CP062254.1	k91_84809	90.85		True
+CONTIG	k91_84809	2235	correct_unaligned
+3521908	3522477	1	570	Pectobacterium_parmentieri_NZ_CP062254.1	k91_12565	92.81		True
+CONTIG	k91_12565	576	correct
+1201463	1202338	4	879	Pectobacterium_parmentieri_NZ_CP062254.1	k91_12579	94.31		True
+CONTIG	k91_12579	879	correct
+3229183	3230376	1194	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_155540	90.95		True
+CONTIG	k91_155540	1275	correct
+3974542	3975672	7	1137	Pectobacterium_parmentieri_NZ_CP062254.1	k91_84885	92.22		True
+CONTIG	k91_84885	1137	correct
+230614	231671	1162	105	Pectobacterium_parmentieri_NZ_CP062254.1	k91_155565	94.71		True
+CONTIG	k91_155565	1165	correct
+3891169	3891289	365	485	Pectobacterium_parmentieri_NZ_CP062254.1	k91_84906	95.87		True
+CONTIG	k91_84906	825	correct
+320325	321947	1	1623	Pectobacterium_parmentieri_NZ_CP062254.1	k91_85022	90.45		True
+CONTIG	k91_85022	1623	correct
+1839341	1840058	719	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_263340	90.39		True
+CONTIG	k91_263340	719	correct
+3017481	3017864	1	390	Pectobacterium_parmentieri_NZ_CP062254.1	k91_120938	90.26		True
+CONTIG	k91_120938	606	correct
+4889463	4890424	1	961	Pectobacterium_parmentieri_NZ_CP062254.1	k91_120969	90.58		True
+CONTIG	k91_120969	962	correct
+2398783	2399332	1	550	Pectobacterium_parmentieri_NZ_CP062254.1	k91_49749	93.27		True
+CONTIG	k91_49749	562	correct
+2342901	2343202	720	419	Pectobacterium_parmentieri_NZ_CP062254.1	k91_263467	91.39		True
+CONTIG	k91_263467	726	correct
+1674831	1675576	1	746	Pectobacterium_parmentieri_NZ_CP062254.1	k91_192981	92.09		True
+CONTIG	k91_192981	746	correct
+4911546	4912333	1	788	Pectobacterium_parmentieri_NZ_CP062254.1	k91_228998	95.81		True
+CONTIG	k91_228998	850	correct
+1184328	1185091	776	13	Pectobacterium_parmentieri_NZ_CP062254.1	k91_229029	91.53		True
+CONTIG	k91_229029	812	correct
+1067499	1067714	1199	985	Pectobacterium_parmentieri_NZ_CP062254.1	k91_49964	90.74		True
+CONTIG	k91_49964	1199	correct_unaligned
+4371881	4372480	1	600	Pectobacterium_parmentieri_NZ_CP062254.1	k91_121209	98.33		True
+CONTIG	k91_121209	600	correct
+248853	249546	6	699	Pectobacterium_parmentieri_NZ_CP062254.1	k91_193177	90.63		True
+CONTIG	k91_193177	701	correct
+235287	236362	1076	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_193213	92.12		True
+CONTIG	k91_193213	1076	correct
+4924934	4925761	828	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_156213	95.65		True
+CONTIG	k91_156213	828	correct
+4799103	4799467	585	221	Pectobacterium_parmentieri_NZ_CP062254.1	k91_156243	90.14		True
+CONTIG	k91_156243	598	correct
+4583560	4584216	1	657	Pectobacterium_parmentieri_NZ_CP062254.1	k91_229300	93.76		True
+CONTIG	k91_229300	657	correct
+3372585	3373324	740	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_50182	94.19		True
+CONTIG	k91_50182	740	correct
+4214299	4214966	724	57	Pectobacterium_parmentieri_NZ_CP062254.1	k91_13449	95.66		True
+CONTIG	k91_13449	743	correct
+2353355	2354108	818	65	Pectobacterium_parmentieri_NZ_CP062254.1	k91_13479	91.25		True
+CONTIG	k91_13479	818	correct
+1838136	1838336	1	201	Pectobacterium_parmentieri_NZ_CP062254.1	k91_50262	95.52		True
+CONTIG	k91_50262	2484	correct_unaligned
+3790553	3791060	519	12	Pectobacterium_parmentieri_NZ_CP062254.1	k91_193488	92.52		True
+CONTIG	k91_193488	519	correct
+2441997	2442513	824	308	Pectobacterium_parmentieri_NZ_CP062254.1	k91_229511	90.33		True
+CONTIG	k91_229511	835	correct
+2148740	2149613	874	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_264029	92.11		True
+CONTIG	k91_264029	881	correct
+88332	88536	218	14	Pectobacterium_parmentieri_NZ_CP062254.1	k91_229541	91.71		True
+CONTIG	k91_229541	837	correct_unaligned
+2928718	2929291	1	574	Pectobacterium_parmentieri_NZ_CP062254.1	k91_50422	98.26		True
+CONTIG	k91_50422	579	correct
+4135049	4135900	852	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_50523	93.19		True
+CONTIG	k91_50523	856	correct
+3392911	3394503	1602	10	Pectobacterium_parmentieri_NZ_CP062254.1	k91_229695	90.85		True
+CONTIG	k91_229695	1602	correct
+648267	649251	985	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_13762	90.46		True
+CONTIG	k91_13762	1014	correct
+850283	851061	845	67	Pectobacterium_parmentieri_NZ_CP062254.1	k91_156710	91.14		True
+CONTIG	k91_156710	845	correct
+4118681	4120674	37	2066	Pectobacterium_parmentieri_NZ_CP062254.1	k91_156816	90.82		True
+CONTIG	k91_156816	2073	correct
+3494003	3494463	488	28	Pectobacterium_parmentieri_NZ_CP062254.1	k91_50796	91.11		True
+CONTIG	k91_50796	508	correct
+3359583	3360361	797	19	Pectobacterium_parmentieri_NZ_CP062254.1	k91_14032	91.4		True
+CONTIG	k91_14032	803	correct
+672459	673056	4	601	Pectobacterium_parmentieri_NZ_CP062254.1	k91_194188	93.81		True
+CONTIG	k91_194188	603	correct
+4994232	4994718	673	189	Pectobacterium_parmentieri_NZ_CP062254.1	k91_264681	90.59		True
+CONTIG	k91_264681	717	correct
+2425816	2427341	1526	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_122268	92.46		True
+CONTIG	k91_122268	1526	correct
+4629637	4629903	268	534	Pectobacterium_parmentieri_NZ_CP062254.1	k91_86553	92.51		True
+CONTIG	k91_86553	534	correct
+3817147	3817933	10	795	Pectobacterium_parmentieri_NZ_CP062254.1	k91_14313	94.38		True
+CONTIG	k91_14313	817	correct
+2946224	2947077	8	861	Pectobacterium_parmentieri_NZ_CP062254.1	k91_14342	90.05		True
+CONTIG	k91_14342	863	correct
+665167	665707	541	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_51232	94.27		True
+CONTIG	k91_51232	552	correct
+4205248	4206685	1443	6	Pectobacterium_parmentieri_NZ_CP062254.1	k91_86721	90.9		True
+CONTIG	k91_86721	1465	correct
+2397351	2397938	1	603	Pectobacterium_parmentieri_NZ_CP062254.1	k91_14493	92.21		True
+CONTIG	k91_14493	607	correct
+3927595	3928470	1248	373	Pectobacterium_parmentieri_NZ_CP062254.1	k91_14512	95.56		True
+CONTIG	k91_14512	1248	correct
+4901099	4901889	12	802	Pectobacterium_parmentieri_NZ_CP062254.1	k91_157381	93.17		True
+CONTIG	k91_157381	802	correct
+870386	870566	605	425	Pectobacterium_parmentieri_NZ_CP062254.1	k91_230638	93.92		True
+CONTIG	k91_230638	642	correct
+4385397	4386023	1	627	Pectobacterium_parmentieri_NZ_CP062254.1	k91_194719	96.65		True
+CONTIG	k91_194719	627	correct
+3908397	3910637	2294	45	Pectobacterium_parmentieri_NZ_CP062254.1	k91_194727	90.17		True
+CONTIG	k91_194727	2295	correct
+3463512	3464390	1	879	Pectobacterium_parmentieri_NZ_CP062254.1	k91_122675	91.58		True
+CONTIG	k91_122675	890	correct
+1984412	1984874	470	8	Pectobacterium_parmentieri_NZ_CP062254.1	k91_86952	90.93		True
+CONTIG	k91_86952	591	correct
+2482329	2483245	1302	386	Pectobacterium_parmentieri_NZ_CP062254.1	k91_265240	93.13		True
+CONTIG	k91_265240	1302	correct
+365787	366693	211	1117	Pectobacterium_parmentieri_NZ_CP062254.1	k91_14777	94.49		True
+CONTIG	k91_14777	1123	correct
+1797078	1797910	833	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_230839	90.28		True
+CONTIG	k91_230839	1148	correct
+3695295	3695524	592	363	Pectobacterium_parmentieri_NZ_CP062254.1	k91_195001	94.35		True
+CONTIG	k91_195001	594	correct
+4585643	4586415	779	7	Pectobacterium_parmentieri_NZ_CP062254.1	k91_265490	93.66		True
+CONTIG	k91_265490	779	correct
+1949696	1950050	1	355	Pectobacterium_parmentieri_NZ_CP062254.1	k91_231078	90.42		True
+CONTIG	k91_231078	793	correct
+195925	196481	631	75	Pectobacterium_parmentieri_NZ_CP062254.1	k91_87446	91.76		True
+CONTIG	k91_87446	631	correct
+884837	885354	874	357	Pectobacterium_parmentieri_NZ_CP062254.1	k91_157905	90.73		True
+CONTIG	k91_157905	874	correct
+4368472	4369651	1	1178	Pectobacterium_parmentieri_NZ_CP062254.1	k91_231131	93.25		True
+CONTIG	k91_231131	1178	correct
+3832588	3833520	933	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_87576	91.21		True
+CONTIG	k91_87576	933	correct
+772221	772845	641	17	Pectobacterium_parmentieri_NZ_CP062254.1	k91_265880	91.2		True
+CONTIG	k91_265880	643	correct
+3417065	3418950	1	1892	Pectobacterium_parmentieri_NZ_CP062254.1	k91_231401	91.49		True
+CONTIG	k91_231401	1892	correct
+2582656	2582819	24	187	Pectobacterium_parmentieri_NZ_CP062254.1	k91_231441	90.85		True
+CONTIG	k91_231441	840	correct_unaligned
+4526515	4527572	1058	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_123473	92.63		True
+CONTIG	k91_123473	1069	correct
+2649049	2649892	1	844	Pectobacterium_parmentieri_NZ_CP062254.1	k91_231604	95.38		True
+CONTIG	k91_231604	844	correct
+4325561	4326620	10	1069	Pectobacterium_parmentieri_NZ_CP062254.1	k91_231671	93.58		True
+CONTIG	k91_231671	1069	correct
+3521127	3521812	686	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_88198	93.29		True
+CONTIG	k91_88198	686	correct
+1251193	1251974	782	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_15859	95.4		True
+CONTIG	k91_15859	792	correct
+3864803	3865637	835	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_123912	91.62		True
+CONTIG	k91_123912	845	correct
+237074	237962	1	889	Pectobacterium_parmentieri_NZ_CP062254.1	k91_196175	97.08		True
+CONTIG	k91_196175	889	correct
+4456648	4457564	4	920	Pectobacterium_parmentieri_NZ_CP062254.1	k91_196182	91.17		True
+CONTIG	k91_196182	920	correct
+2873220	2874072	1	853	Pectobacterium_parmentieri_NZ_CP062254.1	k91_88539	91.32		True
+CONTIG	k91_88539	856	correct
+731737	732396	2	661	Pectobacterium_parmentieri_NZ_CP062254.1	k91_16131	96.52		True
+CONTIG	k91_16131	661	correct
+4966860	4968540	1681	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_53078	91.34		True
+CONTIG	k91_53078	1681	correct
+3007149	3008700	1635	84	Pectobacterium_parmentieri_NZ_CP062254.1	k91_124193	91.3		True
+CONTIG	k91_124193	1639	correct
+4860907	4861549	1	643	Pectobacterium_parmentieri_NZ_CP062254.1	k91_158883	94.87		True
+CONTIG	k91_158883	643	correct
+3461895	3462635	11	766	Pectobacterium_parmentieri_NZ_CP062254.1	k91_158906	90.61		True
+CONTIG	k91_158906	780	correct
+3081681	3082089	406	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_232264	91.71		True
+CONTIG	k91_232264	603	correct
+4015455	4015803	527	179	Pectobacterium_parmentieri_NZ_CP062254.1	k91_53297	94.84		True
+CONTIG	k91_53297	527	correct
+628696	629310	616	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_159129	90.47		True
+CONTIG	k91_159129	1011	correct
+3042485	3042879	5	399	Pectobacterium_parmentieri_NZ_CP062254.1	k91_196682	92.91		True
+CONTIG	k91_196682	590	correct
+4384347	4384882	536	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_267095	92.55		True
+CONTIG	k91_267095	551	correct
+4942394	4942522	129	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_196828	100.0		True
+CONTIG	k91_196828	690	correct_unaligned
+4855481	4856663	5	1187	Pectobacterium_parmentieri_NZ_CP062254.1	k91_232704	90.03		True
+CONTIG	k91_232704	1187	correct
+346358	346926	2	570	Pectobacterium_parmentieri_NZ_CP062254.1	k91_89208	94.73		True
+CONTIG	k91_89208	748	correct
+4143317	4144610	56	1349	Pectobacterium_parmentieri_NZ_CP062254.1	k91_124853	91.58		True
+CONTIG	k91_124853	1398	correct
+4923305	4924817	1514	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_232790	96.76		True
+CONTIG	k91_232790	1514	correct
+592559	593258	700	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_159638	90.57		True
+CONTIG	k91_159638	734	correct
+1668695	1668776	605	686	Pectobacterium_parmentieri_NZ_CP062254.1	k91_53775	100.0		True
+CONTIG	k91_53775	686	correct_unaligned
+932421	933291	911	41	Pectobacterium_parmentieri_NZ_CP062254.1	k91_89454	93.46		True
+CONTIG	k91_89454	1127	correct
+243489	244936	1462	15	Pectobacterium_parmentieri_NZ_CP062254.1	k91_17177	90.68		True
+CONTIG	k91_17177	1462	correct
+4248233	4248549	70	386	Pectobacterium_parmentieri_NZ_CP062254.1	k91_89541	97.48		True
+CONTIG	k91_89541	573	correct
+1338145	1338762	1	618	Pectobacterium_parmentieri_NZ_CP062254.1	k91_159846	95.79		True
+CONTIG	k91_159846	618	correct
+3854525	3854786	169	430	Pectobacterium_parmentieri_NZ_CP062254.1	k91_53966	92.37		True
+CONTIG	k91_53966	865	correct
+2654483	2655974	1514	20	Pectobacterium_parmentieri_NZ_CP062254.1	k91_233159	91.32		True
+CONTIG	k91_233159	1514	correct
+3846269	3847231	216	1178	Pectobacterium_parmentieri_NZ_CP062254.1	k91_89594	93.04		True
+CONTIG	k91_89594	1178	correct
+4236630	4237242	613	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_17307	92.66		True
+CONTIG	k91_17307	613	correct
+832394	833109	1	717	Pectobacterium_parmentieri_NZ_CP062254.1	k91_159922	94.71		True
+CONTIG	k91_159922	903	correct
+4605297	4605685	574	186	Pectobacterium_parmentieri_NZ_CP062254.1	k91_197439	93.57		True
+CONTIG	k91_197439	580	correct
+3233211	3234383	1191	19	Pectobacterium_parmentieri_NZ_CP062254.1	k91_159961	92.68		True
+CONTIG	k91_159961	1191	correct
+2469106	2469409	343	646	Pectobacterium_parmentieri_NZ_CP062254.1	k91_17351	97.37		True
+CONTIG	k91_17351	646	correct
+4349819	4351615	1820	24	Pectobacterium_parmentieri_NZ_CP062254.1	k91_267876	90.54		True
+CONTIG	k91_267876	1826	correct
+3455631	3456541	1	911	Pectobacterium_parmentieri_NZ_CP062254.1	k91_267980	92.43		True
+CONTIG	k91_267980	921	correct
+806257	807065	818	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_125498	90.38		True
+CONTIG	k91_125498	820	correct
+3232267	3232864	34	631	Pectobacterium_parmentieri_NZ_CP062254.1	k91_268024	91.64		True
+CONTIG	k91_268024	648	correct
+2897254	2897834	710	130	Pectobacterium_parmentieri_NZ_CP062254.1	k91_160142	90.53		True
+CONTIG	k91_160142	827	correct
+314813	315467	1	655	Pectobacterium_parmentieri_NZ_CP062254.1	k91_268042	91.3		True
+CONTIG	k91_268042	661	correct
+3556418	3556825	13	420	Pectobacterium_parmentieri_NZ_CP062254.1	k91_89918	90.2		True
+indel: indel (> 5bp)
+3556951	3557252	421	721	Pectobacterium_parmentieri_NZ_CP062254.1	k91_89918	98.34		True
+CONTIG	k91_89918	814	correct
+3866871	3867324	510	57	Pectobacterium_parmentieri_NZ_CP062254.1	k91_125577	91.85		True
+CONTIG	k91_125577	527	correct
+4971563	4972168	606	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_54327	97.03		True
+CONTIG	k91_54327	606	correct
+4874297	4874838	931	389	Pectobacterium_parmentieri_NZ_CP062254.1	k91_268153	91.53		True
+CONTIG	k91_268153	931	correct
+1061295	1061419	264	140	Pectobacterium_parmentieri_NZ_CP062254.1	k91_125667	97.6		True
+CONTIG	k91_125667	502	correct
+851085	851551	464	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_160296	92.95		True
+CONTIG	k91_160296	638	correct
+3281914	3283727	1	1814	Pectobacterium_parmentieri_NZ_CP062254.1	k91_233795	94.1		True
+CONTIG	k91_233795	1839	correct
+3221969	3222974	1066	61	Pectobacterium_parmentieri_NZ_CP062254.1	k91_233834	93.24		True
+CONTIG	k91_233834	1067	correct
+1987998	1988652	682	28	Pectobacterium_parmentieri_NZ_CP062254.1	k91_233847	92.06		True
+CONTIG	k91_233847	1038	correct
+4629467	4630087	623	3	Pectobacterium_parmentieri_NZ_CP062254.1	k91_268411	91.03		True
+CONTIG	k91_268411	623	correct
+211644	212250	109	715	Pectobacterium_parmentieri_NZ_CP062254.1	k91_234057	94.07		True
+CONTIG	k91_234057	715	correct
+1983064	1983794	3	733	Pectobacterium_parmentieri_NZ_CP062254.1	k91_160769	90.85		True
+CONTIG	k91_160769	733	correct
+3970049	3970389	344	5	Pectobacterium_parmentieri_NZ_CP062254.1	k91_234291	92.08		True
+CONTIG	k91_234291	659	correct
+586727	587208	841	360	Pectobacterium_parmentieri_NZ_CP062254.1	k91_55196	92.55		True
+CONTIG	k91_55196	841	correct
+4298087	4298824	10	747	Pectobacterium_parmentieri_NZ_CP062254.1	k91_198482	94.72		True
+CONTIG	k91_198482	747	correct
+1948553	1949408	1	856	Pectobacterium_parmentieri_NZ_CP062254.1	k91_55260	91.24		True
+CONTIG	k91_55260	862	correct
+1317604	1318285	688	6	Pectobacterium_parmentieri_NZ_CP062254.1	k91_55299	94.29		True
+CONTIG	k91_55299	854	correct
+3444177	3444810	634	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_198556	91.64		True
+CONTIG	k91_198556	634	correct
+4599162	4600149	1005	18	Pectobacterium_parmentieri_NZ_CP062254.1	k91_90800	91.3		True
+CONTIG	k91_90800	1005	correct
+4379431	4380497	1067	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_18506	98.41		True
+CONTIG	k91_18506	1067	correct
+3368618	3369239	653	32	Pectobacterium_parmentieri_NZ_CP062254.1	k91_18589	90.03		True
+CONTIG	k91_18589	888	correct
+866217	866800	585	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_269263	90.07		True
+CONTIG	k91_269263	585	correct
+191940	192570	102	742	Pectobacterium_parmentieri_NZ_CP062254.1	k91_198907	92.22		True
+CONTIG	k91_198907	742	correct
+467848	468601	754	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_269393	92.18		True
+CONTIG	k91_269393	759	correct
+4412534	4413225	1	692	Pectobacterium_parmentieri_NZ_CP062254.1	k91_55665	93.5		True
+CONTIG	k91_55665	694	correct
+127371	127603	1829	2061	Pectobacterium_parmentieri_NZ_CP062254.1	k91_234763	93.56		True
+CONTIG	k91_234763	2064	correct_unaligned
+2870369	2870775	406	3	Pectobacterium_parmentieri_NZ_CP062254.1	k91_161422	91.4		True
+CONTIG	k91_161422	988	correct_unaligned
+2634345	2634626	296	15	Pectobacterium_parmentieri_NZ_CP062254.1	k91_269460	93.62		True
+CONTIG	k91_269460	1549	correct_unaligned
+24791	25398	7	614	Pectobacterium_parmentieri_NZ_CP062254.1	k91_234799	91.78		True
+CONTIG	k91_234799	618	correct
+4372395	4372993	1	599	Pectobacterium_parmentieri_NZ_CP062254.1	k91_234904	97.5		True
+CONTIG	k91_234904	599	correct
+106243	107065	837	15	Pectobacterium_parmentieri_NZ_CP062254.1	k91_269661	93.82		True
+CONTIG	k91_269661	841	correct
+2220553	2220740	801	613	Pectobacterium_parmentieri_NZ_CP062254.1	k91_234981	93.12		True
+CONTIG	k91_234981	872	correct_unaligned
+4834266	4835038	892	1665	Pectobacterium_parmentieri_NZ_CP062254.1	k91_161743	90.96		True
+CONTIG	k91_161743	1665	correct_unaligned
+2960472	2960618	145	291	Pectobacterium_parmentieri_NZ_CP062254.1	k91_91501	97.28		True
+CONTIG	k91_91501	527	correct
+4603507	4604215	68	776	Pectobacterium_parmentieri_NZ_CP062254.1	k91_19019	91.41		True
+CONTIG	k91_19019	776	correct
+815785	816626	842	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_199412	96.67		True
+CONTIG	k91_199412	842	correct
+2226306	2226432	6	132	Pectobacterium_parmentieri_NZ_CP062254.1	k91_269950	94.49		True
+CONTIG	k91_269950	641	correct_unaligned
+4415626	4415917	304	13	Pectobacterium_parmentieri_NZ_CP062254.1	k91_235328	92.15		True
+CONTIG	k91_235328	1537	correct_unaligned
+1905296	1905822	538	12	Pectobacterium_parmentieri_NZ_CP062254.1	k91_162060	91.27		True
+CONTIG	k91_162060	785	correct
+2613581	2613732	200	49	Pectobacterium_parmentieri_NZ_CP062254.1	k91_162157	90.79		True
+CONTIG	k91_162157	573	correct
+802972	803535	565	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_56361	97.53		True
+CONTIG	k91_56361	565	correct
+3514372	3514832	8	468	Pectobacterium_parmentieri_NZ_CP062254.1	k91_199713	90.67		True
+CONTIG	k91_199713	553	correct
+527519	528111	1	593	Pectobacterium_parmentieri_NZ_CP062254.1	k91_56410	91.23		True
+CONTIG	k91_56410	700	correct
+3591696	3592601	983	80	Pectobacterium_parmentieri_NZ_CP062254.1	k91_92055	91.53		True
+CONTIG	k91_92055	1009	correct
+1665347	1665610	265	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_235587	90.94		True
+CONTIG	k91_235587	770	correct_unaligned
+3941187	3941554	4	371	Pectobacterium_parmentieri_NZ_CP062254.1	k91_19573	91.08		True
+CONTIG	k91_19573	589	correct
+2706355	2706548	213	18	Pectobacterium_parmentieri_NZ_CP062254.1	k91_235678	92.35		True
+unknown
+2706174	2706254	1322	1242	Pectobacterium_parmentieri_NZ_CP062254.1	k91_235678	97.53		True
+unknown
+CONTIG	k91_235678	1345	mis_unaligned
+1956556	1957333	22	800	Pectobacterium_parmentieri_NZ_CP062254.1	k91_19681	92.2		True
+CONTIG	k91_19681	800	correct
+4408466	4409549	1	1084	Pectobacterium_parmentieri_NZ_CP062254.1	k91_127840	95.66		True
+CONTIG	k91_127840	1858	correct
+1904198	1904655	649	193	Pectobacterium_parmentieri_NZ_CP062254.1	k91_92381	90.17		True
+CONTIG	k91_92381	655	correct
+4319996	4320513	3	520	Pectobacterium_parmentieri_NZ_CP062254.1	k91_270734	90.35		True
+CONTIG	k91_270734	523	correct
+2007222	2007770	549	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_162648	91.07		True
+CONTIG	k91_162648	549	correct
+4321054	4322151	1188	91	Pectobacterium_parmentieri_NZ_CP062254.1	k91_92618	90.35		True
+CONTIG	k91_92618	1188	correct
+2541480	2542325	5	844	Pectobacterium_parmentieri_NZ_CP062254.1	k91_271008	94.56		True
+CONTIG	k91_271008	844	correct
+1394903	1395615	26	738	Pectobacterium_parmentieri_NZ_CP062254.1	k91_236328	93.27		True
+CONTIG	k91_236328	740	correct
+1933032	1933475	448	5	Pectobacterium_parmentieri_NZ_CP062254.1	k91_57239	93.92		True
+CONTIG	k91_57239	1094	correct_unaligned
+3869576	3872110	106	2639	Pectobacterium_parmentieri_NZ_CP062254.1	k91_200686	95.46		True
+CONTIG	k91_200686	2643	correct
+3836886	3837394	736	228	Pectobacterium_parmentieri_NZ_CP062254.1	k91_92891	90.96		True
+CONTIG	k91_92891	758	correct
+4237049	4237944	903	8	Pectobacterium_parmentieri_NZ_CP062254.1	k91_20301	94.87		True
+CONTIG	k91_20301	903	correct
+4805643	4806451	12	819	Pectobacterium_parmentieri_NZ_CP062254.1	k91_20308	91.23		True
+CONTIG	k91_20308	826	correct
+3266543	3266898	198	553	Pectobacterium_parmentieri_NZ_CP062254.1	k91_236483	91.01		True
+CONTIG	k91_236483	553	correct
+4815128	4815330	440	238	Pectobacterium_parmentieri_NZ_CP062254.1	k91_57373	94.58		True
+CONTIG	k91_57373	940	correct
+3551606	3552706	1102	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_57554	92.47		True
+CONTIG	k91_57554	1118	correct
+1959992	1960383	402	11	Pectobacterium_parmentieri_NZ_CP062254.1	k91_163264	92.6		True
+CONTIG	k91_163264	664	correct
+4022683	4023516	1	841	Pectobacterium_parmentieri_NZ_CP062254.1	k91_57575	90.51		True
+CONTIG	k91_57575	841	correct
+3383272	3383577	306	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_20585	93.14		True
+CONTIG	k91_20585	657	correct
+824507	825537	1	1031	Pectobacterium_parmentieri_NZ_CP062254.1	k91_57695	96.51		True
+CONTIG	k91_57695	1031	correct
+488945	489447	945	441	Pectobacterium_parmentieri_NZ_CP062254.1	k91_163370	94.85		True
+CONTIG	k91_163370	949	correct
+4606655	4607206	553	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_201113	91.89		True
+CONTIG	k91_201113	553	correct
+2043549	2044205	1	657	Pectobacterium_parmentieri_NZ_CP062254.1	k91_271803	93.61		True
+CONTIG	k91_271803	658	correct
+813153	815068	57	1970	Pectobacterium_parmentieri_NZ_CP062254.1	k91_236965	90.03		True
+CONTIG	k91_236965	1970	correct
+4584147	4584968	842	21	Pectobacterium_parmentieri_NZ_CP062254.1	k91_57876	92.7		True
+CONTIG	k91_57876	842	correct
+1216702	1217055	24	377	Pectobacterium_parmentieri_NZ_CP062254.1	k91_201288	92.66		True
+relocation, inconsistency = 1900373
+3117504	3117660	453	608	Pectobacterium_parmentieri_NZ_CP062254.1	k91_201288	93.63		True
+relocation, inconsistency = 906969
+4024630	4024696	675	609	Pectobacterium_parmentieri_NZ_CP062254.1	k91_201288	96.7		True
+CONTIG	k91_201288	676	misassembled
+3067688	3068484	1	797	Pectobacterium_parmentieri_NZ_CP062254.1	k91_201354	90.21		True
+CONTIG	k91_201354	797	correct
+3520067	3520792	726	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_58033	96.01		True
+CONTIG	k91_58033	920	correct
+3436860	3437489	4	633	Pectobacterium_parmentieri_NZ_CP062254.1	k91_201434	95.71		True
+CONTIG	k91_201434	633	correct
+2179318	2180639	1328	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_58041	90.2		True
+CONTIG	k91_58041	1562	correct
+3303606	3304532	950	10	Pectobacterium_parmentieri_NZ_CP062254.1	k91_58048	90.22		True
+CONTIG	k91_58048	950	correct
+935709	937279	1	1571	Pectobacterium_parmentieri_NZ_CP062254.1	k91_58078	90.01		True
+CONTIG	k91_58078	1571	correct
+4898787	4899298	1	512	Pectobacterium_parmentieri_NZ_CP062254.1	k91_58117	91.8		True
+CONTIG	k91_58117	512	correct
+1866280	1866671	518	127	Pectobacterium_parmentieri_NZ_CP062254.1	k91_93757	91.33		True
+CONTIG	k91_93757	553	correct
+3716112	3716953	5	845	Pectobacterium_parmentieri_NZ_CP062254.1	k91_237284	91.61		True
+CONTIG	k91_237284	845	correct
+3121414	3122358	941	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_163807	90.48		True
+CONTIG	k91_163807	973	correct
+1845852	1846392	214	754	Pectobacterium_parmentieri_NZ_CP062254.1	k91_21051	92.08		True
+CONTIG	k91_21051	754	correct
+116850	117387	31	563	Pectobacterium_parmentieri_NZ_CP062254.1	k91_58350	93.12		True
+indel: indel (> 5bp)
+117418	118633	564	1779	Pectobacterium_parmentieri_NZ_CP062254.1	k91_58350	90.62		True
+CONTIG	k91_58350	1882	correct
+3953690	3954420	731	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_237548	90.29		True
+CONTIG	k91_237548	731	correct
+3580105	3580803	748	50	Pectobacterium_parmentieri_NZ_CP062254.1	k91_129627	90.99		True
+CONTIG	k91_129627	752	correct
+4366763	4367873	1111	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_272442	90.64		True
+CONTIG	k91_272442	1114	correct
+254263	256433	2186	6	Pectobacterium_parmentieri_NZ_CP062254.1	k91_237637	93.4		True
+CONTIG	k91_237637	2186	correct
+1585375	1586404	1	1030	Pectobacterium_parmentieri_NZ_CP062254.1	k91_237756	94.17		True
+CONTIG	k91_237756	1030	correct
+249494	250591	4	1101	Pectobacterium_parmentieri_NZ_CP062254.1	k91_164274	91.26		True
+CONTIG	k91_164274	1101	correct
+783807	784399	593	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_164366	91.74		True
+CONTIG	k91_164366	597	correct
+748735	749445	130	840	Pectobacterium_parmentieri_NZ_CP062254.1	k91_94438	91.01		True
+CONTIG	k91_94438	840	correct
+801007	801583	577	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_21588	97.57		True
+CONTIG	k91_21588	577	correct
+3884289	3884750	718	257	Pectobacterium_parmentieri_NZ_CP062254.1	k91_94464	90.48		True
+CONTIG	k91_94464	718	correct
+1621689	1622650	1	963	Pectobacterium_parmentieri_NZ_CP062254.1	k91_272790	90.45		True
+CONTIG	k91_272790	1208	correct
+2549725	2550114	401	12	Pectobacterium_parmentieri_NZ_CP062254.1	k91_21653	91.09		True
+CONTIG	k91_21653	674	correct
+3739168	3740673	1573	68	Pectobacterium_parmentieri_NZ_CP062254.1	k91_130080	90.21		True
+CONTIG	k91_130080	1573	correct
+1812776	1813426	651	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_130089	90.2		True
+CONTIG	k91_130089	708	correct
+334348	334948	612	12	Pectobacterium_parmentieri_NZ_CP062254.1	k91_238086	95.67		True
+CONTIG	k91_238086	618	correct
+1590634	1592045	8	1419	Pectobacterium_parmentieri_NZ_CP062254.1	k91_21758	95.4		True
+CONTIG	k91_21758	1419	correct
+1291397	1291487	441	531	Pectobacterium_parmentieri_NZ_CP062254.1	k91_272939	95.6		True
+CONTIG	k91_272939	531	correct
+88328	88534	583	377	Pectobacterium_parmentieri_NZ_CP062254.1	k91_130181	91.79		True
+CONTIG	k91_130181	833	correct
+520382	520572	528	338	Pectobacterium_parmentieri_NZ_CP062254.1	k91_238226	93.72		True
+unknown
+524124	524336	863	653	Pectobacterium_parmentieri_NZ_CP062254.1	k91_238226	93.43		True
+unknown
+CONTIG	k91_238226	863	mis_unaligned
+1182186	1182350	682	518	Pectobacterium_parmentieri_NZ_CP062254.1	k91_238258	90.91		True
+CONTIG	k91_238258	775	correct_unaligned
+3134444	3135994	25	1574	Pectobacterium_parmentieri_NZ_CP062254.1	k91_59282	90.91		True
+CONTIG	k91_59282	1574	correct
+494632	495041	205	614	Pectobacterium_parmentieri_NZ_CP062254.1	k91_95013	90.0		True
+CONTIG	k91_95013	679	correct
+1654763	1655087	866	1190	Pectobacterium_parmentieri_NZ_CP062254.1	k91_59526	91.38		True
+CONTIG	k91_59526	1190	correct_unaligned
+4562461	4564225	1	1765	Pectobacterium_parmentieri_NZ_CP062254.1	k91_273403	92.13		True
+CONTIG	k91_273403	1777	correct
+1179636	1180276	6	646	Pectobacterium_parmentieri_NZ_CP062254.1	k91_238639	90.95		True
+CONTIG	k91_238639	649	correct
+1077410	1079235	12	1838	Pectobacterium_parmentieri_NZ_CP062254.1	k91_59630	90.13		True
+CONTIG	k91_59630	1857	correct
+4376887	4377712	1	826	Pectobacterium_parmentieri_NZ_CP062254.1	k91_59689	95.04		True
+CONTIG	k91_59689	826	correct
+1507600	1507784	91	275	Pectobacterium_parmentieri_NZ_CP062254.1	k91_238773	90.81		True
+CONTIG	k91_238773	623	correct
+457745	457990	12	258	Pectobacterium_parmentieri_NZ_CP062254.1	k91_59748	90.32		True
+CONTIG	k91_59748	554	correct
+1023368	1024277	1367	458	Pectobacterium_parmentieri_NZ_CP062254.1	k91_203032	90.45		True
+CONTIG	k91_203032	1374	correct
+4841999	4842591	655	63	Pectobacterium_parmentieri_NZ_CP062254.1	k91_203066	92.27		True
+CONTIG	k91_203066	658	correct
+2091025	2091246	126	347	Pectobacterium_parmentieri_NZ_CP062254.1	k91_59904	95.05		True
+CONTIG	k91_59904	1118	correct_unaligned
+1672891	1673822	940	9	Pectobacterium_parmentieri_NZ_CP062254.1	k91_238996	90.41		True
+CONTIG	k91_238996	1157	correct
+843762	843991	528	299	Pectobacterium_parmentieri_NZ_CP062254.1	k91_203241	93.04		True
+CONTIG	k91_203241	531	correct
+1193455	1194050	596	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_273949	91.95		True
+CONTIG	k91_273949	596	correct
+1227583	1228439	929	74	Pectobacterium_parmentieri_NZ_CP062254.1	k91_60056	90.55		True
+CONTIG	k91_60056	929	correct
+188106	189076	971	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_95720	91.76		True
+CONTIG	k91_95720	985	correct
+947533	948004	472	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_274027	91.53		True
+CONTIG	k91_274027	1781	correct_unaligned
+2042171	2042969	808	10	Pectobacterium_parmentieri_NZ_CP062254.1	k91_239222	91.36		True
+CONTIG	k91_239222	856	correct
+4992523	4993107	585	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_95782	93.85		True
+CONTIG	k91_95782	585	correct
+3789909	3790243	387	53	Pectobacterium_parmentieri_NZ_CP062254.1	k91_131315	91.04		True
+CONTIG	k91_131315	501	correct
+4961251	4963585	8	2342	Pectobacterium_parmentieri_NZ_CP062254.1	k91_60212	91.78		True
+CONTIG	k91_60212	2342	correct
+2177914	2178510	597	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_239345	90.95		True
+CONTIG	k91_239345	622	correct
+1559059	1559760	1	702	Pectobacterium_parmentieri_NZ_CP062254.1	k91_60404	98.43		True
+CONTIG	k91_60404	702	correct
+353674	353870	325	129	Pectobacterium_parmentieri_NZ_CP062254.1	k91_131502	90.86		True
+CONTIG	k91_131502	564	correct
+4122406	4122978	12	586	Pectobacterium_parmentieri_NZ_CP062254.1	k91_239658	91.83		True
+indel: indel (> 5bp)
+4122979	4124120	639	1782	Pectobacterium_parmentieri_NZ_CP062254.1	k91_239658	90.03		True
+CONTIG	k91_239658	1786	correct
+2343714	2344274	2	562	Pectobacterium_parmentieri_NZ_CP062254.1	k91_239676	90.91		True
+CONTIG	k91_239676	562	correct
+4789336	4789736	4	404	Pectobacterium_parmentieri_NZ_CP062254.1	k91_204084	95.76		True
+CONTIG	k91_204084	706	correct
+4762712	4763388	2	678	Pectobacterium_parmentieri_NZ_CP062254.1	k91_96296	90.1		True
+CONTIG	k91_96296	678	correct
+990841	991808	32	1002	Pectobacterium_parmentieri_NZ_CP062254.1	k91_274696	91.58		True
+CONTIG	k91_274696	1081	correct
+3517665	3517944	880	601	Pectobacterium_parmentieri_NZ_CP062254.1	k91_166357	91.07		True
+CONTIG	k91_166357	880	correct_unaligned
+92179	92606	428	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_23510	92.52		True
+CONTIG	k91_23510	1047	correct_unaligned
+1867152	1867630	88	566	Pectobacterium_parmentieri_NZ_CP062254.1	k91_166426	90.19		True
+CONTIG	k91_166426	572	correct
+2916486	2917525	1116	79	Pectobacterium_parmentieri_NZ_CP062254.1	k91_166434	93.56		True
+CONTIG	k91_166434	1116	correct
+3383722	3384619	1	903	Pectobacterium_parmentieri_NZ_CP062254.1	k91_166531	90.81		True
+CONTIG	k91_166531	903	correct
+2664323	2664757	435	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_204354	91.3		True
+CONTIG	k91_204354	531	correct
+3830094	3830598	11	517	Pectobacterium_parmentieri_NZ_CP062254.1	k91_61039	92.11		True
+CONTIG	k91_61039	517	correct
+4654716	4655217	1	502	Pectobacterium_parmentieri_NZ_CP062254.1	k91_240116	92.43		True
+CONTIG	k91_240116	502	correct
+3917585	3918123	539	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_204423	90.17		True
+CONTIG	k91_204423	546	correct
+129212	130002	826	22	Pectobacterium_parmentieri_NZ_CP062254.1	k91_61080	90.68		True
+CONTIG	k91_61080	829	correct
+2703073	2703571	528	30	Pectobacterium_parmentieri_NZ_CP062254.1	k91_132272	92.2		True
+CONTIG	k91_132272	528	correct
+4343107	4344036	11	942	Pectobacterium_parmentieri_NZ_CP062254.1	k91_204534	91.85		True
+CONTIG	k91_204534	942	correct
+1246002	1246356	13	368	Pectobacterium_parmentieri_NZ_CP062254.1	k91_132628	95.22		True
+CONTIG	k91_132628	658	correct
+2767594	2768224	630	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_132712	93.66		True
+CONTIG	k91_132712	640	correct
+3948003	3948720	722	5	Pectobacterium_parmentieri_NZ_CP062254.1	k91_240679	93.45		True
+CONTIG	k91_240679	722	correct
+3801156	3802119	3	966	Pectobacterium_parmentieri_NZ_CP062254.1	k91_204964	90.25		True
+CONTIG	k91_204964	989	correct
+4469707	4470403	1	697	Pectobacterium_parmentieri_NZ_CP062254.1	k91_61638	90.53		True
+CONTIG	k91_61638	697	correct
+392783	393434	1	652	Pectobacterium_parmentieri_NZ_CP062254.1	k91_240705	93.87		True
+CONTIG	k91_240705	681	correct
+2207080	2207933	1	854	Pectobacterium_parmentieri_NZ_CP062254.1	k91_24343	91.69		True
+CONTIG	k91_24343	874	correct
+960042	960762	721	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_24356	91.96		True
+CONTIG	k91_24356	745	correct
+3400364	3401823	1464	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_240824	90.44		True
+CONTIG	k91_240824	1473	correct
+3583854	3584461	1	606	Pectobacterium_parmentieri_NZ_CP062254.1	k91_132995	90.13		True
+CONTIG	k91_132995	611	correct
+658898	659398	501	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_275947	91.02		True
+CONTIG	k91_275947	505	correct
+4964241	4965132	891	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_24583	95.96		True
+CONTIG	k91_24583	891	correct
+999406	1000034	752	124	Pectobacterium_parmentieri_NZ_CP062254.1	k91_167441	90.62		True
+CONTIG	k91_167441	758	correct
+1945338	1945677	340	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_24622	92.06		True
+CONTIG	k91_24622	518	correct
+192592	195541	3	2966	Pectobacterium_parmentieri_NZ_CP062254.1	k91_276016	91.64		True
+CONTIG	k91_276016	2966	correct
+4866058	4866866	809	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_62076	91.22		True
+CONTIG	k91_62076	1125	correct
+1247798	1249088	1715	425	Pectobacterium_parmentieri_NZ_CP062254.1	k91_97670	90.16		True
+CONTIG	k91_97670	1715	correct
+5017356	5018250	895	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_97720	91.96		True
+CONTIG	k91_97720	1385	correct
+3469744	3470249	1	509	Pectobacterium_parmentieri_NZ_CP062254.1	k91_205522	90.57		True
+CONTIG	k91_205522	533	correct
+2198169	2199187	1013	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_24825	90.09		True
+CONTIG	k91_24825	1013	correct
+1117553	1118028	60	535	Pectobacterium_parmentieri_NZ_CP062254.1	k91_276253	90.76		True
+CONTIG	k91_276253	564	correct
+997875	999289	5	1419	Pectobacterium_parmentieri_NZ_CP062254.1	k91_167789	90.2		True
+CONTIG	k91_167789	1426	correct
+2971395	2972133	1	742	Pectobacterium_parmentieri_NZ_CP062254.1	k91_133430	90.75		True
+CONTIG	k91_133430	754	correct
+4953750	4955443	1696	4	Pectobacterium_parmentieri_NZ_CP062254.1	k91_98001	90.38		True
+CONTIG	k91_98001	1696	correct
+4894487	4895844	79	1436	Pectobacterium_parmentieri_NZ_CP062254.1	k91_276521	91.9		True
+CONTIG	k91_276521	1436	correct
+3272200	3272802	3	605	Pectobacterium_parmentieri_NZ_CP062254.1	k91_98038	94.53		True
+CONTIG	k91_98038	610	correct
+5026299	5028033	2513	779	Pectobacterium_parmentieri_NZ_CP062254.1	k91_205840	92.91		True
+CONTIG	k91_205840	2513	correct
+3527110	3527820	710	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_241574	96.06		True
+CONTIG	k91_241574	714	correct
+3002706	3003140	13	447	Pectobacterium_parmentieri_NZ_CP062254.1	k91_276654	90.11		True
+CONTIG	k91_276654	923	correct
+1958067	1959127	1080	20	Pectobacterium_parmentieri_NZ_CP062254.1	k91_168159	93.97		True
+CONTIG	k91_168159	1141	correct
+2208017	2208831	842	28	Pectobacterium_parmentieri_NZ_CP062254.1	k91_168181	90.18		True
+CONTIG	k91_168181	842	correct
+1194921	1195520	1575	976	Pectobacterium_parmentieri_NZ_CP062254.1	k91_241797	90.67		True
+CONTIG	k91_241797	1575	correct_unaligned
+231790	232143	200	553	Pectobacterium_parmentieri_NZ_CP062254.1	k91_276933	98.31		True
+CONTIG	k91_276933	553	correct
+2764165	2764761	597	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_277020	92.13		True
+CONTIG	k91_277020	600	correct
+1573518	1574220	703	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_206302	96.44		True
+CONTIG	k91_206302	706	correct
+210076	211726	1	1651	Pectobacterium_parmentieri_NZ_CP062254.1	k91_25509	90.79		True
+CONTIG	k91_25509	1651	correct
+652740	653126	455	69	Pectobacterium_parmentieri_NZ_CP062254.1	k91_277123	91.99		True
+CONTIG	k91_277123	744	correct
+1460001	1460207	206	412	Pectobacterium_parmentieri_NZ_CP062254.1	k91_242128	91.79		True
+CONTIG	k91_242128	595	correct
+1665540	1666229	690	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_277159	90.0		True
+CONTIG	k91_277159	690	correct
+1056889	1057461	1	573	Pectobacterium_parmentieri_NZ_CP062254.1	k91_63223	91.84		True
+CONTIG	k91_63223	575	correct
+4592156	4592234	539	617	Pectobacterium_parmentieri_NZ_CP062254.1	k91_242252	98.73		True
+CONTIG	k91_242252	758	correct_unaligned
+4818622	4819238	620	4	Pectobacterium_parmentieri_NZ_CP062254.1	k91_63267	90.92		True
+CONTIG	k91_63267	620	correct
+2778569	2778787	761	979	Pectobacterium_parmentieri_NZ_CP062254.1	k91_277301	94.52		True
+CONTIG	k91_277301	1249	correct_unaligned
+4386025	4386603	579	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_25808	90.57		True
+CONTIG	k91_25808	579	correct
+4373058	4373628	575	5	Pectobacterium_parmentieri_NZ_CP062254.1	k91_63385	90.89		True
+CONTIG	k91_63385	580	correct
+1315897	1316978	1080	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_206746	95.76		True
+CONTIG	k91_206746	1080	correct
+4227808	4228499	684	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_277512	94.22		True
+CONTIG	k91_277512	684	correct
+1554383	1555919	1	1537	Pectobacterium_parmentieri_NZ_CP062254.1	k91_277537	92.0		True
+CONTIG	k91_277537	1537	correct
+3270975	3271456	869	388	Pectobacterium_parmentieri_NZ_CP062254.1	k91_169001	92.95		True
+CONTIG	k91_169001	869	correct
+241149	241651	513	11	Pectobacterium_parmentieri_NZ_CP062254.1	k91_99061	97.22		True
+CONTIG	k91_99061	513	correct
+1592579	1593599	1022	5	Pectobacterium_parmentieri_NZ_CP062254.1	k91_242599	91.87		True
+CONTIG	k91_242599	1026	correct
+4751342	4751745	601	198	Pectobacterium_parmentieri_NZ_CP062254.1	k91_206903	90.35		True
+CONTIG	k91_206903	651	correct
+3806825	3807792	980	13	Pectobacterium_parmentieri_NZ_CP062254.1	k91_169102	90.94		True
+CONTIG	k91_169102	980	correct
+3193695	3194675	1	982	Pectobacterium_parmentieri_NZ_CP062254.1	k91_63711	91.15		True
+CONTIG	k91_63711	982	correct
+3933677	3934121	35	479	Pectobacterium_parmentieri_NZ_CP062254.1	k91_242696	91.46		True
+CONTIG	k91_242696	584	correct
+4164893	4165513	13	633	Pectobacterium_parmentieri_NZ_CP062254.1	k91_26119	94.2		True
+CONTIG	k91_26119	633	correct
+3270034	3270621	595	8	Pectobacterium_parmentieri_NZ_CP062254.1	k91_242736	93.54		True
+CONTIG	k91_242736	595	correct
+2583582	2584027	152	597	Pectobacterium_parmentieri_NZ_CP062254.1	k91_63823	91.93		True
+CONTIG	k91_63823	606	correct
+3321362	3321906	13	558	Pectobacterium_parmentieri_NZ_CP062254.1	k91_26160	93.97		True
+CONTIG	k91_26160	563	correct
+3426025	3427388	1443	80	Pectobacterium_parmentieri_NZ_CP062254.1	k91_207255	93.56		True
+CONTIG	k91_207255	1443	correct
+1408296	1408759	34	496	Pectobacterium_parmentieri_NZ_CP062254.1	k91_64024	90.15		True
+CONTIG	k91_64024	522	correct
+4381233	4381967	1	735	Pectobacterium_parmentieri_NZ_CP062254.1	k91_242995	98.23		True
+CONTIG	k91_242995	735	correct
+2260757	2261121	197	561	Pectobacterium_parmentieri_NZ_CP062254.1	k91_243115	95.89		True
+CONTIG	k91_243115	561	correct
+1129511	1130357	1	847	Pectobacterium_parmentieri_NZ_CP062254.1	k91_278197	91.74		True
+CONTIG	k91_278197	852	correct
+4217592	4218806	5	1219	Pectobacterium_parmentieri_NZ_CP062254.1	k91_278206	92.26		True
+CONTIG	k91_278206	1225	correct
+1538354	1538810	688	233	Pectobacterium_parmentieri_NZ_CP062254.1	k91_99775	90.15		True
+CONTIG	k91_99775	702	correct
+3414129	3414661	533	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_243200	93.81		True
+CONTIG	k91_243200	539	correct
+676510	676687	177	354	Pectobacterium_parmentieri_NZ_CP062254.1	k91_243233	96.63		True
+CONTIG	k91_243233	526	correct
+499419	500164	243	988	Pectobacterium_parmentieri_NZ_CP062254.1	k91_26748	91.02		True
+CONTIG	k91_26748	1003	correct
+2722382	2722934	553	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_100024	92.22		True
+CONTIG	k91_100024	567	correct
+4847109	4847739	1	631	Pectobacterium_parmentieri_NZ_CP062254.1	k91_64564	90.19		True
+CONTIG	k91_64564	631	correct
+805178	806212	1035	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_243540	92.31		True
+CONTIG	k91_243540	1035	correct
+1889063	1889868	24	838	Pectobacterium_parmentieri_NZ_CP062254.1	k91_26864	92.05		True
+CONTIG	k91_26864	947	correct
+2935392	2936469	1093	16	Pectobacterium_parmentieri_NZ_CP062254.1	k91_135646	90.72		True
+CONTIG	k91_135646	1286	correct
+4884716	4885577	1	862	Pectobacterium_parmentieri_NZ_CP062254.1	k91_26927	90.28		True
+CONTIG	k91_26927	1053	correct
+1412418	1413638	1221	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_26984	90.25		True
+CONTIG	k91_26984	1221	correct
+2752462	2752850	720	332	Pectobacterium_parmentieri_NZ_CP062254.1	k91_64743	92.07		True
+CONTIG	k91_64743	724	correct
+1083674	1084654	81	1061	Pectobacterium_parmentieri_NZ_CP062254.1	k91_100400	90.62		True
+CONTIG	k91_100400	1061	correct
+3533221	3534402	1183	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_170384	93.4		True
+CONTIG	k91_170384	1185	correct
+1016841	1017932	1117	26	Pectobacterium_parmentieri_NZ_CP062254.1	k91_208326	90.79		True
+CONTIG	k91_208326	1119	correct
+1047825	1049796	2038	67	Pectobacterium_parmentieri_NZ_CP062254.1	k91_64894	90.39		True
+CONTIG	k91_64894	2038	correct
+2114845	2115162	318	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_243922	94.03		True
+CONTIG	k91_243922	559	correct
+3538750	3539623	874	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_208478	97.6		True
+CONTIG	k91_208478	887	correct
+97484	97905	2	423	Pectobacterium_parmentieri_NZ_CP062254.1	k91_27367	94.55		True
+indel: indel (> 5bp)
+97927	98140	424	639	Pectobacterium_parmentieri_NZ_CP062254.1	k91_27367	90.28		True
+CONTIG	k91_27367	640	correct
+2781282	2781998	728	12	Pectobacterium_parmentieri_NZ_CP062254.1	k91_100760	90.79		True
+CONTIG	k91_100760	728	correct
+2048878	2049529	719	67	Pectobacterium_parmentieri_NZ_CP062254.1	k91_136298	91.12		True
+CONTIG	k91_136298	719	correct
+146291	147229	1	938	Pectobacterium_parmentieri_NZ_CP062254.1	k91_100923	92.55		True
+CONTIG	k91_100923	948	correct
+4377329	4378148	1	818	Pectobacterium_parmentieri_NZ_CP062254.1	k91_208779	97.2		True
+CONTIG	k91_208779	818	correct
+3809714	3810146	702	270	Pectobacterium_parmentieri_NZ_CP062254.1	k91_136525	93.3		True
+CONTIG	k91_136525	726	correct
+3432961	3433835	1	875	Pectobacterium_parmentieri_NZ_CP062254.1	k91_65444	90.63		True
+CONTIG	k91_65444	875	correct
+4943632	4943753	122	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_208864	95.9		True
+CONTIG	k91_208864	588	correct
+800201	800871	671	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_101071	90.21		True
+CONTIG	k91_101071	671	correct
+2400259	2400349	500	410	Pectobacterium_parmentieri_NZ_CP062254.1	k91_136626	95.6		True
+CONTIG	k91_136626	500	correct
+4334469	4334732	638	375	Pectobacterium_parmentieri_NZ_CP062254.1	k91_171110	92.42		True
+CONTIG	k91_171110	647	correct
+3804424	3804985	563	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_279631	93.24		True
+CONTIG	k91_279631	563	correct
+4161447	4162116	670	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_244627	91.04		True
+CONTIG	k91_244627	675	correct
+3606988	3607823	1	835	Pectobacterium_parmentieri_NZ_CP062254.1	k91_65555	93.18		True
+CONTIG	k91_65555	835	correct
+683733	684383	1	651	Pectobacterium_parmentieri_NZ_CP062254.1	k91_101182	93.39		True
+CONTIG	k91_101182	654	correct
+4896505	4896702	218	21	Pectobacterium_parmentieri_NZ_CP062254.1	k91_171172	94.95		True
+CONTIG	k91_171172	626	correct
+239816	240752	940	4	Pectobacterium_parmentieri_NZ_CP062254.1	k91_244646	93.06		True
+CONTIG	k91_244646	941	correct
+4303173	4304141	14	982	Pectobacterium_parmentieri_NZ_CP062254.1	k91_244676	90.09		True
+CONTIG	k91_244676	985	correct
+4135904	4136430	533	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_65640	92.32		True
+CONTIG	k91_65640	533	correct
+747410	748284	13	880	Pectobacterium_parmentieri_NZ_CP062254.1	k91_279731	90.88		True
+CONTIG	k91_279731	884	correct
+1252060	1252826	1	767	Pectobacterium_parmentieri_NZ_CP062254.1	k91_171291	91.0		True
+CONTIG	k91_171291	815	correct
+4283871	4285049	1	1180	Pectobacterium_parmentieri_NZ_CP062254.1	k91_101515	94.16		True
+CONTIG	k91_101515	1180	correct
+3237205	3237758	555	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_101519	92.97		True
+CONTIG	k91_101519	567	correct
+3362347	3363336	11	994	Pectobacterium_parmentieri_NZ_CP062254.1	k91_171609	90.94		True
+CONTIG	k91_171609	994	correct
+1998547	1999219	540	1213	Pectobacterium_parmentieri_NZ_CP062254.1	k91_245066	91.42		True
+CONTIG	k91_245066	1213	correct
+808930	809889	5	964	Pectobacterium_parmentieri_NZ_CP062254.1	k91_245111	94.48		True
+CONTIG	k91_245111	964	correct
+1792545	1793059	1	515	Pectobacterium_parmentieri_NZ_CP062254.1	k91_171751	90.87		True
+CONTIG	k91_171751	523	correct
+463334	463554	1	221	Pectobacterium_parmentieri_NZ_CP062254.1	k91_66098	91.44		True
+CONTIG	k91_66098	774	correct_unaligned
+4253354	4254088	1	735	Pectobacterium_parmentieri_NZ_CP062254.1	k91_137340	90.07		True
+CONTIG	k91_137340	755	correct
+159729	160330	603	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_209703	91.86		True
+CONTIG	k91_209703	609	correct
+4557474	4557725	89	340	Pectobacterium_parmentieri_NZ_CP062254.1	k91_245300	93.25		True
+local misassembly
+4558173	4558320	484	631	Pectobacterium_parmentieri_NZ_CP062254.1	k91_245300	93.24		True
+CONTIG	k91_245300	644	correct
+369343	370060	1	718	Pectobacterium_parmentieri_NZ_CP062254.1	k91_66240	94.15		True
+CONTIG	k91_66240	740	correct
+1165276	1166105	603	1431	Pectobacterium_parmentieri_NZ_CP062254.1	k91_209792	90.12		True
+CONTIG	k91_209792	1431	correct
+4950926	4951699	779	6	Pectobacterium_parmentieri_NZ_CP062254.1	k91_245407	93.67		True
+CONTIG	k91_245407	782	correct
+958051	958648	879	282	Pectobacterium_parmentieri_NZ_CP062254.1	k91_28588	91.14		True
+CONTIG	k91_28588	879	correct
+3069071	3069382	501	190	Pectobacterium_parmentieri_NZ_CP062254.1	k91_137508	92.95		True
+CONTIG	k91_137508	518	correct
+3296678	3297268	39	636	Pectobacterium_parmentieri_NZ_CP062254.1	k91_172039	90.07		True
+CONTIG	k91_172039	636	correct
+496083	496897	1	815	Pectobacterium_parmentieri_NZ_CP062254.1	k91_245527	90.06		True
+CONTIG	k91_245527	824	correct
+4183601	4183932	1	332	Pectobacterium_parmentieri_NZ_CP062254.1	k91_137644	90.96		True
+CONTIG	k91_137644	687	correct
+3235186	3235740	555	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_245585	91.35		True
+CONTIG	k91_245585	647	correct
+498269	498910	642	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_280673	94.08		True
+CONTIG	k91_280673	650	correct
+2741122	2742674	1679	127	Pectobacterium_parmentieri_NZ_CP062254.1	k91_280766	91.24		True
+CONTIG	k91_280766	1700	correct
+3467104	3467670	159	725	Pectobacterium_parmentieri_NZ_CP062254.1	k91_280794	91.21		True
+CONTIG	k91_280794	725	correct
+3450486	3451059	1	575	Pectobacterium_parmentieri_NZ_CP062254.1	k91_245790	94.09		True
+CONTIG	k91_245790	614	correct
+350204	351159	959	4	Pectobacterium_parmentieri_NZ_CP062254.1	k91_28953	95.82		True
+CONTIG	k91_28953	1084	correct
+2645290	2646062	774	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_245865	93.67		True
+CONTIG	k91_245865	779	correct
+2107560	2107971	412	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_137953	91.75		True
+CONTIG	k91_137953	662	correct
+1255465	1256751	1291	5	Pectobacterium_parmentieri_NZ_CP062254.1	k91_280924	92.7		True
+CONTIG	k91_280924	1291	correct
+4288096	4289249	1325	172	Pectobacterium_parmentieri_NZ_CP062254.1	k91_281034	94.02		True
+CONTIG	k91_281034	1325	correct
+1121878	1123343	1467	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_66979	90.04		True
+CONTIG	k91_66979	1472	correct
+2900104	2900756	5	663	Pectobacterium_parmentieri_NZ_CP062254.1	k91_67066	94.23		True
+CONTIG	k91_67066	680	correct
+2698084	2698645	166	727	Pectobacterium_parmentieri_NZ_CP062254.1	k91_246164	90.41		True
+CONTIG	k91_246164	729	correct
+846529	846745	303	519	Pectobacterium_parmentieri_NZ_CP062254.1	k91_102781	95.39		True
+CONTIG	k91_102781	519	correct
+1112134	1113274	4	1144	Pectobacterium_parmentieri_NZ_CP062254.1	k91_246290	95.44		True
+CONTIG	k91_246290	1152	correct
+3982585	3982748	11	175	Pectobacterium_parmentieri_NZ_CP062254.1	k91_102811	92.17		True
+CONTIG	k91_102811	627	correct
+4423071	4424260	1	1190	Pectobacterium_parmentieri_NZ_CP062254.1	k91_246354	93.53		True
+CONTIG	k91_246354	1190	correct
+3356813	3358408	7	1638	Pectobacterium_parmentieri_NZ_CP062254.1	k91_29357	91.61		True
+CONTIG	k91_29357	1659	correct
+2438478	2438976	18	516	Pectobacterium_parmentieri_NZ_CP062254.1	k91_138398	91.0		True
+CONTIG	k91_138398	526	correct
+1958786	1959316	1	531	Pectobacterium_parmentieri_NZ_CP062254.1	k91_138544	95.67		True
+CONTIG	k91_138544	531	correct
+2483482	2483956	606	133	Pectobacterium_parmentieri_NZ_CP062254.1	k91_210854	94.32		True
+CONTIG	k91_210854	606	correct
+3939314	3939899	1	586	Pectobacterium_parmentieri_NZ_CP062254.1	k91_210913	92.83		True
+CONTIG	k91_210913	1176	correct_unaligned
+2989131	2989722	624	33	Pectobacterium_parmentieri_NZ_CP062254.1	k91_210995	91.72		True
+CONTIG	k91_210995	624	correct
+1085081	1085639	42	600	Pectobacterium_parmentieri_NZ_CP062254.1	k91_67624	90.54		True
+CONTIG	k91_67624	1004	correct
+4200103	4200658	1	554	Pectobacterium_parmentieri_NZ_CP062254.1	k91_246711	94.24		True
+CONTIG	k91_246711	554	correct
+2314379	2315706	42	1377	Pectobacterium_parmentieri_NZ_CP062254.1	k91_281638	90.75		True
+CONTIG	k91_281638	1377	correct
+4906691	4907051	400	40	Pectobacterium_parmentieri_NZ_CP062254.1	k91_29737	93.07		True
+CONTIG	k91_29737	585	correct
+4255512	4256203	1	693	Pectobacterium_parmentieri_NZ_CP062254.1	k91_67745	90.1		True
+CONTIG	k91_67745	693	correct
+654129	655582	2	1454	Pectobacterium_parmentieri_NZ_CP062254.1	k91_103405	92.39		True
+CONTIG	k91_103405	1457	correct
+4191770	4192188	7	425	Pectobacterium_parmentieri_NZ_CP062254.1	k91_29837	92.12		True
+CONTIG	k91_29837	1685	correct_unaligned
+1044931	1046004	1	1072	Pectobacterium_parmentieri_NZ_CP062254.1	k91_103432	95.44		True
+CONTIG	k91_103432	1085	correct
+3231610	3232461	852	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_173399	90.14		True
+CONTIG	k91_173399	852	correct
+2012413	2013843	1	1431	Pectobacterium_parmentieri_NZ_CP062254.1	k91_29947	91.07		True
+CONTIG	k91_29947	1431	correct
+2768625	2770244	72	1695	Pectobacterium_parmentieri_NZ_CP062254.1	k91_139096	91.18		True
+CONTIG	k91_139096	1703	correct
+561328	562471	4	1147	Pectobacterium_parmentieri_NZ_CP062254.1	k91_103577	95.63		True
+CONTIG	k91_103577	1147	correct
+1062811	1063368	571	14	Pectobacterium_parmentieri_NZ_CP062254.1	k91_103745	90.68		True
+CONTIG	k91_103745	860	correct
+1526203	1526613	611	1021	Pectobacterium_parmentieri_NZ_CP062254.1	k91_68251	90.02		True
+CONTIG	k91_68251	1023	correct_unaligned
+2292455	2292882	428	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_173884	92.52		True
+CONTIG	k91_173884	510	correct
+3276973	3277768	798	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_68519	92.76		True
+CONTIG	k91_68519	798	correct
+2674924	2675255	992	1323	Pectobacterium_parmentieri_NZ_CP062254.1	k91_139619	93.07		True
+CONTIG	k91_139619	1474	correct_unaligned
+1006295	1007090	189	984	Pectobacterium_parmentieri_NZ_CP062254.1	k91_173987	91.21		True
+CONTIG	k91_173987	984	correct
+85238	85899	690	29	Pectobacterium_parmentieri_NZ_CP062254.1	k91_104335	91.09		True
+CONTIG	k91_104335	703	correct
+1611163	1612171	7	1015	Pectobacterium_parmentieri_NZ_CP062254.1	k91_212213	93.76		True
+CONTIG	k91_212213	1018	correct
+1329241	1330618	503	1880	Pectobacterium_parmentieri_NZ_CP062254.1	k91_68920	91.23		True
+CONTIG	k91_68920	1897	correct
+1399987	1401018	1	1032	Pectobacterium_parmentieri_NZ_CP062254.1	k91_247924	90.5		True
+CONTIG	k91_247924	1409	correct
+4882345	4883382	1038	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_212343	92.58		True
+CONTIG	k91_212343	1038	correct
+5007601	5008271	1	671	Pectobacterium_parmentieri_NZ_CP062254.1	k91_104665	91.95		True
+CONTIG	k91_104665	672	correct
+2758982	2759596	25	639	Pectobacterium_parmentieri_NZ_CP062254.1	k91_104766	91.06		True
+CONTIG	k91_104766	639	correct
+4560125	4560369	264	21	Pectobacterium_parmentieri_NZ_CP062254.1	k91_31062	95.1		True
+CONTIG	k91_31062	746	correct
+3114033	3114915	1119	237	Pectobacterium_parmentieri_NZ_CP062254.1	k91_140279	90.6		True
+CONTIG	k91_140279	1119	correct
+1494333	1495416	1092	10	Pectobacterium_parmentieri_NZ_CP062254.1	k91_31155	92.0		True
+CONTIG	k91_31155	1107	correct
+4121996	4122169	318	491	Pectobacterium_parmentieri_NZ_CP062254.1	k91_212706	93.68		True
+CONTIG	k91_212706	535	correct
+1916894	1917962	1069	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_140429	92.05		True
+CONTIG	k91_140429	1069	correct
+3821421	3822221	802	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_248387	93.02		True
+CONTIG	k91_248387	802	correct
+4747543	4748410	15	881	Pectobacterium_parmentieri_NZ_CP062254.1	k91_212792	92.74		True
+CONTIG	k91_212792	885	correct
+3782193	3782858	1	666	Pectobacterium_parmentieri_NZ_CP062254.1	k91_105084	90.1		True
+CONTIG	k91_105084	670	correct
+1035371	1035555	280	96	Pectobacterium_parmentieri_NZ_CP062254.1	k91_174967	93.51		True
+CONTIG	k91_174967	1262	correct_unaligned
+2129	3015	899	11	Pectobacterium_parmentieri_NZ_CP062254.1	k91_174993	92.69		True
+CONTIG	k91_174993	908	correct
+2974850	2975487	682	45	Pectobacterium_parmentieri_NZ_CP062254.1	k91_69664	94.51		True
+CONTIG	k91_69664	740	correct
+4595286	4596391	45	1150	Pectobacterium_parmentieri_NZ_CP062254.1	k91_175062	90.69		True
+CONTIG	k91_175062	1150	correct
+531033	531410	508	885	Pectobacterium_parmentieri_NZ_CP062254.1	k91_248711	95.77		True
+CONTIG	k91_248711	885	correct_unaligned
+3059484	3060034	667	117	Pectobacterium_parmentieri_NZ_CP062254.1	k91_248890	92.56		True
+CONTIG	k91_248890	677	correct
+1964943	1965236	156	449	Pectobacterium_parmentieri_NZ_CP062254.1	k91_175262	94.58		True
+CONTIG	k91_175262	541	correct
+4750459	4751275	23	839	Pectobacterium_parmentieri_NZ_CP062254.1	k91_248962	90.7		True
+CONTIG	k91_248962	904	correct
+2276563	2276664	717	616	Pectobacterium_parmentieri_NZ_CP062254.1	k91_175353	99.02		True
+CONTIG	k91_175353	717	correct_unaligned
+3267784	3267938	44	199	Pectobacterium_parmentieri_NZ_CP062254.1	k91_283892	96.79		True
+CONTIG	k91_283892	711	correct_unaligned
+5014687	5015442	1	755	Pectobacterium_parmentieri_NZ_CP062254.1	k91_175432	92.86		True
+CONTIG	k91_175432	756	correct
+3805189	3806564	43	1444	Pectobacterium_parmentieri_NZ_CP062254.1	k91_175490	91.52		True
+CONTIG	k91_175490	1449	correct
+523485	523799	315	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_31931	93.02		True
+CONTIG	k91_31931	1353	correct_unaligned
+2904837	2905291	509	963	Pectobacterium_parmentieri_NZ_CP062254.1	k91_284188	93.85		True
+CONTIG	k91_284188	963	correct_unaligned
+3185485	3186089	605	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_249402	93.72		True
+CONTIG	k91_249402	637	correct
+3564519	3565321	968	166	Pectobacterium_parmentieri_NZ_CP062254.1	k91_141572	90.78		True
+CONTIG	k91_141572	1183	correct
+4225928	4226466	1	539	Pectobacterium_parmentieri_NZ_CP062254.1	k91_213944	92.79		True
+CONTIG	k91_213944	552	correct
+3538104	3539266	1	1181	Pectobacterium_parmentieri_NZ_CP062254.1	k91_70663	90.12		True
+CONTIG	k91_70663	1254	correct
+3835951	3836554	1	604	Pectobacterium_parmentieri_NZ_CP062254.1	k91_32440	91.23		True
+CONTIG	k91_32440	604	correct
+2666008	2666319	326	15	Pectobacterium_parmentieri_NZ_CP062254.1	k91_32651	90.06		True
+CONTIG	k91_32651	617	correct
+2084037	2084899	864	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_176241	90.27		True
+CONTIG	k91_176241	883	correct
+4160338	4161251	120	1033	Pectobacterium_parmentieri_NZ_CP062254.1	k91_176246	91.91		True
+CONTIG	k91_176246	1033	correct
+2244139	2244798	1	660	Pectobacterium_parmentieri_NZ_CP062254.1	k91_71101	94.7		True
+CONTIG	k91_71101	660	correct
+620493	620847	698	344	Pectobacterium_parmentieri_NZ_CP062254.1	k91_106783	90.42		True
+CONTIG	k91_106783	703	correct
+191582	191836	1	256	Pectobacterium_parmentieri_NZ_CP062254.1	k91_71155	97.66		True
+relocation, inconsistency = -4063
+187829	187997	312	479	Pectobacterium_parmentieri_NZ_CP062254.1	k91_71155	93.49		True
+CONTIG	k91_71155	503	misassembled
+232056	233769	4	1717	Pectobacterium_parmentieri_NZ_CP062254.1	k91_250202	97.67		True
+CONTIG	k91_250202	1717	correct
+2477429	2477963	536	2	Pectobacterium_parmentieri_NZ_CP062254.1	k91_176533	93.68		True
+CONTIG	k91_176533	539	correct
+4446747	4447542	876	81	Pectobacterium_parmentieri_NZ_CP062254.1	k91_71181	92.6		True
+CONTIG	k91_71181	881	correct
+2201263	2201935	35	707	Pectobacterium_parmentieri_NZ_CP062254.1	k91_106873	94.65		True
+CONTIG	k91_106873	707	correct
+4523926	4524526	601	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_33089	95.67		True
+CONTIG	k91_33089	612	correct
+2647816	2648102	385	101	Pectobacterium_parmentieri_NZ_CP062254.1	k91_106918	90.94		True
+local misassembly
+2647026	2647500	1150	675	Pectobacterium_parmentieri_NZ_CP062254.1	k91_106918	91.18		True
+CONTIG	k91_106918	1150	correct
+3557452	3558232	10	790	Pectobacterium_parmentieri_NZ_CP062254.1	k91_107167	90.52		True
+CONTIG	k91_107167	815	correct
+1166199	1166697	499	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_176861	92.8		True
+CONTIG	k91_176861	501	correct
+1543948	1544331	1	383	Pectobacterium_parmentieri_NZ_CP062254.1	k91_214926	92.71		True
+CONTIG	k91_214926	644	correct
+74809	75507	6	704	Pectobacterium_parmentieri_NZ_CP062254.1	k91_33345	91.42		True
+CONTIG	k91_33345	882	correct
+4583915	4584508	594	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_107247	91.08		True
+CONTIG	k91_107247	606	correct
+44502	44619	1081	1198	Pectobacterium_parmentieri_NZ_CP062254.1	k91_71579	96.61		True
+CONTIG	k91_71579	1204	correct_unaligned
+4592350	4592441	1	92	Pectobacterium_parmentieri_NZ_CP062254.1	k91_107420	100.0		True
+CONTIG	k91_107420	525	correct
+3173479	3174201	4	726	Pectobacterium_parmentieri_NZ_CP062254.1	k91_177141	93.5		True
+CONTIG	k91_177141	726	correct
+2643940	2644564	3	627	Pectobacterium_parmentieri_NZ_CP062254.1	k91_285554	95.52		True
+CONTIG	k91_285554	627	correct
+519024	520017	1	994	Pectobacterium_parmentieri_NZ_CP062254.1	k91_33603	91.75		True
+CONTIG	k91_33603	1043	correct
+4936103	4936982	23	902	Pectobacterium_parmentieri_NZ_CP062254.1	k91_215319	92.39		True
+CONTIG	k91_215319	921	correct
+2294152	2294948	808	10	Pectobacterium_parmentieri_NZ_CP062254.1	k91_251089	92.88		True
+CONTIG	k91_251089	839	correct
+2821989	2822652	1	664	Pectobacterium_parmentieri_NZ_CP062254.1	k91_107738	90.51		True
+CONTIG	k91_107738	683	correct
+4935635	4936153	1	519	Pectobacterium_parmentieri_NZ_CP062254.1	k91_143351	95.57		True
+CONTIG	k91_143351	519	correct
+1176276	1177232	1	957	Pectobacterium_parmentieri_NZ_CP062254.1	k91_143620	97.91		True
+CONTIG	k91_143620	966	correct
+304148	305167	1020	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_143639	96.18		True
+CONTIG	k91_143639	1032	correct
+3301085	3301402	318	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_143659	92.14		True
+indel: indel (> 5bp)
+3300749	3300959	530	319	Pectobacterium_parmentieri_NZ_CP062254.1	k91_143659	95.28		True
+CONTIG	k91_143659	541	correct
+4859747	4860454	1	708	Pectobacterium_parmentieri_NZ_CP062254.1	k91_177966	93.79		True
+CONTIG	k91_177966	708	correct
+4853344	4853890	65	614	Pectobacterium_parmentieri_NZ_CP062254.1	k91_143739	90.91		True
+CONTIG	k91_143739	635	correct
+1425164	1425511	348	1	Pectobacterium_parmentieri_NZ_CP062254.1	k91_286493	93.97		True
+CONTIG	k91_286493	675	correct
+3176364	3177423	1088	29	Pectobacterium_parmentieri_NZ_CP062254.1	k91_286852	91.04		True
+CONTIG	k91_286852	1098	correct
+2770100	2770679	595	29	Pectobacterium_parmentieri_NZ_CP062254.1	k91_178758	90.72		True
+CONTIG	k91_178758	595	correct
+3048603	3049279	18	694	Pectobacterium_parmentieri_NZ_CP062254.1	k91_287193	91.29		True
+CONTIG	k91_287193	703	correct
+1319625	1320303	3	683	Pectobacterium_parmentieri_NZ_CP062254.1	k91_287258	91.04		True
+CONTIG	k91_287258	804	correct
+2725245	2725724	1	479	Pectobacterium_parmentieri_NZ_CP062254.1	k91_35522	91.88		True
+indel: indel (> 5bp)
+2725846	2726442	480	1075	Pectobacterium_parmentieri_NZ_CP062254.1	k91_35522	92.13		True
+CONTIG	k91_35522	1084	correct

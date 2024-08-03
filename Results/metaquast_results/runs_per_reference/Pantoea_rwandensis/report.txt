@@ -1,0 +1,55 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     final.contigs
+# contigs (>= 1000 bp)       560          
+# contigs (>= 5000 bp)       0            
+# contigs (>= 10000 bp)      0            
+# contigs (>= 25000 bp)      0            
+# contigs (>= 50000 bp)      0            
+Total length (>= 1000 bp)    738442       
+Total length (>= 5000 bp)    0            
+Total length (>= 10000 bp)   0            
+Total length (>= 25000 bp)   0            
+Total length (>= 50000 bp)   0            
+# contigs                    2432         
+Largest contig               3425         
+Total length                 2036305      
+Reference length             4327607      
+GC (%)                       53.60        
+Reference GC (%)             53.93        
+N50                          848          
+NG50                         -            
+N90                          562          
+NG90                         -            
+auN                          967.1        
+auNG                         455.1        
+L50                          865          
+LG50                         -            
+L90                          2048         
+LG90                         -            
+# misassemblies              11           
+# misassembled contigs       11           
+Misassembled contigs length  11711        
+# local misassemblies        5            
+# scaffold gap ext. mis.     0            
+# scaffold gap loc. mis.     0            
+# unaligned mis. contigs     1            
+# unaligned contigs          1 + 105 part 
+Unaligned length             78187        
+Genome fraction (%)          38.366       
+Duplication ratio            1.073        
+# N's per 100 kbp            0.00         
+# mismatches per 100 kbp     6492.52      
+# indels per 100 kbp         127.92       
+Largest alignment            3144         
+Total aligned length         1780803      
+NA50                         731          
+NGA50                        -            
+NA90                         -            
+NGA90                        -            
+auNA                         784.1        
+auNGA                        368.9        
+LA50                         970          
+LGA50                        -            
+LA90                         -            
+LGA90                        -            

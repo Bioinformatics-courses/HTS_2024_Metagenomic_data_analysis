@@ -1,0 +1,19 @@
+reference chromosomes:
+	Tatumella_morbirosei_NZ_CM003276.1 (total length: 5657 bp, total length without N's: 5657 bp, maximal covered length: 1689 bp)
+	Tatumella_morbirosei_NZ_JPKR02000001.1 (total length: 249310 bp, total length without N's: 249310 bp, maximal covered length: 119330 bp)
+	Tatumella_morbirosei_NZ_JPKR02000002.1 (total length: 375960 bp, total length without N's: 375960 bp, maximal covered length: 212889 bp)
+	Tatumella_morbirosei_NZ_JPKR02000003.1 (total length: 1859919 bp, total length without N's: 1859917 bp, maximal covered length: 954044 bp)
+	Tatumella_morbirosei_NZ_JPKR02000004.1 (total length: 871598 bp, total length without N's: 871598 bp, maximal covered length: 443945 bp)
+	Tatumella_morbirosei_NZ_JPKR02000005.1 (total length: 1050954 bp, total length without N's: 1050954 bp, maximal covered length: 632944 bp)
+
+total genome size: 4413398
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Tatumel | 53.583    | 1.076       | 2076      | -         | -         | -         | -         |

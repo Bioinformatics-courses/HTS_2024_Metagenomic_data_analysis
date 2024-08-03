@@ -1,0 +1,15 @@
+reference chromosomes:
+	Kosakonia_cowanii_NZ_CP160412.1 (total length: 4509735 bp, total length without N's: 4509627 bp, maximal covered length: 1524949 bp)
+	Kosakonia_cowanii_NZ_CP160413.1 (total length: 111767 bp, total length without N's: 111767 bp, maximal covered length: 13440 bp)
+
+total genome size: 4621502
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Kosakon | 33.288    | 1.040       | 1885      | -         | -         | -         | -         |

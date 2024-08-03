@@ -1,0 +1,271 @@
+/home/fedgen/anaconda3/envs/metagenomics/opt/quast-5.2.0/metaquast.py -o metaquast_results --threads 8 megahit_results//final.contigs.fa
+
+Version: 5.2.0
+
+System information:
+  OS: Linux-6.8.0-39-generic-x86_64-with-glibc2.39 (linux_64)
+  Python version: 3.12.3
+  CPUs number: 9
+
+Started: 2024-08-02 11:45:16
+
+Logging to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/metaquast.log
+
+Contigs:
+  Pre-processing...
+  megahit_results//final.contigs.fa ==> final.contigs
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2024-08-02 11:45:18
+Running BlastN..
+  processing final.contigs
+/home/fedgen/anaconda3/envs/metagenomics/bin/blastn -query megahit_results//final.contigs.fa \
+-db /home/fedgen/anaconda3/envs/metagenomics/lib/python3.12/site-packages/quast_libs/silva/silva.138.1.db \
+-outfmt 7 -num_threads 8 > metaquast_results/quast_downloaded_references/blast.res_final-contigs \
+2>> metaquast_results/quast_downloaded_references/blast.err
+  BLAST results for final.contigs are saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/blast.res_final-contigs...
+
+
+2024-08-02 11:54:21
+Trying to download found references from NCBI. Totally 50 organisms to try.
+  bacterium_B4-C2-P2D8                                    | not found in the NCBI database
+  bacterium_B4-C2-P2D8 was not found in NCBI database, trying to download the next best match
+  Pediococcus_argentinicus                                | successfully downloaded (total 1, 49 more to go)
+  alpha_proteobacterium_SK50-23                           | successfully downloaded (total 2, 48 more to go)
+  Xanthomonas_translucens_pv._undulosa                    | successfully downloaded (total 3, 47 more to go)
+  Xanthomonas_phaseoli_pv._dieffenbachiae                 | successfully downloaded (total 4, 46 more to go)
+  Terribacillus_sp._mixed_culture_X10-56                  | not found in the NCBI database
+  Terribacillus_sp._mixed_culture_X10-56 was not found in NCBI database, trying to download the next best match
+  Bacillus_sp._NBRC_101253                                | not found in the NCBI database
+  Bacillus_sp._NBRC_101253 was not found in NCBI database, trying to download the next best match
+  Bacillus_gibsonii                                       | successfully downloaded (total 5, 45 more to go)
+  Tatumella_punctata                                      | successfully downloaded (total 6, 44 more to go)
+  Tatumella_morbirosei                                    | successfully downloaded (total 7, 43 more to go)
+  Streptococcus_pneumoniae                                | successfully downloaded (total 8, 42 more to go)
+  Streptococcus_agalactiae_SS1219                         | successfully downloaded (total 9, 41 more to go)
+  Stenotrophomonas_maltophilia                            | successfully downloaded (total 10, 40 more to go)
+  Staphylococcus_xylosus                                  | successfully downloaded (total 11, 39 more to go)
+  Staphylococcus_gallinarum                               | successfully downloaded (total 12, 38 more to go)
+  Sphingobacterium_siyangense                             | successfully downloaded (total 13, 37 more to go)
+  Sphingobacterium_corticis                               | not found in the NCBI database
+  Sphingobacterium_corticis was not found in NCBI database, trying to download the next best match
+  Sphingobacterium_sp._2c-3                               | successfully downloaded (total 14, 36 more to go)
+  Serratia_marcescens                                     | successfully downloaded (total 15, 35 more to go)
+  Salmonella_enterica_subsp._enterica_serovar_Paratyphi_A | successfully downloaded (total 16, 34 more to go)
+  Saccharibacillus_sacchari                               | successfully downloaded (total 17, 33 more to go)
+  Rhizobium_sp._OS-B19                                    | not found in the NCBI database
+  Rhizobium_sp._OS-B19 was not found in NCBI database, trying to download the next best match
+  Rhizobium_sp._CCBAU_45157                               | not found in the NCBI database
+  Rhizobium_sp._CCBAU_45157 was not found in NCBI database, trying to download the next best match
+  Rhizobium_sp._CCBAU_45111-1                             | not found in the NCBI database
+  Rhizobium_sp._CCBAU_45111-1 was not found in NCBI database, trying to download the next best match
+  Neorhizobium_galegae                                    | successfully downloaded (total 18, 32 more to go)
+  Raoultella_ornithinolytica                              | successfully downloaded (total 19, 31 more to go)
+  Pseudomonas_sp._StFLB209                                | successfully downloaded (total 20, 30 more to go)
+  Pseudomonas_fulva                                       | successfully downloaded (total 21, 29 more to go)
+  Pseudomonas_fluorescens                                 | successfully downloaded (total 22, 28 more to go)
+  Pseudomonas_filiscindens                                | not found in the NCBI database
+  Phreatobacter_cathodiphilus                             | successfully downloaded (total 23, 26 more to go)
+  Pectobacterium_parmentieri                              | successfully downloaded (total 24, 25 more to go)
+  Pectobacterium_atrosepticum_CFBP_6276                   | successfully downloaded (total 25, 24 more to go)
+  Pantoea_vagans                                          | successfully downloaded (total 26, 23 more to go)
+  Pantoea_rwandensis                                      | successfully downloaded (total 27, 22 more to go)
+  Ochrobactrum_sp._CCBAU_61322                            | not found in the NCBI database
+  Ochrobactrum_sp._CCBAU_61322 was not found in NCBI database, trying to download the next best match
+Failed downloading Ochrobactrum sp!
+  Ochrobactrum_sp                                         | not found in the NCBI database
+  Ochrobactrum_sp was not found in NCBI database, trying to download the next best match
+  Ochrobactrum_pituitosum                                 | successfully downloaded (total 28, 21 more to go)
+  Ochrobactrum_sp._A44                                    | successfully downloaded (total 29, 20 more to go)
+  Ochrobactrum_pseudogrignonense                          | successfully downloaded (total 30, 19 more to go)
+  Novosphingobium_barchaimii                              | successfully downloaded (total 31, 18 more to go)
+  Microvirga_sp._17_mud_1-3                               | successfully downloaded (total 32, 17 more to go)
+  Methylocystis_parvus                                    | successfully downloaded (total 33, 16 more to go)
+  Methylocapsa_palsarum                                   | successfully downloaded (total 34, 15 more to go)
+  Mesorhizobium_sp._ORS_1259                              | not found in the NCBI database
+  Mesorhizobium_sp._ORS_1259 was not found in NCBI database, trying to download the next best match
+  Mesorhizobium_plurifarium                               | successfully downloaded (total 35, 14 more to go)
+  Leuconostoc_pseudomesenteroides_KCTC_3652               | successfully downloaded (total 36, 13 more to go)
+Leucobacter sp. CBX152 has too fragmented reference genome! It will not be downloaded.
+  Leucobacter_sp._CBX152                                  | not found in the NCBI database
+  Leucobacter_sp._CBX152 was not found in NCBI database, trying to download the next best match
+  Leucobacter_sp._RBB-08                                  | not found in the NCBI database
+  Leucobacter_sp._RBB-08 was not found in NCBI database, trying to download the next best match
+  marine_metagenome                                       | successfully downloaded (total 37, 12 more to go)
+  Leucobacter_sp._Ap-1                                    | not found in the NCBI database
+  Leucobacter_sp._Ap-1 was not found in NCBI database, trying to download the next best match
+  Leucobacter_sp._BK-26                                   | not found in the NCBI database
+  Leucobacter_sp._BK-26 was not found in NCBI database, trying to download the next best match
+  Leucobacter_tardus                                      | successfully downloaded (total 38, 11 more to go)
+  Lasianthus_sp._Kainulaninen_et_al._17                   | not found in the NCBI database
+  Lasianthus_sp._Kainulaninen_et_al._17 was not found in NCBI database, trying to download the next best match
+  Cubanola_domingensis                                    | not found in the NCBI database
+  Lactococcus_lactis_subsp._lactis_CV56                   | successfully downloaded (total 39, 9 more to go)
+  Lactobacillus_sakei                                     | not found in the NCBI database
+  Lactobacillus_sakei was not found in NCBI database, trying to download the next best match
+  Lactobacillus_sakei_subsp._sakei_23K                    | successfully downloaded (total 40, 8 more to go)
+  Lactobacillus_reuteri_TD1                               | successfully downloaded (total 41, 7 more to go)
+  Lactobacillus_brevis                                    | successfully downloaded (total 42, 6 more to go)
+  Lactobacillus_brantae                                   | successfully downloaded (total 43, 5 more to go)
+  Kosakonia_cowanii                                       | successfully downloaded (total 44, 4 more to go)
+  Komagataeibacter_hansenii                               | not found in the NCBI database
+  Komagataeibacter_hansenii was not found in NCBI database, trying to download the next best match
+  Komagataeibacter_xylinus                                | successfully downloaded (total 45, 3 more to go)
+  Kohautia_caespitosa                                     | not found in the NCBI database
+  Kohautia_caespitosa was not found in NCBI database, trying to download the next best match
+  Mostuea_sp._NW-2017                                     | not found in the NCBI database
+  Mostuea_sp._NW-2017 was not found in NCBI database, trying to download the next best match
+Failed downloading Calotropis procera!
+  Calotropis_procera                                      | not found in the NCBI database
+  Klebsiella_pneumoniae                                   | successfully downloaded (total 46, 1 more to go)
+  Guettarda_scabra                                        | not found in the NCBI database
+  Guettarda_scabra was not found in NCBI database, trying to download the next best match
+  Mostuea_sp._NW-2017                                     | not found in the NCBI database
+  Mostuea_sp._NW-2017 was not found in NCBI database, trying to download the next best match
+  Cubanola_domingensis                                    | not found in the NCBI database
+
+Downloaded reference(s):
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Bacillus_gibsonii.fasta ==> Bacillus_gibsonii
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Klebsiella_pneumoniae.fasta ==> Klebsiella_pneumoniae
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Komagataeibacter_xylinus.fasta ==> Komagataeibacter_xylinus
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Kosakonia_cowanii.fasta ==> Kosakonia_cowanii
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Lactobacillus_brantae.fasta ==> Lactobacillus_brantae
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Lactobacillus_brevis.fasta ==> Lactobacillus_brevis
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Lactobacillus_reuteri_TD1.fasta ==> Lactobacillus_reuteri_TD1
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Lactobacillus_sakei_subsp._sakei_23K.fasta ==> Lactobacillus_sakei_subsp._sakei_23K
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Lactococcus_lactis_subsp._lactis_CV56.fasta ==> Lactococcus_lactis_subsp._lactis_CV56
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Leucobacter_tardus.fasta ==> Leucobacter_tardus
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Leuconostoc_pseudomesenteroides_KCTC_3652.fasta ==> Leuconostoc_pseudomesenteroides_KCTC_3652
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Mesorhizobium_plurifarium.fasta ==> Mesorhizobium_plurifarium
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Methylocapsa_palsarum.fasta ==> Methylocapsa_palsarum
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Methylocystis_parvus.fasta ==> Methylocystis_parvus
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Microvirga_sp._17_mud_1-3.fasta ==> Microvirga_sp._17_mud_1-3
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Neorhizobium_galegae.fasta ==> Neorhizobium_galegae
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Novosphingobium_barchaimii.fasta ==> Novosphingobium_barchaimii
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Ochrobactrum_pituitosum.fasta ==> Ochrobactrum_pituitosum
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Ochrobactrum_pseudogrignonense.fasta ==> Ochrobactrum_pseudogrignonense
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Ochrobactrum_sp._A44.fasta ==> Ochrobactrum_sp._A44
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Pantoea_rwandensis.fasta ==> Pantoea_rwandensis
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Pantoea_vagans.fasta ==> Pantoea_vagans
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Pectobacterium_atrosepticum_CFBP_6276.fasta ==> Pectobacterium_atrosepticum_CFBP_6276
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Pectobacterium_parmentieri.fasta ==> Pectobacterium_parmentieri
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Pediococcus_argentinicus.fasta ==> Pediococcus_argentinicus
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Phreatobacter_cathodiphilus.fasta ==> Phreatobacter_cathodiphilus
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Pseudomonas_fluorescens.fasta ==> Pseudomonas_fluorescens
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Pseudomonas_fulva.fasta ==> Pseudomonas_fulva
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Pseudomonas_sp._StFLB209.fasta ==> Pseudomonas_sp._StFLB209
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Raoultella_ornithinolytica.fasta ==> Raoultella_ornithinolytica
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Saccharibacillus_sacchari.fasta ==> Saccharibacillus_sacchari
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Salmonella_enterica_subsp._enterica_serovar_Paratyphi_A.fasta ==> Salmonella_enterica_subsp._enterica_serovar_Paratyphi_A
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Serratia_marcescens.fasta ==> Serratia_marcescens
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Sphingobacterium_siyangense.fasta ==> Sphingobacterium_siyangense
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Sphingobacterium_sp._2c-3.fasta ==> Sphingobacterium_sp._2c-3
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Staphylococcus_gallinarum.fasta ==> Staphylococcus_gallinarum
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Staphylococcus_xylosus.fasta ==> Staphylococcus_xylosus
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Stenotrophomonas_maltophilia.fasta ==> Stenotrophomonas_maltophilia
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Streptococcus_agalactiae_SS1219.fasta ==> Streptococcus_agalactiae_SS1219
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Streptococcus_pneumoniae.fasta ==> Streptococcus_pneumoniae
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Tatumella_morbirosei.fasta ==> Tatumella_morbirosei
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Tatumella_punctata.fasta ==> Tatumella_punctata
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Xanthomonas_phaseoli_pv._dieffenbachiae.fasta ==> Xanthomonas_phaseoli_pv._dieffenbachiae
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Xanthomonas_translucens_pv._undulosa.fasta ==> Xanthomonas_translucens_pv._undulosa
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/alpha_proteobacterium_SK50-23.fasta ==> alpha_proteobacterium_SK50-23
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/marine_metagenome.fasta ==> marine_metagenome
+  All references were combined in combined_reference.fasta
+
+Starting quast.py for the combined reference...
+(logging to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/combined_reference/quast.log)
+
+Excluding downloaded references with low genome fraction from further analysis..
+
+Filtered reference(s):
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Kosakonia_cowanii.fasta ==> Kosakonia_cowanii
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Lactococcus_lactis_subsp._lactis_CV56.fasta ==> Lactococcus_lactis_subsp._lactis_CV56
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Leuconostoc_pseudomesenteroides_KCTC_3652.fasta ==> Leuconostoc_pseudomesenteroides_KCTC_3652
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Pantoea_rwandensis.fasta ==> Pantoea_rwandensis
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Pectobacterium_atrosepticum_CFBP_6276.fasta ==> Pectobacterium_atrosepticum_CFBP_6276
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Pectobacterium_parmentieri.fasta ==> Pectobacterium_parmentieri
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Tatumella_morbirosei.fasta ==> Tatumella_morbirosei
+  /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_downloaded_references/Tatumella_punctata.fasta ==> Tatumella_punctata
+  All references were combined in combined_reference.fasta
+
+Starting quast.py for the corrected combined reference...
+(logging to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/combined_reference/quast.log)
+
+Partitioning contigs into bins aligned to each reference..
+  processing final.contigs
+
+Run QUAST on different references in parallel..
+
+Starting quast.py for the contigs aligned to Kosakonia_cowanii... (logging to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/runs_per_reference/Kosakonia_cowanii/quast.log)
+
+Starting quast.py for the contigs aligned to Lactococcus_lactis_subsp._lactis_CV56... (logging to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/runs_per_reference/Lactococcus_lactis_subsp._lactis_CV56/quast.log)
+
+Starting quast.py for the contigs aligned to Leuconostoc_pseudomesenteroides_KCTC_3652... (logging to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/runs_per_reference/Leuconostoc_pseudomesenteroides_KCTC_3652/quast.log)
+
+Starting quast.py for the contigs aligned to Pantoea_rwandensis... (logging to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/runs_per_reference/Pantoea_rwandensis/quast.log)
+
+Starting quast.py for the contigs aligned to Pectobacterium_atrosepticum_CFBP_6276... (logging to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/runs_per_reference/Pectobacterium_atrosepticum_CFBP_6276/quast.log)
+
+Starting quast.py for the contigs aligned to Pectobacterium_parmentieri... (logging to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/runs_per_reference/Pectobacterium_parmentieri/quast.log)
+
+Starting quast.py for the contigs aligned to Tatumella_morbirosei... (logging to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/runs_per_reference/Tatumella_morbirosei/quast.log)
+
+Starting quast.py for the contigs aligned to Tatumella_punctata... (logging to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/runs_per_reference/Tatumella_punctata/quast.log)
+
+Starting quast.py for the contigs not aligned anywhere... (logging to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/not_aligned/quast.log)
+
+2024-08-02 12:05:33
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/num_contigs.pdf
+  Drawing Largest contig metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/Largest_contig.pdf
+  Drawing Total length metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/Total_length.pdf
+  Drawing Largest alignment metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/Largest_alignment.pdf
+  Drawing Total aligned length metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/Total_aligned_length.pdf
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/Total_length_(ge_1000_bp).pdf
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/Total_length_(ge_10000_bp).pdf
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/Total_length_(ge_50000_bp).pdf
+  Drawing # misassemblies metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/num_misassemblies.pdf
+  Drawing metaQUAST summary misassemblies plot for final.contigs...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/final-contigs_misassemblies.pdf
+  Drawing Misassembled contigs length metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/Misassembled_contigs_length.pdf
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/num_mismatches_per_100_kbp.pdf
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/num_indels_per_100_kbp.pdf
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/num_Ns_per_100_kbp.pdf
+  Drawing Genome fraction (%) metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/Genome_fraction.pdf
+  Drawing Duplication ratio metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/Duplication_ratio.pdf
+  Drawing NGA50 metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/NGA50.pdf
+  Drawing LGA50 metaQUAST summary plot...
+    saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/PDF/LGA50.pdf
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/summary/
+  Icarus (contig browser) is saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/icarus.html
+  Drawing interactive Krona plots...
+  Krona chart for final.contigs is saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/krona_charts/final.contigs_taxonomy_chart.html
+  Extended version of HTML-report (for all references and assemblies) is saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/report.html
+
+MetaQUAST finished.
+  Log is saved to /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/metaquast.log
+
+Finished: 2024-08-02 12:05:35
+Elapsed time: 0:20:19.334966
+Total NOTICEs: 14; WARNINGs: 21; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

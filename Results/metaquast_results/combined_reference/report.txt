@@ -1,0 +1,45 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     final.contigs   
+# contigs (>= 0 bp)          228719          
+# contigs (>= 1000 bp)       14571           
+# contigs (>= 5000 bp)       665             
+# contigs (>= 10000 bp)      90              
+# contigs (>= 25000 bp)      2               
+# contigs (>= 50000 bp)      1               
+Total length (>= 0 bp)       118184697       
+Total length (>= 1000 bp)    29216887        
+Total length (>= 5000 bp)    5101896         
+Total length (>= 10000 bp)   1301342         
+Total length (>= 25000 bp)   98643           
+Total length (>= 50000 bp)   63871           
+# contigs                    66434           
+Largest contig               63871           
+Total length                 63625827        
+Reference length             31445514        
+N50                          921             
+N90                          549             
+auN                          1951.2          
+L50                          17280           
+L90                          54273           
+# misassemblies              219             
+# misassembled contigs       211             
+Misassembled contigs length  256350          
+# local misassemblies        52              
+# scaffold gap ext. mis.     0               
+# scaffold gap loc. mis.     0               
+# unaligned mis. contigs     37              
+# unaligned contigs          54770 + 453 part
+Unaligned length             52958634        
+Genome fraction (%)          31.602          
+Duplication ratio            1.058           
+# N's per 100 kbp            0.00            
+# mismatches per 100 kbp     4350.54         
+# indels per 100 kbp         105.30          
+Largest alignment            18493           
+Total aligned length         10054350        
+NA50                         -               
+NA90                         -               
+auNA                         245.5           
+LA50                         -               
+LA90                         -               

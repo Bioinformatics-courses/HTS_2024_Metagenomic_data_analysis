@@ -1,0 +1,10 @@
+[M::mm_idx_gen::0.039*0.60] collected minimizers
+[M::mm_idx_gen::0.056*0.72] sorted minimizers
+[M::main::0.056*0.72] loaded/built the index for 29 target sequence(s)
+[M::mm_mapopt_update::0.059*0.73] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 29
+[M::mm_idx_stat::0.061*0.74] distinct minimizers: 207994 (99.49% are singletons); average occurrences: 1.007; average spacing: 10.004; total length: 2095808
+[M::worker_pipeline::0.511*0.97] mapped 1098 sequences
+[M::main] Version: 2.28-r1209
+[M::main] CMD: /home/fedgen/anaconda3/envs/metagenomics/bin/minimap2 -c -x asm10 -B5 -O4,16 --no-long-join -r 200 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t 1 /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_corrected_input/Leuconostoc_pseudomesenteroides_KCTC_3652.fasta__1 /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_corrected_input/final-contigs_to_Leuconostoc_pseudomesenteroides_KCTC_3652.fasta
+[M::main] Real time: 0.513 sec; CPU: 0.496 sec; Peak RSS: 0.906 GB

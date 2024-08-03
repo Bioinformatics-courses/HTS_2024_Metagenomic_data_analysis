@@ -1,0 +1,42 @@
+reference chromosomes:
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000001.1 (total length: 485606 bp, total length without N's: 485606 bp, maximal covered length: 465816 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000002.1 (total length: 456977 bp, total length without N's: 456977 bp, maximal covered length: 294264 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000003.1 (total length: 202206 bp, total length without N's: 202206 bp, maximal covered length: 188515 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000004.1 (total length: 126765 bp, total length without N's: 126765 bp, maximal covered length: 114646 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000005.1 (total length: 126157 bp, total length without N's: 126157 bp, maximal covered length: 112794 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000006.1 (total length: 102305 bp, total length without N's: 102305 bp, maximal covered length: 90465 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000007.1 (total length: 101432 bp, total length without N's: 101432 bp, maximal covered length: 86221 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000008.1 (total length: 99592 bp, total length without N's: 99592 bp, maximal covered length: 91512 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000009.1 (total length: 93726 bp, total length without N's: 93726 bp, maximal covered length: 92058 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000010.1 (total length: 89937 bp, total length without N's: 89937 bp, maximal covered length: 79784 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000011.1 (total length: 66287 bp, total length without N's: 66287 bp, maximal covered length: 34819 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000012.1 (total length: 34749 bp, total length without N's: 34749 bp, maximal covered length: 27471 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000013.1 (total length: 27631 bp, total length without N's: 27631 bp, maximal covered length: 26987 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000014.1 (total length: 26320 bp, total length without N's: 26320 bp, maximal covered length: 24462 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000015.1 (total length: 22468 bp, total length without N's: 22468 bp, maximal covered length: 15587 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000016.1 (total length: 8105 bp, total length without N's: 8105 bp, maximal covered length: 2384 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000017.1 (total length: 6060 bp, total length without N's: 6060 bp, maximal covered length: 3921 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000018.1 (total length: 5338 bp, total length without N's: 5338 bp, maximal covered length: 872 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000019.1 (total length: 5298 bp, total length without N's: 5298 bp, maximal covered length: 5249 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000020.1 (total length: 1569 bp, total length without N's: 1569 bp, maximal covered length: 1278 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000021.1 (total length: 1424 bp, total length without N's: 1424 bp, maximal covered length: 1351 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000022.1 (total length: 1298 bp, total length without N's: 1298 bp, maximal covered length: 1221 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000023.1 (total length: 983 bp, total length without N's: 983 bp, maximal covered length: 293 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000024.1 (total length: 715 bp, total length without N's: 715 bp, maximal covered length: 573 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000025.1 (total length: 638 bp, total length without N's: 638 bp, maximal covered length: 616 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000026.1 (total length: 617 bp, total length without N's: 617 bp, maximal covered length: 614 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000027.1 (total length: 577 bp, total length without N's: 577 bp, maximal covered length: 0 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000028.1 (total length: 523 bp, total length without N's: 523 bp, maximal covered length: 0 bp)
+	Leuconostoc_pseudomesenteroides_KCTC_3652_NZ_BMBP01000029.1 (total length: 505 bp, total length without N's: 505 bp, maximal covered length: 0 bp)
+
+total genome size: 2095808
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Leucono | 84.157    | 1.081       | 409       | -         | -         | -         | -         |

@@ -1,0 +1,1285 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+774725	775551	827	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_78	99.64		True
+CONTIG	k91_78	827	correct
+940119	940737	619	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_107932	98.22		True
+CONTIG	k91_107932	619	correct
+2354329	2355488	1	1160	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_215839	99.22		True
+CONTIG	k91_215839	1160	correct
+429486	431130	1	1645	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_144094	98.84		True
+CONTIG	k91_144094	1645	correct
+909730	910275	1	546	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_144098	100.0		True
+CONTIG	k91_144098	546	correct
+2199530	2200054	525	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_144100	98.86		True
+CONTIG	k91_144100	525	correct
+2134605	2135467	1	863	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_216029	99.19		True
+CONTIG	k91_216029	863	correct
+2294783	2296054	1	1272	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_180154	99.06		True
+CONTIG	k91_180154	1272	correct
+1600739	1602066	1	1328	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_180243	98.34		True
+CONTIG	k91_180243	1328	correct
+1665590	1666100	511	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_36593	98.83		True
+CONTIG	k91_36593	511	correct
+2025383	2026709	1	1327	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_144362	99.1		True
+CONTIG	k91_144362	1327	correct
+1657662	1658898	1	1237	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_108735	99.6		True
+CONTIG	k91_108735	1237	correct
+1557480	1558720	1263	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_621	97.15		True
+CONTIG	k91_621	1263	correct
+2094298	2095806	1	1510	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_108936	99.27		True
+CONTIG	k91_108936	1510	correct
+148819	149161	1	343	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_109016	100.0		True
+CONTIG	k91_109016	1373	correct_unaligned
+456357	457043	687	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_216432	98.54		True
+CONTIG	k91_216432	687	correct
+1580302	1581046	1	745	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_252395	99.19		True
+CONTIG	k91_252395	745	correct
+92655	93299	649	5	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_109103	99.38		True
+CONTIG	k91_109103	649	correct
+20915	21087	1	173	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_216540	97.69		True
+indel: indel (> 5bp)
+21178	21710	174	706	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_216540	99.81		True
+CONTIG	k91_216540	706	correct
+809828	809989	162	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_896	99.38		True
+relocation, inconsistency = 2354
+807125	807449	510	187	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_896	99.08		True
+CONTIG	k91_896	510	misassembled
+622370	622988	619	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_252714	98.06		True
+CONTIG	k91_252714	619	correct
+397579	398224	6	651	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_109548	99.23		True
+CONTIG	k91_109548	651	correct
+1480645	1481229	1	563	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_1181	95.04		True
+CONTIG	k91_1181	563	correct
+1779856	1780753	1	898	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_181032	98.89		True
+CONTIG	k91_181032	910	correct
+1136026	1137033	1	1010	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_181056	98.61		True
+CONTIG	k91_181056	1010	correct
+1988622	1989137	7	522	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_252972	100.0		True
+CONTIG	k91_252972	522	correct
+88451	89917	1467	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_109802	99.18		True
+CONTIG	k91_109802	1467	correct
+601413	602653	1	1241	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_37476	98.79		True
+relocation, inconsistency = 1249
+603903	604088	1242	1427	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_37476	98.95		True
+CONTIG	k91_37476	1431	misassembled
+2082487	2083150	1	664	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_253080	98.49		True
+CONTIG	k91_253080	664	correct
+802214	802947	734	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_73414	99.32		True
+CONTIG	k91_73414	734	correct
+457442	459109	1668	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_181221	99.1		True
+CONTIG	k91_181221	1668	correct
+736	1424	689	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_73438	98.26		True
+CONTIG	k91_73438	689	correct
+113098	113907	986	177	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_110045	99.14		True
+CONTIG	k91_110045	986	correct
+1696463	1697381	936	18	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_37698	97.61		True
+CONTIG	k91_37698	936	correct
+2233739	2234699	961	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_145388	99.58		True
+CONTIG	k91_145388	961	correct
+2113836	2115518	1682	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_37761	99.7		True
+CONTIG	k91_37761	1682	correct
+1632675	1634090	1	1422	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_1642	98.59		True
+CONTIG	k91_1642	1426	correct
+757362	758086	725	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_110304	99.03		True
+CONTIG	k91_110304	725	correct
+1602540	1603192	692	40	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_110499	98.62		True
+CONTIG	k91_110499	948	correct
+51892	54170	2278	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_74077	99.34		True
+CONTIG	k91_74077	2278	correct
+530692	531174	41	523	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_38158	99.79		True
+CONTIG	k91_38158	523	correct
+913699	914387	1	689	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_110722	97.24		True
+CONTIG	k91_110722	689	correct
+2143397	2144086	689	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_38261	97.83		True
+CONTIG	k91_38261	689	correct
+1316593	1317269	1	677	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_253609	96.31		True
+CONTIG	k91_253609	679	correct
+1104607	1105178	571	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_110857	97.55		True
+CONTIG	k91_110857	571	correct
+1057184	1057774	591	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_253690	98.14		True
+CONTIG	k91_253690	591	correct
+448942	449459	518	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_74449	99.23		True
+CONTIG	k91_74449	518	correct
+675385	676521	1137	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_218137	98.94		True
+CONTIG	k91_218137	1137	correct
+410133	410851	1	719	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_182238	94.71		True
+CONTIG	k91_182238	719	correct
+2003813	2004917	39	1143	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_182378	99.64		True
+CONTIG	k91_182378	1143	correct
+798504	799261	758	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_111358	98.68		True
+CONTIG	k91_111358	758	correct
+282195	282969	1	774	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_74883	98.45		True
+CONTIG	k91_74883	774	correct
+1277376	1277913	538	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_146544	97.4		True
+CONTIG	k91_146544	623	correct
+417567	418581	1016	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_2722	99.02		True
+CONTIG	k91_2722	1016	correct
+1846751	1847334	580	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_39195	90.75		True
+CONTIG	k91_39195	580	correct
+1012641	1013941	1301	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_254256	98.16		True
+CONTIG	k91_254256	1301	correct
+1770959	1771870	9	920	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_254303	98.46		True
+CONTIG	k91_254303	920	correct
+365386	366194	1	811	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_75328	98.77		True
+CONTIG	k91_75328	811	correct
+553735	554324	590	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_111824	99.15		True
+CONTIG	k91_111824	590	correct
+1843348	1845240	1	1893	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_3291	99.31		True
+CONTIG	k91_3291	1893	correct
+358188	359098	1	911	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_183279	99.34		True
+CONTIG	k91_183279	911	correct
+2369782	2371227	1446	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_219445	98.34		True
+CONTIG	k91_219445	1446	correct
+2133733	2134326	594	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_112262	99.49		True
+CONTIG	k91_112262	594	correct
+476736	477382	647	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_254990	99.23		True
+CONTIG	k91_254990	647	correct
+2368562	2369103	1	542	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_40101	99.45		True
+CONTIG	k91_40101	542	correct
+98596	99202	607	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_255026	98.68		True
+CONTIG	k91_255026	607	correct
+852060	852553	60	553	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_112437	93.56		True
+CONTIG	k91_112437	553	correct
+339201	339804	1	604	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_3839	98.01		True
+CONTIG	k91_3839	604	correct
+2048687	2049208	522	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_4072	99.04		True
+CONTIG	k91_4072	522	correct
+1952861	1953396	536	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_40643	100.0		True
+CONTIG	k91_40643	536	correct
+2014717	2015331	639	25	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_147853	98.7		True
+CONTIG	k91_147853	639	correct
+564452	565097	1	646	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_255529	99.07		True
+CONTIG	k91_255529	646	correct
+2269114	2269566	134	587	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_220110	99.12		True
+CONTIG	k91_220110	587	correct
+1891693	1893249	1557	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_76364	99.04		True
+CONTIG	k91_76364	1557	correct
+289179	290081	1	903	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_184252	99.45		True
+CONTIG	k91_184252	1139	correct
+834623	835286	1	664	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_40794	99.4		True
+CONTIG	k91_40794	664	correct
+2009555	2010247	1	693	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_40814	98.7		True
+CONTIG	k91_40814	693	correct
+477504	478411	1	908	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_4401	99.23		True
+CONTIG	k91_4401	912	correct
+313687	314441	757	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_220249	98.94		True
+CONTIG	k91_220249	757	correct
+1476884	1477590	1	708	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_220316	98.87		True
+CONTIG	k91_220316	708	correct
+126850	127904	1	1054	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_255834	99.43		True
+CONTIG	k91_255834	1054	correct
+677552	678201	2	651	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_4557	97.38		True
+CONTIG	k91_4557	651	correct
+1755818	1756549	1	732	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_4559	99.32		True
+CONTIG	k91_4559	732	correct
+446043	446542	1	500	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_220454	98.2		True
+CONTIG	k91_220454	500	correct
+2040031	2040853	1	823	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_184670	99.27		True
+CONTIG	k91_184670	823	correct
+2052224	2052942	1	719	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_76904	99.44		True
+CONTIG	k91_76904	719	correct
+2375263	2375520	4018	3761	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_4865	91.47		True
+CONTIG	k91_4865	4328	correct_unaligned
+1447096	1447667	572	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_41384	98.6		True
+CONTIG	k91_41384	572	correct
+481071	482023	1	953	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_41393	97.9		True
+CONTIG	k91_41393	953	correct
+1928207	1928520	787	474	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_148456	95.22		True
+CONTIG	k91_148456	787	correct
+1689168	1689671	504	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_220867	99.6		True
+CONTIG	k91_220867	504	correct
+1758837	1759094	1	258	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_185085	99.26		True
+relocation, inconsistency = 1079
+1760174	1760579	259	664	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_185085	98.52		True
+CONTIG	k91_185085	664	misassembled
+312561	313066	506	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_148506	98.81		True
+CONTIG	k91_148506	506	correct
+1421831	1422766	1	936	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_41605	98.5		True
+CONTIG	k91_41605	936	correct
+2083495	2084335	841	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_77169	99.17		True
+CONTIG	k91_77169	841	correct
+702665	703186	522	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_148687	100.0		True
+CONTIG	k91_148687	522	correct
+1768741	1769758	1	1018	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_185388	99.31		True
+CONTIG	k91_185388	1021	correct
+2136974	2138176	1	1203	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_77478	99.58		True
+CONTIG	k91_77478	1203	correct
+1477446	1477968	523	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_5517	98.28		True
+CONTIG	k91_5517	523	correct
+64853	66173	1321	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_42155	99.62		True
+CONTIG	k91_42155	1321	correct
+1262467	1263268	796	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_5589	96.63		True
+CONTIG	k91_5589	796	correct
+532039	532994	1	956	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_221749	99.27		True
+CONTIG	k91_221749	956	correct
+1851233	1851921	1	689	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_257031	99.42		True
+CONTIG	k91_257031	708	correct
+428145	428869	725	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_257045	98.34		True
+CONTIG	k91_257045	725	correct
+1836364	1837279	1	916	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_77862	99.24		True
+CONTIG	k91_77862	916	correct
+1432955	1433473	519	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_185880	98.65		True
+CONTIG	k91_185880	519	correct
+374720	375702	982	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_77955	98.98		True
+CONTIG	k91_77955	982	correct
+2043947	2044528	8	589	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_221876	99.66		True
+CONTIG	k91_221876	589	correct
+1342062	1342594	2	534	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_185901	98.12		True
+CONTIG	k91_185901	542	correct
+2126334	2127582	1249	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_257193	99.6		True
+CONTIG	k91_257193	1249	correct
+692368	693243	1	876	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_149440	98.29		True
+CONTIG	k91_149440	876	correct
+168424	169863	1440	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_257269	99.1		True
+CONTIG	k91_257269	1440	correct
+566577	567013	437	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_78175	99.54		True
+CONTIG	k91_78175	761	correct
+34064	34636	573	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_6083	99.83		True
+CONTIG	k91_6083	573	correct
+1876762	1877787	1	1026	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_78211	99.71		True
+CONTIG	k91_78211	1026	correct
+1646972	1647968	1	997	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_257412	97.79		True
+CONTIG	k91_257412	997	correct
+1795487	1796167	681	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_257440	98.68		True
+CONTIG	k91_257440	681	correct
+943944	944608	1	665	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_149824	99.1		True
+CONTIG	k91_149824	666	correct
+1619442	1620026	1	586	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_149955	98.46		True
+CONTIG	k91_149955	586	correct
+600063	600722	660	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_43211	97.42		True
+CONTIG	k91_43211	660	correct
+2104807	2105400	594	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_78699	99.49		True
+CONTIG	k91_78699	596	correct
+182231	182628	592	195	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_186786	97.49		True
+CONTIG	k91_186786	592	correct
+46441	46703	363	625	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_79080	98.1		True
+CONTIG	k91_79080	735	correct
+876497	877053	557	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_258059	99.1		True
+CONTIG	k91_258059	557	correct
+698875	699658	784	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_258070	98.85		True
+CONTIG	k91_258070	784	correct
+474440	475635	1	1196	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_258075	99.41		True
+CONTIG	k91_258075	1196	correct
+2142720	2143408	689	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_187030	99.71		True
+CONTIG	k91_187030	689	correct
+2293138	2293664	1	527	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_43685	97.72		True
+CONTIG	k91_43685	527	correct
+1788078	1788633	566	10	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_115506	96.59		True
+CONTIG	k91_115506	566	correct
+2209101	2209191	406	496	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_7416	97.8		True
+CONTIG	k91_7416	501	correct
+158497	159099	603	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_44055	99.5		True
+CONTIG	k91_44055	603	correct
+606986	607790	805	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_150850	98.76		True
+CONTIG	k91_150850	805	correct
+394157	395685	1529	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_115922	97.97		True
+CONTIG	k91_115922	1529	correct
+1448235	1448904	1	670	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_44194	98.36		True
+CONTIG	k91_44194	670	correct
+2249179	2249695	6	522	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_79765	98.65		True
+CONTIG	k91_79765	522	correct
+105911	106398	488	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_79785	98.77		True
+CONTIG	k91_79785	522	correct
+824712	825010	299	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_223672	100.0		True
+CONTIG	k91_223672	904	correct_unaligned
+1320660	1321166	553	47	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_44296	97.63		True
+CONTIG	k91_44296	553	correct
+268458	269222	1	764	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_79921	98.43		True
+CONTIG	k91_79921	764	correct
+138888	139606	4	721	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_44361	99.03		True
+CONTIG	k91_44361	721	correct
+721764	722527	1	764	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_44372	99.08		True
+CONTIG	k91_44372	776	correct
+1686136	1687011	876	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_7748	99.09		True
+CONTIG	k91_7748	876	correct
+1885609	1886129	1	521	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_116234	99.44		True
+relocation, inconsistency = 1080
+1887210	1888107	522	1419	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_116234	98.33		True
+CONTIG	k91_116234	1419	misassembled
+1599756	1600710	1	955	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_80077	98.64		True
+CONTIG	k91_80077	955	correct
+233161	234388	1	1228	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_258789	98.7		True
+CONTIG	k91_258789	1228	correct
+24914	26038	92	1216	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_187993	99.38		True
+CONTIG	k91_187993	1216	correct
+555786	556532	1	747	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_8076	96.93		True
+CONTIG	k91_8076	755	correct
+2073349	2074058	710	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_44692	99.01		True
+CONTIG	k91_44692	710	correct
+2310762	2311268	1	507	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_188116	99.21		True
+CONTIG	k91_188116	507	correct
+1819195	1819786	592	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_8150	97.8		True
+CONTIG	k91_8150	672	correct
+142205	142655	635	186	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_8277	97.12		True
+CONTIG	k91_8277	635	correct
+20196	20992	797	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_151774	98.87		True
+CONTIG	k91_151774	797	correct
+597249	597906	1	658	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_116805	99.39		True
+CONTIG	k91_116805	658	correct
+317965	319214	1249	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_45146	99.04		True
+CONTIG	k91_45146	1249	correct
+2298174	2299130	957	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_8505	98.96		True
+CONTIG	k91_8505	961	correct
+2124249	2125179	21	951	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_45185	98.17		True
+CONTIG	k91_45185	951	correct
+2111574	2112128	555	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_45338	98.38		True
+CONTIG	k91_45338	555	correct
+492437	492952	516	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_188673	99.03		True
+CONTIG	k91_188673	516	correct
+428635	429173	1	539	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_45470	96.47		True
+CONTIG	k91_45470	539	correct
+543509	544381	873	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_259688	98.51		True
+CONTIG	k91_259688	873	correct
+1609360	1610259	900	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_81012	98.67		True
+CONTIG	k91_81012	900	correct
+1520395	1521137	743	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_117385	99.06		True
+CONTIG	k91_117385	743	correct
+2253426	2253934	5	513	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_225055	93.16		True
+CONTIG	k91_225055	513	correct
+269779	270413	635	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_152489	99.06		True
+CONTIG	k91_152489	635	correct
+196	726	531	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_117528	98.87		True
+CONTIG	k91_117528	546	correct
+1607186	1607732	1	547	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_81423	96.89		True
+CONTIG	k91_81423	547	correct
+249390	249960	1	571	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_81474	98.95		True
+CONTIG	k91_81474	571	correct
+1425978	1426521	544	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_189360	98.53		True
+CONTIG	k91_189360	561	correct
+2385033	2386163	1131	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_81588	98.94		True
+CONTIG	k91_81588	1131	correct
+1464051	1464720	670	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_117810	98.96		True
+CONTIG	k91_117810	670	correct
+1653215	1654868	6	1659	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_260262	99.4		True
+CONTIG	k91_260262	1659	correct
+1068141	1068677	537	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_152858	99.07		True
+CONTIG	k91_152858	537	correct
+285098	285710	613	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_189505	99.67		True
+CONTIG	k91_189505	613	correct
+9146	9881	736	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_225601	98.91		True
+CONTIG	k91_225601	736	correct
+2242533	2243050	517	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_152895	96.15		True
+CONTIG	k91_152895	517	correct
+297025	298123	1	1099	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_46196	99.36		True
+CONTIG	k91_46196	1099	correct
+2261371	2262075	705	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_189573	99.43		True
+CONTIG	k91_189573	705	correct
+1857441	1858175	735	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_189629	99.32		True
+CONTIG	k91_189629	738	correct
+165690	166792	1	1106	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_46290	98.37		True
+CONTIG	k91_46290	1106	correct
+2289133	2289712	1	580	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_260590	100.0		True
+CONTIG	k91_260590	580	correct
+718917	719103	1075	889	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_225956	95.19		True
+CONTIG	k91_225956	1078	correct_unaligned
+1547825	1548896	1	1072	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_189990	98.6		True
+CONTIG	k91_189990	1072	correct
+498590	499256	667	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_226065	98.8		True
+CONTIG	k91_226065	667	correct
+1783900	1784439	1	540	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_226136	98.89		True
+CONTIG	k91_226136	540	correct
+288344	288898	559	5	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_153436	98.2		True
+CONTIG	k91_153436	559	correct
+1967320	1968841	1	1522	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_46783	99.47		True
+CONTIG	k91_46783	1522	correct
+252377	253056	679	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_82499	99.26		True
+CONTIG	k91_82499	679	correct
+1506113	1506721	609	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_10383	99.18		True
+CONTIG	k91_10383	609	correct
+1921044	1921120	438	514	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_190312	100.0		True
+CONTIG	k91_190312	520	correct
+1828919	1830095	1177	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_10403	97.45		True
+CONTIG	k91_10403	1177	correct
+372190	373479	1290	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_153636	97.52		True
+CONTIG	k91_153636	1290	correct
+602938	603604	1	666	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_261175	96.7		True
+CONTIG	k91_261175	666	correct
+2078322	2078876	1	555	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_153698	100.0		True
+CONTIG	k91_153698	555	correct
+283246	283776	1	531	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_226452	98.68		True
+CONTIG	k91_226452	531	correct
+1015192	1015985	794	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_153785	98.61		True
+CONTIG	k91_153785	794	correct
+2035414	2035991	1	578	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_261375	99.48		True
+CONTIG	k91_261375	578	correct
+121892	122438	547	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_153944	98.72		True
+CONTIG	k91_153944	547	correct
+151519	152238	720	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_190802	99.58		True
+CONTIG	k91_190802	720	correct
+847934	848499	5	570	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_261817	98.59		True
+CONTIG	k91_261817	570	correct
+275339	275960	1	622	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_227000	97.43		True
+CONTIG	k91_227000	622	correct
+783146	783917	772	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_47862	99.22		True
+CONTIG	k91_47862	772	correct
+1339973	1340492	520	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_83405	99.04		True
+CONTIG	k91_83405	520	correct
+1672486	1672976	85	575	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_119325	95.93		True
+CONTIG	k91_119325	575	correct
+1927166	1927402	625	388	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_261872	96.22		True
+CONTIG	k91_261872	625	correct
+2227166	2227904	1	738	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_11196	98.78		True
+CONTIG	k91_11196	738	correct
+552162	552780	619	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_227117	98.87		True
+CONTIG	k91_227117	619	correct
+1677503	1678024	522	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_227129	99.04		True
+CONTIG	k91_227129	522	correct
+574962	575313	1	352	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_119516	99.15		True
+CONTIG	k91_119516	782	correct
+1078887	1079593	707	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_11317	98.59		True
+CONTIG	k91_11317	707	correct
+840708	841273	1	566	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_227414	98.59		True
+CONTIG	k91_227414	566	correct
+552778	553695	918	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_262167	99.24		True
+CONTIG	k91_262167	918	correct
+2097916	2098702	787	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_119729	99.62		True
+CONTIG	k91_119729	787	correct
+1791811	1792461	651	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_191517	99.54		True
+CONTIG	k91_191517	651	correct
+108761	109454	694	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_154696	99.86		True
+CONTIG	k91_154696	694	correct
+314561	315245	685	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_48330	99.27		True
+CONTIG	k91_48330	685	correct
+1211419	1211926	1	508	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_119939	97.64		True
+CONTIG	k91_119939	508	correct
+165114	165681	1	568	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_191705	99.12		True
+CONTIG	k91_191705	568	correct
+1603808	1604594	787	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_84161	98.48		True
+CONTIG	k91_84161	787	correct
+217388	218014	627	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_191962	98.88		True
+CONTIG	k91_191962	627	correct
+1103076	1104104	1	1029	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_48792	99.22		True
+CONTIG	k91_48792	1029	correct
+2259502	2260425	1	924	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_262754	98.59		True
+CONTIG	k91_262754	924	correct
+1756694	1757229	1	536	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_84480	98.88		True
+CONTIG	k91_84480	536	correct
+302095	303254	7	1165	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_49125	99.66		True
+CONTIG	k91_49125	1165	correct
+334660	335754	1	1095	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_84690	96.17		True
+CONTIG	k91_84690	1095	correct
+1979096	1980188	1	1093	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_155367	99.36		True
+CONTIG	k91_155367	1093	correct
+1994313	1994882	570	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_12554	99.65		True
+CONTIG	k91_12554	570	correct
+450325	451195	1	871	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_155658	99.2		True
+CONTIG	k91_155658	871	correct
+55979	56153	1	175	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_263228	98.86		True
+relocation, inconsistency = 3391
+59619	60277	250	908	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_263228	99.39		True
+CONTIG	k91_263228	908	misassembled
+964475	965031	700	144	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_85063	99.46		True
+CONTIG	k91_85063	700	correct
+1010742	1011484	743	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_12816	98.92		True
+CONTIG	k91_12816	743	correct
+2356976	2358292	1	1317	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_12834	99.01		True
+CONTIG	k91_12834	1317	correct
+1947228	1947973	746	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_192870	99.2		True
+CONTIG	k91_192870	746	correct
+540745	541464	1	720	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_85246	99.72		True
+CONTIG	k91_85246	720	correct
+207721	208545	825	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_85295	96.85		True
+CONTIG	k91_85295	858	correct
+577392	578309	929	12	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_263464	99.46		True
+CONTIG	k91_263464	929	correct
+84223	84884	1	662	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_13071	98.94		True
+CONTIG	k91_13071	662	correct
+144128	144378	275	525	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_49870	99.2		True
+CONTIG	k91_49870	525	correct
+1673682	1674237	557	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_193218	98.38		True
+CONTIG	k91_193218	557	correct
+1815374	1816436	1063	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_121322	97.18		True
+CONTIG	k91_121322	1063	correct
+572115	572647	533	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_156204	98.69		True
+CONTIG	k91_156204	533	correct
+2230741	2232090	1382	31	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_13483	98.96		True
+CONTIG	k91_13483	1382	correct
+2041809	2042508	1	700	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_85773	99.86		True
+CONTIG	k91_85773	700	correct
+166904	168058	1	1155	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_13560	99.39		True
+CONTIG	k91_13560	1155	correct
+1690526	1691234	709	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_85846	99.72		True
+CONTIG	k91_85846	709	correct
+1888418	1889999	1	1582	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_121667	99.3		True
+CONTIG	k91_121667	1582	correct
+209263	209935	673	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_156602	99.26		True
+CONTIG	k91_156602	676	correct
+794059	794729	671	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_264233	98.06		True
+CONTIG	k91_264233	671	correct
+2123038	2124481	1	1444	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_50637	99.79		True
+CONTIG	k91_50637	1444	correct
+2028728	2029232	505	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_264372	98.02		True
+CONTIG	k91_264372	505	correct
+236734	238030	1297	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_14040	96.92		True
+CONTIG	k91_14040	1297	correct
+1807577	1808242	1	666	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_50885	98.35		True
+CONTIG	k91_50885	666	correct
+1982951	1983532	1	591	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_86347	98.14		True
+CONTIG	k91_86347	591	correct
+1948947	1949491	1	545	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_194171	99.45		True
+CONTIG	k91_194171	545	correct
+1825902	1826396	495	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_264631	98.79		True
+relocation, inconsistency = 459252
+1366030	1366603	542	1115	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_264631	98.61		True
+CONTIG	k91_264631	1115	misassembled
+1873664	1874372	709	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_230199	98.59		True
+CONTIG	k91_230199	709	correct
+2187446	2188255	1	809	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_194271	99.88		True
+CONTIG	k91_194271	809	correct
+2202140	2203226	1096	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_157124	98.27		True
+CONTIG	k91_157124	1117	correct
+2012270	2013173	1	904	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_194345	99.0		True
+CONTIG	k91_194345	904	correct
+730169	730695	527	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_86607	99.62		True
+CONTIG	k91_86607	527	correct
+1990628	1991465	838	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_157207	98.69		True
+CONTIG	k91_157207	838	correct
+1489022	1490091	1	1070	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_122385	99.16		True
+CONTIG	k91_122385	1070	correct
+950776	951384	1	609	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_122463	99.18		True
+CONTIG	k91_122463	615	correct
+556962	557704	743	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_14470	98.79		True
+CONTIG	k91_14470	743	correct
+2271019	2271590	61	631	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_194529	94.42		True
+CONTIG	k91_194529	777	correct
+693821	695008	1	1188	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_194695	99.41		True
+CONTIG	k91_194695	1188	correct
+270836	271811	976	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_14652	99.18		True
+CONTIG	k91_14652	976	correct
+2092975	2093675	701	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_14701	99.43		True
+CONTIG	k91_14701	701	correct
+1814006	1814770	1	765	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_51713	99.61		True
+CONTIG	k91_51713	765	correct
+1713750	1714315	1	566	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_194973	99.47		True
+CONTIG	k91_194973	566	correct
+1996641	1997283	643	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_51814	98.29		True
+CONTIG	k91_51814	643	correct
+1371232	1371751	521	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_14956	97.89		True
+CONTIG	k91_14956	521	correct
+1247469	1248397	929	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_230996	96.23		True
+CONTIG	k91_230996	929	correct
+743467	744047	581	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_51932	100.0		True
+CONTIG	k91_51932	581	correct
+255429	256251	1	823	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_158069	99.88		True
+CONTIG	k91_158069	823	correct
+506580	507260	1	681	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_231476	99.41		True
+CONTIG	k91_231476	681	correct
+2386925	2387890	966	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_87868	98.24		True
+CONTIG	k91_87868	966	correct
+2063800	2064591	1	792	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_123559	99.49		True
+CONTIG	k91_123559	792	correct
+2312808	2313830	1023	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_15635	99.61		True
+CONTIG	k91_15635	1023	correct
+2188594	2190430	1882	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_266245	96.01		True
+CONTIG	k91_266245	1882	correct
+1208512	1209041	1	530	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_15706	97.55		True
+CONTIG	k91_15706	530	correct
+2067939	2068557	1	619	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_15907	97.9		True
+CONTIG	k91_15907	619	correct
+235384	236252	1	869	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_124105	98.85		True
+CONTIG	k91_124105	869	correct
+1293710	1294270	561	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_16063	99.82		True
+CONTIG	k91_16063	561	correct
+1753787	1754485	1	699	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_266992	99.0		True
+CONTIG	k91_266992	699	correct
+2081002	2082336	1336	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_159086	98.2		True
+CONTIG	k91_159086	1336	correct
+184748	185565	1	818	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_53295	99.14		True
+CONTIG	k91_53295	818	correct
+1524941	1525625	685	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_267088	98.83		True
+CONTIG	k91_267088	685	correct
+220485	221169	685	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_16621	96.94		True
+CONTIG	k91_16621	685	correct
+2392211	2393758	1	1548	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_159329	99.68		True
+CONTIG	k91_159329	1548	correct
+1725579	1725673	1	95	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_232589	100.0		True
+CONTIG	k91_232589	517	correct
+1992068	1993182	1115	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_53552	99.46		True
+CONTIG	k91_53552	1115	correct
+2128058	2129319	1262	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_232803	99.05		True
+CONTIG	k91_232803	1262	correct
+180710	181361	1	652	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_159581	99.23		True
+CONTIG	k91_159581	673	correct
+346712	347310	1	599	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_197080	99.67		True
+CONTIG	k91_197080	599	correct
+1806033	1806651	619	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_17103	98.87		True
+CONTIG	k91_17103	619	correct
+997085	997542	546	89	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_17137	100.0		True
+CONTIG	k91_17137	546	correct
+986565	987335	771	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_89524	99.74		True
+CONTIG	k91_89524	771	correct
+3500	4582	1083	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_197343	99.63		True
+CONTIG	k91_197343	1083	correct
+563189	563737	1	549	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_267831	98.91		True
+CONTIG	k91_267831	549	correct
+1810909	1811451	1	543	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_89754	99.45		True
+CONTIG	k91_89754	543	correct
+2303612	2304425	814	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_17394	98.16		True
+CONTIG	k91_17394	814	correct
+1823620	1824474	1	855	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_89777	99.06		True
+CONTIG	k91_89777	855	correct
+1465379	1466339	961	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_54353	99.38		True
+CONTIG	k91_54353	961	correct
+2371794	2372564	1	771	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_90015	98.83		True
+CONTIG	k91_90015	771	correct
+31779	32952	1	1174	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_125752	99.57		True
+CONTIG	k91_125752	1174	correct
+2037005	2037697	7	699	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_268242	99.42		True
+CONTIG	k91_268242	699	correct
+2286564	2288613	2049	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_233692	99.17		True
+CONTIG	k91_233692	2049	correct
+2375966	2380672	4705	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_17747	99.32		True
+CONTIG	k91_17747	4705	correct
+1785455	1786007	1	553	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_54552	99.1		True
+CONTIG	k91_54552	554	correct
+696514	697331	818	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_54584	99.39		True
+CONTIG	k91_54584	818	correct
+128996	129833	1	838	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_268433	98.57		True
+CONTIG	k91_268433	838	correct
+2000971	2001944	1	974	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_17985	98.56		True
+CONTIG	k91_17985	974	correct
+1866262	1866891	1	630	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_54749	99.52		True
+CONTIG	k91_54749	630	correct
+117945	118702	757	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_268561	99.47		True
+CONTIG	k91_268561	757	correct
+342020	342538	4	522	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_268571	98.65		True
+CONTIG	k91_268571	522	correct
+1263406	1263964	1	559	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_198185	97.5		True
+CONTIG	k91_198185	559	correct
+249916	250638	723	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_126152	99.31		True
+CONTIG	k91_126152	723	correct
+138355	138898	1	544	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_198237	99.45		True
+CONTIG	k91_198237	544	correct
+1394516	1395057	542	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_160774	99.63		True
+CONTIG	k91_160774	542	correct
+424885	425594	710	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_18172	98.59		True
+CONTIG	k91_18172	710	correct
+1531443	1532163	721	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_90563	98.47		True
+CONTIG	k91_90563	721	correct
+1440690	1441436	1	747	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_160844	99.06		True
+CONTIG	k91_160844	747	correct
+2018774	2019335	1	562	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_55071	98.75		True
+CONTIG	k91_55071	562	correct
+2074067	2074880	1	814	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_90635	99.63		True
+CONTIG	k91_90635	814	correct
+1868227	1868737	1	511	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_18327	99.22		True
+CONTIG	k91_18327	511	correct
+791573	792621	1049	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_269004	98.86		True
+CONTIG	k91_269004	1049	correct
+27699	28389	692	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_234621	99.86		True
+CONTIG	k91_234621	692	correct
+784680	785623	1	944	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_18594	98.2		True
+CONTIG	k91_18594	944	correct
+1596260	1597077	827	10	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_55557	93.61		True
+CONTIG	k91_55557	827	correct
+2122046	2122665	1	620	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_199051	99.84		True
+CONTIG	k91_199051	620	correct
+1837385	1838171	1	787	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_91301	98.73		True
+CONTIG	k91_91301	787	correct
+1880555	1881339	785	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_18966	99.11		True
+CONTIG	k91_18966	785	correct
+2107488	2108002	1	515	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_19016	99.81		True
+relocation, inconsistency = 1080
+2109083	2109326	516	759	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_19016	99.61		True
+CONTIG	k91_19016	759	misassembled
+145316	145937	623	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_235101	97.91		True
+CONTIG	k91_235101	623	correct
+2302117	2303519	13	1415	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_19161	98.93		True
+CONTIG	k91_19161	1415	correct
+2297416	2298055	640	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_161977	97.66		True
+CONTIG	k91_161977	640	correct
+2192882	2193206	217	541	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_91869	99.08		True
+CONTIG	k91_91869	541	correct
+1486671	1487395	725	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_162148	98.62		True
+CONTIG	k91_162148	725	correct
+116757	117274	1	518	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_162219	100.0		True
+CONTIG	k91_162219	518	correct
+332147	332851	1	705	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_162338	98.01		True
+CONTIG	k91_162338	705	correct
+786531	787040	1	510	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_270597	100.0		True
+CONTIG	k91_270597	510	correct
+1405294	1405811	518	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_92316	99.03		True
+CONTIG	k91_92316	518	correct
+1134903	1135658	1	756	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_200180	99.34		True
+CONTIG	k91_200180	756	correct
+286426	287266	841	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_270633	98.45		True
+CONTIG	k91_270633	841	correct
+1937947	1938465	1	519	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_162532	97.88		True
+CONTIG	k91_162532	519	correct
+1777792	1778569	1	778	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_162533	98.71		True
+CONTIG	k91_162533	778	correct
+147683	148555	1	873	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_20060	98.74		True
+CONTIG	k91_20060	873	correct
+382574	383293	1	719	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_236267	99.03		True
+CONTIG	k91_236267	719	correct
+527271	527963	693	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_163015	98.99		True
+CONTIG	k91_163015	693	correct
+1149115	1149704	1	590	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_271292	98.98		True
+CONTIG	k91_271292	590	correct
+441644	442519	876	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_92945	98.74		True
+CONTIG	k91_92945	876	correct
+2235503	2236500	1	997	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_236503	99.2		True
+CONTIG	k91_236503	997	correct
+230764	231572	809	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_57406	99.26		True
+CONTIG	k91_57406	809	correct
+2116222	2117076	855	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_236540	99.53		True
+CONTIG	k91_236540	867	correct
+2294231	2294733	503	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_236596	99.6		True
+CONTIG	k91_236596	503	correct
+1870240	1870932	693	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_236763	98.56		True
+CONTIG	k91_236763	697	correct
+1449078	1449593	1	516	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_93256	99.22		True
+CONTIG	k91_93256	516	correct
+2054070	2054570	501	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_93304	99.4		True
+CONTIG	k91_93304	501	correct
+91253	92004	1	752	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_271769	98.54		True
+CONTIG	k91_271769	752	correct
+2200229	2201023	795	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_163522	99.75		True
+CONTIG	k91_163522	795	correct
+1312776	1313388	615	4	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_163567	98.53		True
+CONTIG	k91_163567	615	correct
+293691	294263	577	5	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_163627	98.43		True
+CONTIG	k91_163627	577	correct
+1981821	1982576	1	756	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_237145	98.54		True
+CONTIG	k91_237145	759	correct
+437498	437991	500	7	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_201540	99.19		True
+CONTIG	k91_201540	500	correct
+322936	323797	1	862	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_93808	99.54		True
+CONTIG	k91_93808	862	correct
+700282	700880	599	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_21057	98.5		True
+CONTIG	k91_21057	599	correct
+434972	435492	1	521	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_201695	99.42		True
+CONTIG	k91_201695	521	correct
+1855823	1856748	1	926	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_237449	99.24		True
+CONTIG	k91_237449	926	correct
+1865519	1866081	563	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_21192	99.82		True
+CONTIG	k91_21192	563	correct
+1730304	1730835	529	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_164062	91.81		True
+relocation, inconsistency = 1687935
+42193	42368	705	530	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_164062	92.97		True
+CONTIG	k91_164062	706	misassembled
+247266	247850	1	585	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_94112	99.49		True
+CONTIG	k91_94112	585	correct
+103794	104438	645	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_164200	98.29		True
+CONTIG	k91_164200	645	correct
+1541017	1541576	1	560	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_164321	99.64		True
+CONTIG	k91_164321	560	correct
+16313	17269	1	957	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_94399	99.37		True
+CONTIG	k91_94399	957	correct
+1811700	1812536	837	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_237911	99.16		True
+CONTIG	k91_237911	837	correct
+2353624	2354284	1	661	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_21614	99.24		True
+CONTIG	k91_21614	661	correct
+463507	464460	954	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_21669	99.06		True
+CONTIG	k91_21669	954	correct
+1526110	1526747	1	639	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_58963	99.53		True
+CONTIG	k91_58963	639	correct
+2120695	2121242	548	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_59086	99.45		True
+CONTIG	k91_59086	548	correct
+1610254	1610931	1	678	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_59095	99.71		True
+CONTIG	k91_59095	678	correct
+1466793	1467447	655	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_130283	99.24		True
+CONTIG	k91_130283	655	correct
+978068	978875	1	806	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_59166	92.01		True
+CONTIG	k91_59166	806	correct
+2253860	2253985	6	131	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_238258	96.83		True
+CONTIG	k91_238258	775	correct_unaligned
+81782	82311	532	3	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_238370	99.43		True
+CONTIG	k91_238370	532	correct
+509425	509966	542	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_130450	99.26		True
+CONTIG	k91_130450	542	correct
+595866	596530	665	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_130648	95.49		True
+CONTIG	k91_130648	693	correct
+1884260	1884852	1	593	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_22339	99.33		True
+CONTIG	k91_22339	593	correct
+306836	307522	1	687	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_238894	98.98		True
+CONTIG	k91_238894	687	correct
+434006	434990	1	985	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_60015	99.19		True
+CONTIG	k91_60015	985	correct
+893398	894109	1	712	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_22716	99.02		True
+CONTIG	k91_22716	712	correct
+369078	369864	1	787	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_22727	100.0		True
+CONTIG	k91_22727	787	correct
+580291	580854	564	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_165741	99.47		True
+CONTIG	k91_165741	564	correct
+1433489	1434332	844	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_60355	99.05		True
+CONTIG	k91_60355	844	correct
+118933	119559	1	627	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_96050	99.2		True
+CONTIG	k91_96050	627	correct
+1977221	1978710	1	1490	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_203773	99.19		True
+CONTIG	k91_203773	1490	correct
+1662762	1663453	692	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_23175	99.13		True
+CONTIG	k91_23175	692	correct
+565187	565992	821	14	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_96126	96.53		True
+CONTIG	k91_96126	821	correct
+1420294	1420767	474	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_96132	97.47		True
+CONTIG	k91_96132	513	correct
+2135682	2136263	1	582	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_239726	97.77		True
+CONTIG	k91_239726	582	correct
+277984	278546	1	563	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_131746	99.47		True
+CONTIG	k91_131746	563	correct
+213300	213934	1	635	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_239736	98.74		True
+CONTIG	k91_239736	635	correct
+2290872	2291576	1	705	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_96254	99.15		True
+CONTIG	k91_96254	705	correct
+917479	917957	628	150	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_131812	98.75		True
+CONTIG	k91_131812	628	correct
+2383500	2384243	1	744	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_60722	99.46		True
+CONTIG	k91_60722	744	correct
+378817	379319	502	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_131900	99.01		True
+CONTIG	k91_131900	502	correct
+1782119	1782656	1	538	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_23536	98.14		True
+CONTIG	k91_23536	538	correct
+764141	765258	1118	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_204312	96.42		True
+CONTIG	k91_204312	1118	correct
+305151	305692	542	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_132073	99.26		True
+CONTIG	k91_132073	542	correct
+941792	942277	232	717	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_274915	98.97		True
+CONTIG	k91_274915	717	correct
+2352642	2353210	569	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_96591	99.3		True
+CONTIG	k91_96591	569	correct
+2033783	2034498	71	786	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_240124	99.72		True
+CONTIG	k91_240124	786	correct
+1613894	1614394	501	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_96674	99.8		True
+CONTIG	k91_96674	501	correct
+598293	598876	1	585	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_23742	96.75		True
+CONTIG	k91_23742	585	correct
+439691	440508	1	818	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_166645	99.14		True
+CONTIG	k91_166645	818	correct
+888937	889615	679	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_23779	97.94		True
+CONTIG	k91_23779	679	correct
+406455	406985	531	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_132327	99.81		True
+CONTIG	k91_132327	531	correct
+18750	19988	1	1239	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_240253	98.06		True
+CONTIG	k91_240253	1239	correct
+2205576	2206153	577	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_96893	99.48		True
+CONTIG	k91_96893	577	correct
+1623125	1623636	512	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_275250	99.61		True
+CONTIG	k91_275250	512	correct
+86509	87440	931	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_24140	99.46		True
+CONTIG	k91_24140	931	correct
+2217864	2218380	1	517	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_61613	98.26		True
+CONTIG	k91_61613	517	correct
+2047715	2048477	1	766	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_61765	98.96		True
+CONTIG	k91_61765	766	correct
+1878609	1879112	504	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_205100	99.6		True
+CONTIG	k91_205100	508	correct
+2046619	2047574	958	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_275714	98.33		True
+CONTIG	k91_275714	958	correct
+140361	140914	554	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_240878	99.1		True
+CONTIG	k91_240878	554	correct
+432511	433336	1	826	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_205225	98.91		True
+CONTIG	k91_205225	826	correct
+2308418	2309067	1	650	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_133010	98.77		True
+CONTIG	k91_133010	650	correct
+1834554	1835060	506	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_97475	97.63		True
+CONTIG	k91_97475	506	correct
+991971	992878	908	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_240975	99.67		True
+CONTIG	k91_240975	914	correct
+2359101	2359909	809	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_133074	99.75		True
+CONTIG	k91_133074	821	correct
+1174086	1175197	1	1105	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_275990	96.04		True
+CONTIG	k91_275990	1105	correct
+231903	232516	1	614	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_62016	98.7		True
+CONTIG	k91_62016	615	correct
+1499984	1500700	717	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_276075	98.74		True
+CONTIG	k91_276075	717	correct
+2036269	2036763	6	500	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_205440	98.79		True
+CONTIG	k91_205440	500	correct
+850813	851444	1	632	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_241191	97.31		True
+CONTIG	k91_241191	632	correct
+837432	837931	500	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_276161	100.0		True
+CONTIG	k91_276161	500	correct
+1319939	1320661	1	723	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_97803	95.99		True
+CONTIG	k91_97803	723	correct
+796280	797007	1	728	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_205612	97.94		True
+CONTIG	k91_205612	728	correct
+145882	146406	1	533	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_24856	97.37		True
+indel: indel (> 5bp)
+146663	146830	598	765	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_24856	98.21		True
+CONTIG	k91_24856	949	correct
+2351438	2352059	1	622	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_241404	99.04		True
+CONTIG	k91_241404	622	correct
+1467539	1468146	1	608	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_276529	98.52		True
+CONTIG	k91_276529	608	correct
+871020	871876	857	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_62532	99.65		True
+CONTIG	k91_62532	863	correct
+2214958	2215926	969	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_62569	98.86		True
+CONTIG	k91_62569	969	correct
+321750	322373	624	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_206042	98.4		True
+CONTIG	k91_206042	627	correct
+1839188	1839689	502	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_168188	97.21		True
+CONTIG	k91_168188	502	correct
+108206	108744	539	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_276772	99.81		True
+CONTIG	k91_276772	539	correct
+1860100	1860661	1	562	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_168287	99.11		True
+CONTIG	k91_168287	562	correct
+939199	939768	578	6	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_276890	95.13		True
+CONTIG	k91_276890	769	correct
+620228	621389	1	1162	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_206174	99.4		True
+CONTIG	k91_206174	1163	correct
+1231322	1231894	573	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_25580	98.78		True
+CONTIG	k91_25580	573	correct
+897302	897919	1	618	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_25600	98.38		True
+CONTIG	k91_25600	618	correct
+1348353	1348865	1	513	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_98793	99.42		True
+CONTIG	k91_98793	513	correct
+2193395	2194588	1	1193	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_242352	99.16		True
+CONTIG	k91_242352	1193	correct
+1623920	1624996	1078	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_168856	99.44		True
+CONTIG	k91_168856	1078	correct
+777770	778400	1	631	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_98963	99.84		True
+CONTIG	k91_98963	631	correct
+2226300	2226877	578	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_242527	95.85		True
+relocation, inconsistency = 3989
+2222093	2222231	796	658	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_242527	94.96		True
+CONTIG	k91_242527	796	misassembled
+135522	136261	740	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_63582	97.03		True
+CONTIG	k91_63582	740	correct
+1963932	1964706	16	790	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_277612	96.9		True
+CONTIG	k91_277612	790	correct
+2241812	2242344	533	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_63617	98.31		True
+CONTIG	k91_63617	533	correct
+847157	847913	1	756	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_99093	99.08		True
+CONTIG	k91_99093	756	correct
+122352	123218	1	866	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_277817	98.96		True
+CONTIG	k91_277817	866	correct
+1034106	1034188	481	563	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_207051	98.8		True
+CONTIG	k91_207051	1349	correct_unaligned
+2238356	2238861	10	515	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_207124	97.64		True
+CONTIG	k91_207124	515	correct
+328567	329097	1	531	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_277911	98.87		True
+CONTIG	k91_277911	531	correct
+308313	309015	706	4	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_207170	99.43		True
+CONTIG	k91_207170	715	correct
+1561442	1562137	1	697	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_99455	99.0		True
+CONTIG	k91_99455	697	correct
+113827	114404	1	577	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_64131	94.67		True
+CONTIG	k91_64131	577	correct
+1893604	1894144	541	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_169618	98.52		True
+CONTIG	k91_169618	541	correct
+485064	485567	1	504	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_135263	99.4		True
+CONTIG	k91_135263	504	correct
+1546575	1547161	584	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_64274	99.15		True
+CONTIG	k91_64274	584	correct
+813839	814511	1	673	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_169830	99.7		True
+CONTIG	k91_169830	673	correct
+465560	466701	1141	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_278360	99.3		True
+CONTIG	k91_278360	1141	correct
+371984	372484	501	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_207885	97.21		True
+CONTIG	k91_207885	501	correct
+274725	275353	720	91	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_278599	98.25		True
+CONTIG	k91_278599	720	correct
+1862269	1863301	1033	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_64715	99.61		True
+CONTIG	k91_64715	1033	correct
+725458	726368	1	911	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_100304	98.68		True
+CONTIG	k91_100304	911	correct
+2129496	2130253	1	758	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_100350	98.42		True
+CONTIG	k91_100350	758	correct
+2365200	2365865	1	666	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_64829	98.5		True
+CONTIG	k91_64829	666	correct
+1254283	1254816	534	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_243964	99.44		True
+CONTIG	k91_243964	534	correct
+830369	831166	1	798	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_279099	99.12		True
+CONTIG	k91_279099	798	correct
+718835	718910	76	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_100684	100.0		True
+unknown
+710912	711080	257	89	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_100684	98.22		True
+unknown
+707591	707677	746	660	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_100684	100.0		True
+unknown
+CONTIG	k91_100684	746	mis_unaligned
+402226	402963	1	738	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_170700	96.61		True
+CONTIG	k91_170700	742	correct
+1953899	1954417	1	519	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_136268	100.0		True
+CONTIG	k91_136268	519	correct
+257910	259391	1482	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_65131	98.92		True
+CONTIG	k91_65131	1482	correct
+903004	903602	1	599	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_208594	99.17		True
+CONTIG	k91_208594	599	correct
+54906	55493	588	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_170828	99.15		True
+CONTIG	k91_170828	588	correct
+1621558	1622765	1	1208	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_65239	99.67		True
+CONTIG	k91_65239	1208	correct
+185671	186257	1	587	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_170890	99.83		True
+CONTIG	k91_170890	587	correct
+276466	277156	692	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_27581	97.69		True
+CONTIG	k91_27581	692	correct
+350091	350725	1	635	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_136533	99.53		True
+CONTIG	k91_136533	635	correct
+2267490	2268090	601	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_171024	100.0		True
+CONTIG	k91_171024	601	correct
+1993231	1993979	1	749	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_208856	98.53		True
+CONTIG	k91_208856	749	correct
+425647	426292	1	646	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_136699	99.07		True
+CONTIG	k91_136699	646	correct
+391984	392554	571	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_171187	98.95		True
+CONTIG	k91_171187	571	correct
+123471	124123	653	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_101301	99.23		True
+CONTIG	k91_101301	666	correct
+1255646	1256168	1	523	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_279802	99.81		True
+CONTIG	k91_279802	523	correct
+1484764	1485431	1	668	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_101365	98.2		True
+CONTIG	k91_101365	672	correct
+2255285	2256371	1	1087	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_28058	98.9		True
+CONTIG	k91_28058	1087	correct
+1256327	1256884	1	558	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_136934	99.46		True
+CONTIG	k91_136934	558	correct
+1964586	1965117	1	532	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_101473	98.31		True
+CONTIG	k91_101473	532	correct
+2070898	2072176	1279	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_136964	99.06		True
+CONTIG	k91_136964	1279	correct
+342638	343176	1	539	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_244947	98.33		True
+CONTIG	k91_244947	539	correct
+2216579	2217415	843	6	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_280027	99.28		True
+CONTIG	k91_280027	843	correct
+440939	441509	571	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_280128	99.65		True
+CONTIG	k91_280128	571	correct
+137579	138329	12	762	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_171665	98.8		True
+CONTIG	k91_171665	762	correct
+883174	883916	741	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_66215	98.65		True
+CONTIG	k91_66215	741	correct
+742452	743468	1017	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_101992	99.41		True
+CONTIG	k91_101992	1017	correct
+1802259	1803066	808	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_66357	98.76		True
+CONTIG	k91_66357	808	correct
+1359762	1360293	1	532	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_66440	99.81		True
+CONTIG	k91_66440	532	correct
+96249	97082	835	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_172127	99.16		True
+CONTIG	k91_172127	835	correct
+1835192	1836050	3	862	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_210098	97.56		True
+CONTIG	k91_210098	862	correct
+2204834	2205519	1	686	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_137933	99.13		True
+CONTIG	k91_137933	687	correct
+303910	304579	699	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_280897	93.85		True
+CONTIG	k91_280897	699	correct
+418871	419639	1	769	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_245946	98.83		True
+CONTIG	k91_245946	769	correct
+856452	856951	2	502	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_246016	97.21		True
+CONTIG	k91_246016	502	correct
+2079718	2080900	1184	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_172589	99.07		True
+CONTIG	k91_172589	1184	correct
+2256960	2258387	1428	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_138139	98.74		True
+CONTIG	k91_138139	1428	correct
+550471	551028	558	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_281160	98.39		True
+CONTIG	k91_281160	558	correct
+460900	461399	500	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_138212	99.2		True
+CONTIG	k91_138212	500	correct
+360788	361393	608	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_102794	98.52		True
+CONTIG	k91_102794	608	correct
+583420	583919	1	500	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_29318	98.2		True
+CONTIG	k91_29318	500	correct
+562367	562868	1	502	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_29353	99.8		True
+CONTIG	k91_29353	502	correct
+2058373	2058883	55	565	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_172839	98.43		True
+CONTIG	k91_172839	565	correct
+734248	734779	531	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_138665	99.25		True
+CONTIG	k91_138665	531	correct
+1567252	1567764	514	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_103181	99.42		True
+CONTIG	k91_103181	514	correct
+1282049	1282462	5	418	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_29748	97.34		True
+CONTIG	k91_29748	505	correct
+67092	67774	1	683	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_29755	99.85		True
+CONTIG	k91_29755	683	correct
+1765334	1765930	1	597	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_138858	98.32		True
+CONTIG	k91_138858	597	correct
+2183582	2184340	1	759	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_211344	99.08		True
+CONTIG	k91_211344	759	correct
+1853748	1854363	616	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_29923	99.35		True
+CONTIG	k91_29923	618	correct
+2046115	2046453	338	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_67993	96.76		True
+CONTIG	k91_67993	858	correct_unaligned
+501726	502228	503	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_30016	99.01		True
+CONTIG	k91_30016	503	correct
+482764	483662	899	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_68068	98.78		True
+CONTIG	k91_68068	905	correct
+682643	683795	1	1167	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_282316	97.6		True
+CONTIG	k91_282316	1167	correct
+131055	131706	652	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_247501	98.01		True
+CONTIG	k91_247501	652	correct
+1332524	1333649	1	1126	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_247658	99.82		True
+CONTIG	k91_247658	1126	correct
+107257	107912	1	656	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_68807	98.17		True
+CONTIG	k91_68807	656	correct
+1572793	1573424	1	632	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_247819	97.78		True
+CONTIG	k91_247819	632	correct
+97416	98045	1	630	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_174419	98.1		True
+CONTIG	k91_174419	630	correct
+732086	732821	1	736	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_69012	98.37		True
+CONTIG	k91_69012	736	correct
+1989936	1990659	1	724	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_212374	99.31		True
+CONTIG	k91_212374	724	correct
+548012	548505	8	501	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_248107	99.6		True
+CONTIG	k91_248107	501	correct
+868904	869477	574	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_31024	98.78		True
+CONTIG	k91_31024	574	correct
+1237232	1237786	1	555	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_248288	97.48		True
+CONTIG	k91_248288	555	correct
+1643404	1643879	1	476	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_69278	97.9		True
+CONTIG	k91_69278	549	correct
+300697	301892	1	1196	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_104891	99.33		True
+CONTIG	k91_104891	1196	correct
+1452223	1452914	692	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_104954	98.99		True
+CONTIG	k91_104954	692	correct
+2038923	2039916	994	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_212881	98.99		True
+CONTIG	k91_212881	994	correct
+2305078	2305627	544	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_31364	96.91		True
+CONTIG	k91_31364	544	correct
+2090474	2091599	1126	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_283472	99.47		True
+CONTIG	k91_283472	1126	correct
+2281412	2281990	20	598	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_31559	90.5		True
+CONTIG	k91_31559	650	correct
+134475	135018	1	544	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_31569	98.71		True
+CONTIG	k91_31569	614	correct
+72733	73713	981	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_175166	99.18		True
+CONTIG	k91_175166	981	correct
+1288639	1289165	527	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_105450	99.62		True
+CONTIG	k91_105450	527	correct
+1631236	1631802	567	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_31735	97.18		True
+CONTIG	k91_31735	567	correct
+1606668	1606776	109	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_70039	93.58		True
+indel: indel (> 5bp)
+1606149	1606667	679	160	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_70039	97.88		True
+CONTIG	k91_70039	679	correct
+77495	78687	1194	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_249055	98.41		True
+CONTIG	k91_249055	1194	correct
+1462855	1463938	1072	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_249069	97.97		True
+CONTIG	k91_249069	1072	correct
+1414595	1415698	1	1104	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_249070	98.37		True
+CONTIG	k91_249070	1104	correct
+2228492	2229106	615	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_175446	98.7		True
+CONTIG	k91_175446	615	correct
+1882461	1883000	1	540	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_213486	97.04		True
+CONTIG	k91_213486	542	correct
+1821616	1822332	12	728	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_175505	99.16		True
+CONTIG	k91_175505	728	correct
+1951910	1952597	688	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_249191	97.97		True
+CONTIG	k91_249191	688	correct
+1861514	1862163	649	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_284051	98.77		True
+CONTIG	k91_284051	649	correct
+684441	685722	1286	5	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_175635	98.36		True
+CONTIG	k91_175635	1286	correct
+2112369	2112956	588	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_175650	100.0		True
+CONTIG	k91_175650	588	correct
+1136826	1137406	581	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_213705	94.15		True
+CONTIG	k91_213705	581	correct
+1349815	1350534	720	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_70356	98.19		True
+CONTIG	k91_70356	737	correct
+CONTIG	k91_284329	855	unaligned
+2366259	2367302	1045	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_214056	99.62		True
+CONTIG	k91_214056	1045	correct
+584659	586042	1	1384	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_141757	98.41		True
+CONTIG	k91_141757	1384	correct
+143385	143927	543	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_214244	99.26		True
+CONTIG	k91_214244	543	correct
+366569	367249	681	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_249915	98.97		True
+CONTIG	k91_249915	681	correct
+1972188	1972747	560	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_106553	98.75		True
+CONTIG	k91_106553	560	correct
+1747729	1748299	571	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_32708	96.15		True
+CONTIG	k91_32708	580	correct
+238071	239675	1	1605	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_70974	98.07		True
+CONTIG	k91_70974	1618	correct
+2185169	2186378	1	1210	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_106642	99.5		True
+CONTIG	k91_106642	1210	correct
+2139746	2140422	676	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_142315	97.05		True
+CONTIG	k91_142315	678	correct
+212305	212872	568	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_285244	98.59		True
+CONTIG	k91_285244	568	correct
+154959	155638	1	680	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_71576	98.82		True
+CONTIG	k91_71576	680	correct
+1276955	1277561	608	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_177010	98.52		True
+CONTIG	k91_177010	608	correct
+1898885	1899463	1	579	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_107314	98.45		True
+CONTIG	k91_107314	579	correct
+410522	411264	743	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_107336	99.19		True
+CONTIG	k91_107336	743	correct
+1578331	1579073	743	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_285491	99.06		True
+CONTIG	k91_285491	743	correct
+159932	160637	710	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_71818	97.75		True
+CONTIG	k91_71818	724	correct
+2063343	2063821	56	534	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_250852	99.58		True
+CONTIG	k91_250852	535	correct
+324162	326080	1	1919	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_71858	99.06		True
+CONTIG	k91_71858	1919	correct
+1817793	1818517	1	725	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_177286	98.9		True
+CONTIG	k91_177286	725	correct
+218662	219458	1	797	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_177365	99.5		True
+CONTIG	k91_177365	797	correct
+2075356	2076060	1	705	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_215363	99.57		True
+CONTIG	k91_215363	705	correct
+1366769	1367226	546	89	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_177393	99.13		True
+CONTIG	k91_177393	546	correct
+1884835	1885339	1	505	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_107660	99.41		True
+CONTIG	k91_107660	505	correct
+1938672	1939367	696	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_143152	100.0		True
+CONTIG	k91_143152	696	correct
+2388653	2389444	792	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_143189	99.75		True
+CONTIG	k91_143189	792	correct
+1417720	1418408	8	696	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_33838	96.95		True
+CONTIG	k91_33838	715	correct
+244129	244744	1	616	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_215490	99.35		True
+CONTIG	k91_215490	616	correct
+1115903	1116574	1	672	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_177632	98.66		True
+CONTIG	k91_177632	672	correct
+14357	16246	1	1897	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_286079	98.21		True
+CONTIG	k91_286079	1897	correct
+2296206	2296772	567	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_251432	99.12		True
+CONTIG	k91_251432	567	correct
+1820597	1821405	2	810	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_286390	99.13		True
+CONTIG	k91_286390	810	correct
+101585	102729	1148	4	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_34709	99.3		True
+CONTIG	k91_34709	1148	correct
+1998442	1999447	1006	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_34971	99.4		True
+CONTIG	k91_34971	1006	correct
+1390146	1391014	1	908	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_34999	93.4		True
+CONTIG	k91_34999	908	correct
+69004	70058	1054	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_178650	99.15		True
+CONTIG	k91_178650	1054	correct
+594700	595397	698	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_287075	99.0		True
+CONTIG	k91_287075	699	correct
+864559	865412	854	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_287125	98.48		True
+CONTIG	k91_287125	854	correct
+745540	746422	1	883	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_178942	99.55		True
+CONTIG	k91_178942	883	correct
+1627771	1628408	632	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_35420	98.28		True
+CONTIG	k91_35420	632	correct
+373939	374615	1	676	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_178991	98.97		True
+CONTIG	k91_178991	676	correct
+1385484	1386077	1	594	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_35534	99.66		True
+CONTIG	k91_35534	594	correct
+1533177	1533755	1	579	Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1	k91_179537	99.14		True
+CONTIG	k91_179537	579	correct
+31371	32056	1	686	Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1	k91_108746	92.27		True
+CONTIG	k91_108746	999	correct
+18774	19014	634	394	Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1	k91_182692	93.47		True
+CONTIG	k91_182692	634	correct
+8001	9132	1142	11	Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1	k91_254910	92.93		True
+CONTIG	k91_254910	1634	correct
+13969	14067	146	48	Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1	k91_77201	95.96		True
+local misassembly
+13258	13479	368	148	Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1	k91_77201	97.75		True
+CONTIG	k91_77201	525	correct
+1	157	64	220	Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1	k91_160898	97.45		True
+CONTIG	k91_160898	509	correct
+16496	16988	1	493	Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1	k91_176275	98.79		True
+CONTIG	k91_176275	505	correct
+18204	18341	276	139	Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1	k91_70981	97.83		True
+CONTIG	k91_70981	704	correct
+20848	21465	618	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017484.1	k91_11515	99.68		True
+CONTIG	k91_11515	1539	correct_unaligned
+21375	21659	515	231	Lactococcus_lactis_subsp._lactis_CV56_NC_017484.1	k91_86132	95.44		True
+CONTIG	k91_86132	515	correct
+7469	8059	592	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017484.1	k91_22226	98.99		True
+CONTIG	k91_22226	592	correct
+4066	5033	1	967	Lactococcus_lactis_subsp._lactis_CV56_NC_017484.1	k91_137893	93.42		True
+CONTIG	k91_137893	967	correct
+2819	2957	2876	2738	Lactococcus_lactis_subsp._lactis_CV56_NC_017485.1	k91_19874	97.12		True
+CONTIG	k91_19874	2876	correct_unaligned
+1742	1884	454	312	Lactococcus_lactis_subsp._lactis_CV56_NC_017483.1	k91_130620	93.01		True
+CONTIG	k91_130620	1209	correct_unaligned
+24589	24732	566	423	Lactococcus_lactis_subsp._lactis_CV56_NC_017483.1	k91_205884	95.83		True
+CONTIG	k91_205884	566	correct
+16253	17052	857	60	Lactococcus_lactis_subsp._lactis_CV56_NC_017483.1	k91_30228	94.0		True
+CONTIG	k91_30228	863	correct
+24272	24679	408	1	Lactococcus_lactis_subsp._lactis_CV56_NC_017483.1	k91_32327	95.1		True
+CONTIG	k91_32327	573	correct

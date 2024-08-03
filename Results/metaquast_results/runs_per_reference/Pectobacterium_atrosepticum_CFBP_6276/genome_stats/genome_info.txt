@@ -1,0 +1,17 @@
+reference chromosomes:
+	Pectobacterium_atrosepticum_CFBP_6276_NZ_CM001850.1 (total length: 5876 bp, total length without N's: 5876 bp, maximal covered length: 941 bp)
+	Pectobacterium_atrosepticum_CFBP_6276_NZ_CM001851.1 (total length: 2687 bp, total length without N's: 2687 bp, maximal covered length: 847 bp)
+	Pectobacterium_atrosepticum_CFBP_6276_NZ_KB933470.1 (total length: 1086270 bp, total length without N's: 1085873 bp, maximal covered length: 147120 bp)
+	Pectobacterium_atrosepticum_CFBP_6276_NZ_KB933471.1 (total length: 3774599 bp, total length without N's: 3774495 bp, maximal covered length: 775951 bp)
+
+total genome size: 4869432
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Pectoba | 18.995    | 1.015       | 1155      | -         | -         | -         | -         |

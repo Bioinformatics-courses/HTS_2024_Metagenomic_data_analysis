@@ -1,0 +1,2898 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Lactococcus_lactis_subsp._lactis_CV56_NC_017483.1]
+	Loaded [Lactococcus_lactis_subsp._lactis_CV56_NC_017484.1]
+	Loaded [Lactococcus_lactis_subsp._lactis_CV56_NC_017485.1]
+	Loaded [Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1]
+	Loaded [Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1]
+	Loaded [Lactococcus_lactis_subsp._lactis_CV56_NC_017488.1]
+	Total Regions: 6
+	Total Region Length: 2518737
+Analyzing contigs...
+CONTIG: k91_78 (827bp)
+Best alignment score: 824.0 (LEN: 827, IDY: 99.64), Total number of alignments: 1
+		One align captures most of this contig: 774725 775551 | 827 1 | 827 827 | 99.64 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_78
+
+CONTIG: k91_107932 (619bp)
+Best alignment score: 608.0 (LEN: 619, IDY: 98.22), Total number of alignments: 1
+		One align captures most of this contig: 940119 940737 | 619 1 | 619 619 | 98.22 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_107932
+
+CONTIG: k91_215839 (1160bp)
+Best alignment score: 1151.0 (LEN: 1160, IDY: 99.22), Total number of alignments: 1
+		One align captures most of this contig: 2354329 2355488 | 1 1160 | 1160 1160 | 99.22 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_215839
+
+CONTIG: k91_144094 (1645bp)
+Best alignment score: 1625.9 (LEN: 1645, IDY: 98.84), Total number of alignments: 1
+		One align captures most of this contig: 429486 431130 | 1 1645 | 1645 1645 | 98.84 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_144094
+
+CONTIG: k91_144098 (546bp)
+Best alignment score: 546.0 (LEN: 546, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 909730 910275 | 1 546 | 546 546 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_144098
+
+CONTIG: k91_144100 (525bp)
+Best alignment score: 519.0 (LEN: 525, IDY: 98.86), Total number of alignments: 1
+		One align captures most of this contig: 2199530 2200054 | 525 1 | 525 525 | 98.86 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_144100
+
+CONTIG: k91_216029 (863bp)
+Best alignment score: 856.0 (LEN: 863, IDY: 99.19), Total number of alignments: 1
+		One align captures most of this contig: 2134605 2135467 | 1 863 | 863 863 | 99.19 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_216029
+
+CONTIG: k91_180154 (1272bp)
+Best alignment score: 1260.0 (LEN: 1272, IDY: 99.06), Total number of alignments: 1
+		One align captures most of this contig: 2294783 2296054 | 1 1272 | 1272 1272 | 99.06 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_180154
+
+CONTIG: k91_180243 (1328bp)
+Best alignment score: 1306.0 (LEN: 1328, IDY: 98.34), Total number of alignments: 1
+		One align captures most of this contig: 1600739 1602066 | 1 1328 | 1328 1328 | 98.34 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_180243
+
+CONTIG: k91_36593 (511bp)
+Best alignment score: 505.0 (LEN: 511, IDY: 98.83), Total number of alignments: 1
+		One align captures most of this contig: 1665590 1666100 | 511 1 | 511 511 | 98.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_36593
+
+CONTIG: k91_144362 (1327bp)
+Best alignment score: 1315.1 (LEN: 1327, IDY: 99.10), Total number of alignments: 1
+		One align captures most of this contig: 2025383 2026709 | 1 1327 | 1327 1327 | 99.1 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_144362
+
+CONTIG: k91_108735 (1237bp)
+Best alignment score: 1232.1 (LEN: 1237, IDY: 99.60), Total number of alignments: 1
+		One align captures most of this contig: 1657662 1658898 | 1 1237 | 1237 1237 | 99.6 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_108735
+
+CONTIG: k91_621 (1263bp)
+Best alignment score: 1227.0 (LEN: 1263, IDY: 97.15), Total number of alignments: 1
+		One align captures most of this contig: 1557480 1558720 | 1263 1 | 1241 1263 | 97.15 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_621
+
+CONTIG: k91_108936 (1510bp)
+Best alignment score: 1499.0 (LEN: 1510, IDY: 99.27), Total number of alignments: 1
+		One align captures most of this contig: 2094298 2095806 | 1 1510 | 1509 1510 | 99.27 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_108936
+
+CONTIG: k91_109016 (1373bp)
+Best alignment score: 343.0 (LEN: 343, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 343.0, number of alignments: 1, unaligned bases: 1030
+		This contig is partially unaligned. (Aligned 343 out of 1373 non-N bases (24.98%))
+		Alignment: 148819 149161 | 1 343 | 343 343 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_109016
+		Unaligned bases: 344 to 1373 (1030)
+
+CONTIG: k91_216432 (687bp)
+Best alignment score: 677.0 (LEN: 687, IDY: 98.54), Total number of alignments: 1
+		One align captures most of this contig: 456357 457043 | 687 1 | 687 687 | 98.54 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_216432
+
+CONTIG: k91_252395 (745bp)
+Best alignment score: 739.0 (LEN: 745, IDY: 99.19), Total number of alignments: 1
+		One align captures most of this contig: 1580302 1581046 | 1 745 | 745 745 | 99.19 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_252395
+
+CONTIG: k91_109103 (649bp)
+Best alignment score: 641.0 (LEN: 645, IDY: 99.38), Total number of alignments: 1
+		One align captures most of this contig: 92655 93299 | 649 5 | 645 645 | 99.38 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_109103
+
+CONTIG: k91_216540 (706bp)
+Best alignment score: 532.0 (LEN: 533, IDY: 99.81), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 701.0, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Real Alignment 1: 20915 21087 | 1 173 | 173 173 | 97.69 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_216540
+			  Indel (> 5bp) between these two alignments: deletion of length 90; 0 mismatches (number of Ns: 0)
+			Real Alignment 2: 21178 21710 | 174 706 | 533 533 | 99.81 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_216540
+
+CONTIG: k91_896 (510bp)
+Best alignment score: 321.0 (LEN: 324, IDY: 99.08), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 432.0, number of alignments: 2, unaligned bases: 24
+		This contig is misassembled.
+			Real Alignment 1: 809828 809989 | 162 1 | 162 162 | 99.38 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_896
+			  Extensive misassembly (relocation, inconsistency = 2354) between these two alignments
+			Real Alignment 2: 807125 807449 | 510 187 | 325 324 | 99.08 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_896
+
+CONTIG: k91_252714 (619bp)
+Best alignment score: 607.0 (LEN: 619, IDY: 98.06), Total number of alignments: 1
+		One align captures most of this contig: 622370 622988 | 619 1 | 619 619 | 98.06 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_252714
+
+CONTIG: k91_109548 (651bp)
+Best alignment score: 641.0 (LEN: 646, IDY: 99.23), Total number of alignments: 1
+		One align captures most of this contig: 397579 398224 | 6 651 | 646 646 | 99.23 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_109548
+
+CONTIG: k91_1181 (563bp)
+Best alignment score: 535.1 (LEN: 563, IDY: 95.04), Total number of alignments: 1
+		One align captures most of this contig: 1480645 1481229 | 1 563 | 585 563 | 95.04 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_1181
+
+CONTIG: k91_181032 (910bp)
+Best alignment score: 888.0 (LEN: 898, IDY: 98.89), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 888.0, number of alignments: 1, unaligned bases: 12
+		Alignment: 1779856 1780753 | 1 898 | 898 898 | 98.89 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_181032
+
+CONTIG: k91_181056 (1010bp)
+Best alignment score: 996.0 (LEN: 1010, IDY: 98.61), Total number of alignments: 1
+		One align captures most of this contig: 1136026 1137033 | 1 1010 | 1008 1010 | 98.61 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_181056
+
+CONTIG: k91_252972 (522bp)
+Best alignment score: 516.0 (LEN: 516, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1988622 1989137 | 7 522 | 516 516 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_252972
+
+CONTIG: k91_109802 (1467bp)
+Best alignment score: 1455.0 (LEN: 1467, IDY: 99.18), Total number of alignments: 1
+		One align captures most of this contig: 88451 89917 | 1467 1 | 1467 1467 | 99.18 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_109802
+
+CONTIG: k91_37476 (1431bp)
+Best alignment score: 1226.0 (LEN: 1241, IDY: 98.79), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 1336.0, number of alignments: 2, unaligned bases: 4
+		This contig is misassembled.
+			Excluding internal overlap of size 4 between Alignment 1 and 2: 603899 604088 | 1238 1427 | 190 190 --> 603903 604088 | 1242 1427 | 186 186
+			Real Alignment 1: 601413 602653 | 1 1241 | 1241 1241 | 98.79 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_37476
+			  Extensive misassembly (relocation, inconsistency = 1249) between these two alignments
+			Real Alignment 2: 603903 604088 | 1242 1427 | 186 186 | 98.95 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_37476
+
+CONTIG: k91_253080 (664bp)
+Best alignment score: 654.0 (LEN: 664, IDY: 98.49), Total number of alignments: 1
+		One align captures most of this contig: 2082487 2083150 | 1 664 | 664 664 | 98.49 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_253080
+
+CONTIG: k91_73414 (734bp)
+Best alignment score: 729.0 (LEN: 734, IDY: 99.32), Total number of alignments: 1
+		One align captures most of this contig: 802214 802947 | 734 1 | 734 734 | 99.32 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_73414
+
+CONTIG: k91_181221 (1668bp)
+Best alignment score: 1653.0 (LEN: 1668, IDY: 99.10), Total number of alignments: 1
+		One align captures most of this contig: 457442 459109 | 1668 1 | 1668 1668 | 99.1 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_181221
+
+CONTIG: k91_73438 (689bp)
+Best alignment score: 677.0 (LEN: 689, IDY: 98.26), Total number of alignments: 1
+		One align captures most of this contig: 736 1424 | 689 1 | 689 689 | 98.26 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_73438
+
+CONTIG: k91_110045 (986bp)
+Best alignment score: 803.0 (LEN: 810, IDY: 99.14), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 803.0, number of alignments: 1, unaligned bases: 176
+		Alignment: 113098 113907 | 986 177 | 810 810 | 99.14 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_110045
+
+CONTIG: k91_37698 (936bp)
+Best alignment score: 897.0 (LEN: 919, IDY: 97.61), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 897.0, number of alignments: 1, unaligned bases: 17
+		Alignment: 1696463 1697381 | 936 18 | 919 919 | 97.61 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_37698
+
+CONTIG: k91_145388 (961bp)
+Best alignment score: 957.0 (LEN: 961, IDY: 99.58), Total number of alignments: 1
+		One align captures most of this contig: 2233739 2234699 | 961 1 | 961 961 | 99.58 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_145388
+
+CONTIG: k91_37761 (1682bp)
+Best alignment score: 1677.0 (LEN: 1682, IDY: 99.70), Total number of alignments: 1
+		One align captures most of this contig: 2113836 2115518 | 1682 1 | 1683 1682 | 99.7 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_37761
+
+CONTIG: k91_1642 (1426bp)
+Best alignment score: 1401.9 (LEN: 1422, IDY: 98.59), Total number of alignments: 1
+		One align captures most of this contig: 1632675 1634090 | 1 1422 | 1416 1422 | 98.59 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_1642
+
+CONTIG: k91_110304 (725bp)
+Best alignment score: 718.0 (LEN: 725, IDY: 99.03), Total number of alignments: 1
+		One align captures most of this contig: 757362 758086 | 725 1 | 725 725 | 99.03 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_110304
+
+CONTIG: k91_110499 (948bp)
+Best alignment score: 644.0 (LEN: 653, IDY: 98.62), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 644.0, number of alignments: 1, unaligned bases: 295
+		Alignment: 1602540 1603192 | 692 40 | 653 653 | 98.62 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_110499
+
+CONTIG: k91_74077 (2278bp)
+Best alignment score: 2263.0 (LEN: 2278, IDY: 99.34), Total number of alignments: 1
+		One align captures most of this contig: 51892 54170 | 2278 1 | 2279 2278 | 99.34 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_74077
+
+CONTIG: k91_38158 (523bp)
+Best alignment score: 482.0 (LEN: 483, IDY: 99.79), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 482.0, number of alignments: 1, unaligned bases: 40
+		Alignment: 530692 531174 | 41 523 | 483 483 | 99.79 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_38158
+
+CONTIG: k91_110722 (689bp)
+Best alignment score: 670.0 (LEN: 689, IDY: 97.24), Total number of alignments: 1
+		One align captures most of this contig: 913699 914387 | 1 689 | 689 689 | 97.24 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_110722
+
+CONTIG: k91_38261 (689bp)
+Best alignment score: 674.0 (LEN: 689, IDY: 97.83), Total number of alignments: 1
+		One align captures most of this contig: 2143397 2144086 | 689 1 | 690 689 | 97.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_38261
+
+CONTIG: k91_253609 (679bp)
+Best alignment score: 652.0 (LEN: 677, IDY: 96.31), Total number of alignments: 1
+		One align captures most of this contig: 1316593 1317269 | 1 677 | 677 677 | 96.31 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_253609
+
+CONTIG: k91_110857 (571bp)
+Best alignment score: 557.0 (LEN: 571, IDY: 97.55), Total number of alignments: 1
+		One align captures most of this contig: 1104607 1105178 | 571 1 | 572 571 | 97.55 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_110857
+
+CONTIG: k91_253690 (591bp)
+Best alignment score: 580.0 (LEN: 591, IDY: 98.14), Total number of alignments: 1
+		One align captures most of this contig: 1057184 1057774 | 591 1 | 591 591 | 98.14 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_253690
+
+CONTIG: k91_74449 (518bp)
+Best alignment score: 514.0 (LEN: 518, IDY: 99.23), Total number of alignments: 1
+		One align captures most of this contig: 448942 449459 | 518 1 | 518 518 | 99.23 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_74449
+
+CONTIG: k91_218137 (1137bp)
+Best alignment score: 1124.9 (LEN: 1137, IDY: 98.94), Total number of alignments: 1
+		One align captures most of this contig: 675385 676521 | 1137 1 | 1137 1137 | 98.94 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_218137
+
+CONTIG: k91_182238 (719bp)
+Best alignment score: 681.0 (LEN: 719, IDY: 94.71), Total number of alignments: 1
+		One align captures most of this contig: 410133 410851 | 1 719 | 719 719 | 94.71 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_182238
+
+CONTIG: k91_182378 (1143bp)
+Best alignment score: 1101.0 (LEN: 1105, IDY: 99.64), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 1101.0, number of alignments: 1, unaligned bases: 38
+		Alignment: 2003813 2004917 | 39 1143 | 1105 1105 | 99.64 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_182378
+
+CONTIG: k91_111358 (758bp)
+Best alignment score: 748.0 (LEN: 758, IDY: 98.68), Total number of alignments: 1
+		One align captures most of this contig: 798504 799261 | 758 1 | 758 758 | 98.68 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_111358
+
+CONTIG: k91_74883 (774bp)
+Best alignment score: 762.0 (LEN: 774, IDY: 98.45), Total number of alignments: 1
+		One align captures most of this contig: 282195 282969 | 1 774 | 775 774 | 98.45 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_74883
+
+CONTIG: k91_146544 (623bp)
+Best alignment score: 524.0 (LEN: 538, IDY: 97.40), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 524.0, number of alignments: 1, unaligned bases: 85
+		Alignment: 1277376 1277913 | 538 1 | 538 538 | 97.4 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_146544
+
+CONTIG: k91_2722 (1016bp)
+Best alignment score: 1006.0 (LEN: 1016, IDY: 99.02), Total number of alignments: 1
+		One align captures most of this contig: 417567 418581 | 1016 1 | 1015 1016 | 99.02 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_2722
+
+CONTIG: k91_39195 (580bp)
+Best alignment score: 526.4 (LEN: 580, IDY: 90.75), Total number of alignments: 1
+		One align captures most of this contig: 1846751 1847334 | 580 1 | 584 580 | 90.75 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_39195
+
+CONTIG: k91_254256 (1301bp)
+Best alignment score: 1277.1 (LEN: 1301, IDY: 98.16), Total number of alignments: 1
+		One align captures most of this contig: 1012641 1013941 | 1301 1 | 1301 1301 | 98.16 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_254256
+
+CONTIG: k91_254303 (920bp)
+Best alignment score: 898.0 (LEN: 912, IDY: 98.46), Total number of alignments: 1
+		One align captures most of this contig: 1770959 1771870 | 9 920 | 912 912 | 98.46 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_254303
+
+CONTIG: k91_75328 (811bp)
+Best alignment score: 801.0 (LEN: 811, IDY: 98.77), Total number of alignments: 1
+		One align captures most of this contig: 365386 366194 | 1 811 | 809 811 | 98.77 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_75328
+
+CONTIG: k91_111824 (590bp)
+Best alignment score: 585.0 (LEN: 590, IDY: 99.15), Total number of alignments: 1
+		One align captures most of this contig: 553735 554324 | 590 1 | 590 590 | 99.15 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_111824
+
+CONTIG: k91_3291 (1893bp)
+Best alignment score: 1879.9 (LEN: 1893, IDY: 99.31), Total number of alignments: 1
+		One align captures most of this contig: 1843348 1845240 | 1 1893 | 1893 1893 | 99.31 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_3291
+
+CONTIG: k91_183279 (911bp)
+Best alignment score: 905.0 (LEN: 911, IDY: 99.34), Total number of alignments: 1
+		One align captures most of this contig: 358188 359098 | 1 911 | 911 911 | 99.34 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_183279
+
+CONTIG: k91_219445 (1446bp)
+Best alignment score: 1422.0 (LEN: 1446, IDY: 98.34), Total number of alignments: 1
+		One align captures most of this contig: 2369782 2371227 | 1446 1 | 1446 1446 | 98.34 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_219445
+
+CONTIG: k91_112262 (594bp)
+Best alignment score: 591.0 (LEN: 594, IDY: 99.49), Total number of alignments: 1
+		One align captures most of this contig: 2133733 2134326 | 594 1 | 594 594 | 99.49 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_112262
+
+CONTIG: k91_254990 (647bp)
+Best alignment score: 642.0 (LEN: 647, IDY: 99.23), Total number of alignments: 1
+		One align captures most of this contig: 476736 477382 | 647 1 | 647 647 | 99.23 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_254990
+
+CONTIG: k91_40101 (542bp)
+Best alignment score: 539.0 (LEN: 542, IDY: 99.45), Total number of alignments: 1
+		One align captures most of this contig: 2368562 2369103 | 1 542 | 542 542 | 99.45 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_40101
+
+CONTIG: k91_255026 (607bp)
+Best alignment score: 599.0 (LEN: 607, IDY: 98.68), Total number of alignments: 1
+		One align captures most of this contig: 98596 99202 | 607 1 | 607 607 | 98.68 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_255026
+
+CONTIG: k91_112437 (553bp)
+Best alignment score: 462.2 (LEN: 494, IDY: 93.56), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 226446 226939 | 60 553 | 494 494 | 92.77 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_112437
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 462.2, number of alignments: 1, unaligned bases: 59
+		Alignment: 852060 852553 | 60 553 | 494 494 | 93.56 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_112437
+
+CONTIG: k91_3839 (604bp)
+Best alignment score: 592.0 (LEN: 604, IDY: 98.01), Total number of alignments: 1
+		One align captures most of this contig: 339201 339804 | 1 604 | 604 604 | 98.01 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_3839
+
+CONTIG: k91_4072 (522bp)
+Best alignment score: 517.0 (LEN: 522, IDY: 99.04), Total number of alignments: 1
+		One align captures most of this contig: 2048687 2049208 | 522 1 | 522 522 | 99.04 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_4072
+
+CONTIG: k91_40643 (536bp)
+Best alignment score: 536.0 (LEN: 536, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1952861 1953396 | 536 1 | 536 536 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_40643
+
+CONTIG: k91_147853 (639bp)
+Best alignment score: 607.0 (LEN: 615, IDY: 98.70), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 607.0, number of alignments: 1, unaligned bases: 24
+		Alignment: 2014717 2015331 | 639 25 | 615 615 | 98.7 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_147853
+
+CONTIG: k91_255529 (646bp)
+Best alignment score: 640.0 (LEN: 646, IDY: 99.07), Total number of alignments: 1
+		One align captures most of this contig: 564452 565097 | 1 646 | 646 646 | 99.07 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_255529
+
+CONTIG: k91_220110 (587bp)
+Best alignment score: 450.0 (LEN: 454, IDY: 99.12), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 450.0, number of alignments: 1, unaligned bases: 133
+		Alignment: 2269114 2269566 | 134 587 | 453 454 | 99.12 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_220110
+
+CONTIG: k91_76364 (1557bp)
+Best alignment score: 1542.1 (LEN: 1557, IDY: 99.04), Total number of alignments: 1
+		One align captures most of this contig: 1891693 1893249 | 1557 1 | 1557 1557 | 99.04 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_76364
+
+CONTIG: k91_184252 (1139bp)
+Best alignment score: 898.0 (LEN: 903, IDY: 99.45), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 898.0, number of alignments: 1, unaligned bases: 236
+		Alignment: 289179 290081 | 1 903 | 903 903 | 99.45 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_184252
+
+CONTIG: k91_40794 (664bp)
+Best alignment score: 660.0 (LEN: 664, IDY: 99.40), Total number of alignments: 1
+		One align captures most of this contig: 834623 835286 | 1 664 | 664 664 | 99.4 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_40794
+
+CONTIG: k91_40814 (693bp)
+Best alignment score: 684.0 (LEN: 693, IDY: 98.70), Total number of alignments: 1
+		One align captures most of this contig: 2009555 2010247 | 1 693 | 693 693 | 98.7 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_40814
+
+CONTIG: k91_4401 (912bp)
+Best alignment score: 901.0 (LEN: 908, IDY: 99.23), Total number of alignments: 1
+		One align captures most of this contig: 477504 478411 | 1 908 | 908 908 | 99.23 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_4401
+
+CONTIG: k91_220249 (757bp)
+Best alignment score: 749.0 (LEN: 757, IDY: 98.94), Total number of alignments: 1
+		One align captures most of this contig: 313687 314441 | 757 1 | 755 757 | 98.94 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_220249
+
+CONTIG: k91_220316 (708bp)
+Best alignment score: 700.0 (LEN: 708, IDY: 98.87), Total number of alignments: 1
+		One align captures most of this contig: 1476884 1477590 | 1 708 | 707 708 | 98.87 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_220316
+
+CONTIG: k91_255834 (1054bp)
+Best alignment score: 1048.0 (LEN: 1054, IDY: 99.43), Total number of alignments: 1
+		One align captures most of this contig: 126850 127904 | 1 1054 | 1055 1054 | 99.43 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_255834
+
+CONTIG: k91_4557 (651bp)
+Best alignment score: 633.0 (LEN: 650, IDY: 97.38), Total number of alignments: 1
+		One align captures most of this contig: 677552 678201 | 2 651 | 650 650 | 97.38 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_4557
+
+CONTIG: k91_4559 (732bp)
+Best alignment score: 727.0 (LEN: 732, IDY: 99.32), Total number of alignments: 1
+		One align captures most of this contig: 1755818 1756549 | 1 732 | 732 732 | 99.32 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_4559
+
+CONTIG: k91_220454 (500bp)
+Best alignment score: 491.0 (LEN: 500, IDY: 98.20), Total number of alignments: 1
+		One align captures most of this contig: 446043 446542 | 1 500 | 500 500 | 98.2 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_220454
+
+CONTIG: k91_184670 (823bp)
+Best alignment score: 817.0 (LEN: 823, IDY: 99.27), Total number of alignments: 1
+		One align captures most of this contig: 2040031 2040853 | 1 823 | 823 823 | 99.27 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_184670
+
+CONTIG: k91_76904 (719bp)
+Best alignment score: 715.0 (LEN: 719, IDY: 99.44), Total number of alignments: 1
+		One align captures most of this contig: 2052224 2052942 | 1 719 | 719 719 | 99.44 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_76904
+
+CONTIG: k91_4865 (4328bp)
+Best alignment score: 236.0 (LEN: 258, IDY: 91.47), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2250323 2250580 | 4018 3761 | 258 258 | 91.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_4865
+		Skipping redundant alignment 2208403 2208660 | 4018 3761 | 258 258 | 91.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_4865
+		Skipping redundant alignment 2394442 2394699 | 4018 3761 | 258 258 | 91.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_4865
+		Skipping redundant alignment 474855 475112 | 3761 4018 | 258 258 | 91.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_4865
+		Skipping redundant alignment 1959223 1959480 | 4018 3761 | 258 258 | 91.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_4865
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 236.0, number of alignments: 1, unaligned bases: 4070
+		This contig is partially unaligned. (Aligned 258 out of 4328 non-N bases (5.96%))
+		Alignment: 2375263 2375520 | 4018 3761 | 258 258 | 91.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_4865
+		Unaligned bases: 1 to 3760 (3760)
+		Unaligned bases: 4019 to 4328 (310)
+
+CONTIG: k91_41384 (572bp)
+Best alignment score: 564.0 (LEN: 572, IDY: 98.60), Total number of alignments: 1
+		One align captures most of this contig: 1447096 1447667 | 572 1 | 572 572 | 98.6 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_41384
+
+CONTIG: k91_41393 (953bp)
+Best alignment score: 933.0 (LEN: 953, IDY: 97.90), Total number of alignments: 1
+		One align captures most of this contig: 481071 482023 | 1 953 | 953 953 | 97.9 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_41393
+
+CONTIG: k91_148456 (787bp)
+Best alignment score: 299.0 (LEN: 314, IDY: 95.22), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 299.0, number of alignments: 1, unaligned bases: 473
+		Alignment: 1928207 1928520 | 787 474 | 314 314 | 95.22 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_148456
+
+CONTIG: k91_220867 (504bp)
+Best alignment score: 502.0 (LEN: 504, IDY: 99.60), Total number of alignments: 1
+		One align captures most of this contig: 1689168 1689671 | 504 1 | 504 504 | 99.6 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_220867
+
+CONTIG: k91_185085 (664bp)
+Best alignment score: 400.0 (LEN: 406, IDY: 98.52), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 599.1, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 14 between Alignment 1 and 2: 1758837 1759108 | 1 272 | 272 272 --> 1758837 1759094 | 1 258 | 258 258
+			Real Alignment 1: 1758837 1759094 | 1 258 | 258 258 | 99.26 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_185085
+			  Extensive misassembly (relocation, inconsistency = 1079) between these two alignments
+			Real Alignment 2: 1760174 1760579 | 259 664 | 406 406 | 98.52 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_185085
+
+CONTIG: k91_148506 (506bp)
+Best alignment score: 500.0 (LEN: 506, IDY: 98.81), Total number of alignments: 1
+		One align captures most of this contig: 312561 313066 | 506 1 | 506 506 | 98.81 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_148506
+
+CONTIG: k91_41605 (936bp)
+Best alignment score: 922.0 (LEN: 936, IDY: 98.50), Total number of alignments: 1
+		One align captures most of this contig: 1421831 1422766 | 1 936 | 936 936 | 98.5 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_41605
+
+CONTIG: k91_77169 (841bp)
+Best alignment score: 834.0 (LEN: 841, IDY: 99.17), Total number of alignments: 1
+		One align captures most of this contig: 2083495 2084335 | 841 1 | 841 841 | 99.17 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_77169
+
+CONTIG: k91_148687 (522bp)
+Best alignment score: 522.0 (LEN: 522, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 702665 703186 | 522 1 | 522 522 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_148687
+
+CONTIG: k91_185388 (1021bp)
+Best alignment score: 1011.0 (LEN: 1018, IDY: 99.31), Total number of alignments: 1
+		One align captures most of this contig: 1768741 1769758 | 1 1018 | 1018 1018 | 99.31 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_185388
+
+CONTIG: k91_77478 (1203bp)
+Best alignment score: 1197.9 (LEN: 1203, IDY: 99.58), Total number of alignments: 1
+		One align captures most of this contig: 2136974 2138176 | 1 1203 | 1203 1203 | 99.58 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_77478
+
+CONTIG: k91_5517 (523bp)
+Best alignment score: 514.0 (LEN: 523, IDY: 98.28), Total number of alignments: 1
+		One align captures most of this contig: 1477446 1477968 | 523 1 | 523 523 | 98.28 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_5517
+
+CONTIG: k91_42155 (1321bp)
+Best alignment score: 1316.0 (LEN: 1321, IDY: 99.62), Total number of alignments: 1
+		One align captures most of this contig: 64853 66173 | 1321 1 | 1321 1321 | 99.62 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_42155
+
+CONTIG: k91_5589 (796bp)
+Best alignment score: 769.2 (LEN: 796, IDY: 96.63), Total number of alignments: 1
+		One align captures most of this contig: 1262467 1263268 | 796 1 | 802 796 | 96.63 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_5589
+
+CONTIG: k91_221749 (956bp)
+Best alignment score: 949.0 (LEN: 956, IDY: 99.27), Total number of alignments: 1
+		One align captures most of this contig: 532039 532994 | 1 956 | 956 956 | 99.27 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_221749
+
+CONTIG: k91_257031 (708bp)
+Best alignment score: 685.0 (LEN: 689, IDY: 99.42), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 685.0, number of alignments: 1, unaligned bases: 19
+		Alignment: 1851233 1851921 | 1 689 | 689 689 | 99.42 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_257031
+
+CONTIG: k91_257045 (725bp)
+Best alignment score: 713.0 (LEN: 725, IDY: 98.34), Total number of alignments: 1
+		One align captures most of this contig: 428145 428869 | 725 1 | 725 725 | 98.34 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_257045
+
+CONTIG: k91_77862 (916bp)
+Best alignment score: 909.0 (LEN: 916, IDY: 99.24), Total number of alignments: 1
+		One align captures most of this contig: 1836364 1837279 | 1 916 | 916 916 | 99.24 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_77862
+
+CONTIG: k91_185880 (519bp)
+Best alignment score: 512.0 (LEN: 519, IDY: 98.65), Total number of alignments: 1
+		One align captures most of this contig: 1432955 1433473 | 519 1 | 519 519 | 98.65 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_185880
+
+CONTIG: k91_77955 (982bp)
+Best alignment score: 972.0 (LEN: 982, IDY: 98.98), Total number of alignments: 1
+		One align captures most of this contig: 374720 375702 | 982 1 | 983 982 | 98.98 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_77955
+
+CONTIG: k91_221876 (589bp)
+Best alignment score: 580.0 (LEN: 582, IDY: 99.66), Total number of alignments: 1
+		One align captures most of this contig: 2043947 2044528 | 8 589 | 582 582 | 99.66 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_221876
+
+CONTIG: k91_185901 (542bp)
+Best alignment score: 523.0 (LEN: 533, IDY: 98.12), Total number of alignments: 1
+		One align captures most of this contig: 1342062 1342594 | 2 534 | 533 533 | 98.12 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_185901
+
+CONTIG: k91_257193 (1249bp)
+Best alignment score: 1244.0 (LEN: 1249, IDY: 99.60), Total number of alignments: 1
+		One align captures most of this contig: 2126334 2127582 | 1249 1 | 1249 1249 | 99.6 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_257193
+
+CONTIG: k91_149440 (876bp)
+Best alignment score: 861.0 (LEN: 876, IDY: 98.29), Total number of alignments: 1
+		One align captures most of this contig: 692368 693243 | 1 876 | 876 876 | 98.29 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_149440
+
+CONTIG: k91_257269 (1440bp)
+Best alignment score: 1427.0 (LEN: 1440, IDY: 99.10), Total number of alignments: 1
+		One align captures most of this contig: 168424 169863 | 1440 1 | 1440 1440 | 99.1 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_257269
+
+CONTIG: k91_78175 (761bp)
+Best alignment score: 435.0 (LEN: 437, IDY: 99.54), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 435.0, number of alignments: 1, unaligned bases: 324
+		Alignment: 566577 567013 | 437 1 | 437 437 | 99.54 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_78175
+
+CONTIG: k91_6083 (573bp)
+Best alignment score: 572.0 (LEN: 573, IDY: 99.83), Total number of alignments: 1
+		One align captures most of this contig: 34064 34636 | 573 1 | 573 573 | 99.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_6083
+
+CONTIG: k91_78211 (1026bp)
+Best alignment score: 1023.0 (LEN: 1026, IDY: 99.71), Total number of alignments: 1
+		One align captures most of this contig: 1876762 1877787 | 1 1026 | 1026 1026 | 99.71 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_78211
+
+CONTIG: k91_257412 (997bp)
+Best alignment score: 975.0 (LEN: 997, IDY: 97.79), Total number of alignments: 1
+		One align captures most of this contig: 1646972 1647968 | 1 997 | 997 997 | 97.79 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_257412
+
+CONTIG: k91_257440 (681bp)
+Best alignment score: 672.0 (LEN: 681, IDY: 98.68), Total number of alignments: 1
+		One align captures most of this contig: 1795487 1796167 | 681 1 | 681 681 | 98.68 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_257440
+
+CONTIG: k91_149824 (666bp)
+Best alignment score: 659.0 (LEN: 665, IDY: 99.10), Total number of alignments: 1
+		One align captures most of this contig: 943944 944608 | 1 665 | 665 665 | 99.1 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_149824
+
+CONTIG: k91_149955 (586bp)
+Best alignment score: 577.0 (LEN: 586, IDY: 98.46), Total number of alignments: 1
+		One align captures most of this contig: 1619442 1620026 | 1 586 | 585 586 | 98.46 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_149955
+
+CONTIG: k91_43211 (660bp)
+Best alignment score: 643.0 (LEN: 660, IDY: 97.42), Total number of alignments: 1
+		One align captures most of this contig: 600063 600722 | 660 1 | 660 660 | 97.42 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_43211
+
+CONTIG: k91_78699 (596bp)
+Best alignment score: 591.0 (LEN: 594, IDY: 99.49), Total number of alignments: 1
+		One align captures most of this contig: 2104807 2105400 | 594 1 | 594 594 | 99.49 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_78699
+
+CONTIG: k91_186786 (592bp)
+Best alignment score: 388.0 (LEN: 398, IDY: 97.49), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 388.0, number of alignments: 1, unaligned bases: 194
+		Alignment: 182231 182628 | 592 195 | 398 398 | 97.49 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_186786
+
+CONTIG: k91_79080 (735bp)
+Best alignment score: 258.0 (LEN: 263, IDY: 98.10), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 258.0, number of alignments: 1, unaligned bases: 472
+		Alignment: 46441 46703 | 363 625 | 263 263 | 98.1 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_79080
+
+CONTIG: k91_258059 (557bp)
+Best alignment score: 552.0 (LEN: 557, IDY: 99.10), Total number of alignments: 1
+		One align captures most of this contig: 876497 877053 | 557 1 | 557 557 | 99.1 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_258059
+
+CONTIG: k91_258070 (784bp)
+Best alignment score: 775.0 (LEN: 784, IDY: 98.85), Total number of alignments: 1
+		One align captures most of this contig: 698875 699658 | 784 1 | 784 784 | 98.85 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_258070
+
+CONTIG: k91_258075 (1196bp)
+Best alignment score: 1188.9 (LEN: 1196, IDY: 99.41), Total number of alignments: 6
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 2394021 2395114 | 1094 1 | 1094 1094 | 99.54 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_258075
+			Skipping alignment 2207983 2209075 | 1093 1 | 1093 1093 | 99.54 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_258075
+			Skipping alignment 2249903 2250995 | 1093 1 | 1093 1093 | 99.54 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_258075
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 474440 475635 | 1 1196 | 1196 1196 | 99.41 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_258075
+			Skipping alignment 2374740 2375935 | 1196 1 | 1196 1196 | 99.41 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_258075
+			Skipping alignment 1958700 1959895 | 1196 1 | 1196 1196 | 99.41 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_258075
+
+CONTIG: k91_187030 (689bp)
+Best alignment score: 687.0 (LEN: 689, IDY: 99.71), Total number of alignments: 1
+		One align captures most of this contig: 2142720 2143408 | 689 1 | 689 689 | 99.71 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_187030
+
+CONTIG: k91_43685 (527bp)
+Best alignment score: 515.0 (LEN: 527, IDY: 97.72), Total number of alignments: 1
+		One align captures most of this contig: 2293138 2293664 | 1 527 | 527 527 | 97.72 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_43685
+
+CONTIG: k91_115506 (566bp)
+Best alignment score: 538.0 (LEN: 557, IDY: 96.59), Total number of alignments: 1
+		One align captures most of this contig: 1788078 1788633 | 566 10 | 556 557 | 96.59 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_115506
+
+CONTIG: k91_7416 (501bp)
+Best alignment score: 89.0 (LEN: 91, IDY: 97.80), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1959921 1960011 | 406 496 | 91 91 | 97.8 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_7416
+		Skipping redundant alignment 2375961 2376051 | 406 496 | 91 91 | 97.8 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_7416
+		Skipping redundant alignment 2251021 2251111 | 406 496 | 91 91 | 97.8 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_7416
+		Skipping redundant alignment 2395140 2395230 | 406 496 | 91 91 | 97.8 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_7416
+		Skipping redundant alignment 474324 474414 | 496 406 | 91 91 | 97.8 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_7416
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 89.0, number of alignments: 1, unaligned bases: 410
+		Alignment: 2209101 2209191 | 406 496 | 91 91 | 97.8 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_7416
+
+CONTIG: k91_44055 (603bp)
+Best alignment score: 600.0 (LEN: 603, IDY: 99.50), Total number of alignments: 1
+		One align captures most of this contig: 158497 159099 | 603 1 | 603 603 | 99.5 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_44055
+
+CONTIG: k91_150850 (805bp)
+Best alignment score: 795.0 (LEN: 805, IDY: 98.76), Total number of alignments: 1
+		One align captures most of this contig: 606986 607790 | 805 1 | 805 805 | 98.76 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_150850
+
+CONTIG: k91_115922 (1529bp)
+Best alignment score: 1498.0 (LEN: 1529, IDY: 97.97), Total number of alignments: 1
+		One align captures most of this contig: 394157 395685 | 1529 1 | 1529 1529 | 97.97 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_115922
+
+CONTIG: k91_44194 (670bp)
+Best alignment score: 659.0 (LEN: 670, IDY: 98.36), Total number of alignments: 1
+		One align captures most of this contig: 1448235 1448904 | 1 670 | 670 670 | 98.36 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_44194
+
+CONTIG: k91_79765 (522bp)
+Best alignment score: 510.0 (LEN: 517, IDY: 98.65), Total number of alignments: 1
+		One align captures most of this contig: 2249179 2249695 | 6 522 | 517 517 | 98.65 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_79765
+
+CONTIG: k91_79785 (522bp)
+Best alignment score: 482.0 (LEN: 488, IDY: 98.77), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 482.0, number of alignments: 1, unaligned bases: 34
+		Alignment: 105911 106398 | 488 1 | 488 488 | 98.77 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_79785
+
+CONTIG: k91_223672 (904bp)
+Best alignment score: 299.0 (LEN: 299, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 299.0, number of alignments: 1, unaligned bases: 605
+		This contig is partially unaligned. (Aligned 299 out of 904 non-N bases (33.08%))
+		Alignment: 824712 825010 | 299 1 | 299 299 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_223672
+		Unaligned bases: 300 to 904 (605)
+
+CONTIG: k91_44296 (553bp)
+Best alignment score: 495.0 (LEN: 507, IDY: 97.63), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 495.0, number of alignments: 1, unaligned bases: 46
+		Alignment: 1320660 1321166 | 553 47 | 507 507 | 97.63 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_44296
+
+CONTIG: k91_79921 (764bp)
+Best alignment score: 752.0 (LEN: 764, IDY: 98.43), Total number of alignments: 1
+		One align captures most of this contig: 268458 269222 | 1 764 | 765 764 | 98.43 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_79921
+
+CONTIG: k91_44361 (721bp)
+Best alignment score: 711.0 (LEN: 718, IDY: 99.03), Total number of alignments: 1
+		One align captures most of this contig: 138888 139606 | 4 721 | 719 718 | 99.03 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_44361
+
+CONTIG: k91_44372 (776bp)
+Best alignment score: 757.0 (LEN: 764, IDY: 99.08), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 757.0, number of alignments: 1, unaligned bases: 12
+		Alignment: 721764 722527 | 1 764 | 764 764 | 99.08 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_44372
+
+CONTIG: k91_7748 (876bp)
+Best alignment score: 868.0 (LEN: 876, IDY: 99.09), Total number of alignments: 1
+		One align captures most of this contig: 1686136 1687011 | 876 1 | 876 876 | 99.09 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_7748
+
+CONTIG: k91_116234 (1419bp)
+Best alignment score: 883.0 (LEN: 898, IDY: 98.33), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 1323.6, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 13 between Alignment 1 and 2: 1885609 1886142 | 1 534 | 534 534 --> 1885609 1886129 | 1 521 | 521 521
+			Real Alignment 1: 1885609 1886129 | 1 521 | 521 521 | 99.44 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_116234
+			  Extensive misassembly (relocation, inconsistency = 1080) between these two alignments
+			Real Alignment 2: 1887210 1888107 | 522 1419 | 898 898 | 98.33 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_116234
+
+CONTIG: k91_80077 (955bp)
+Best alignment score: 942.0 (LEN: 955, IDY: 98.64), Total number of alignments: 1
+		One align captures most of this contig: 1599756 1600710 | 1 955 | 955 955 | 98.64 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_80077
+
+CONTIG: k91_258789 (1228bp)
+Best alignment score: 1212.0 (LEN: 1228, IDY: 98.70), Total number of alignments: 1
+		One align captures most of this contig: 233161 234388 | 1 1228 | 1228 1228 | 98.7 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_258789
+
+CONTIG: k91_187993 (1216bp)
+Best alignment score: 1118.0 (LEN: 1125, IDY: 99.38), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 1118.0, number of alignments: 1, unaligned bases: 91
+		Alignment: 24914 26038 | 92 1216 | 1125 1125 | 99.38 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_187993
+
+CONTIG: k91_8076 (755bp)
+Best alignment score: 724.1 (LEN: 747, IDY: 96.93), Total number of alignments: 1
+		One align captures most of this contig: 555786 556532 | 1 747 | 747 747 | 96.93 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_8076
+
+CONTIG: k91_44692 (710bp)
+Best alignment score: 703.0 (LEN: 710, IDY: 99.01), Total number of alignments: 1
+		One align captures most of this contig: 2073349 2074058 | 710 1 | 710 710 | 99.01 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_44692
+
+CONTIG: k91_188116 (507bp)
+Best alignment score: 503.0 (LEN: 507, IDY: 99.21), Total number of alignments: 1
+		One align captures most of this contig: 2310762 2311268 | 1 507 | 507 507 | 99.21 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_188116
+
+CONTIG: k91_8150 (672bp)
+Best alignment score: 579.0 (LEN: 592, IDY: 97.80), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 579.0, number of alignments: 1, unaligned bases: 80
+		Alignment: 1819195 1819786 | 592 1 | 592 592 | 97.8 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_8150
+
+CONTIG: k91_8277 (635bp)
+Best alignment score: 437.0 (LEN: 450, IDY: 97.12), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 437.0, number of alignments: 1, unaligned bases: 185
+		Alignment: 142205 142655 | 635 186 | 451 450 | 97.12 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_8277
+
+CONTIG: k91_151774 (797bp)
+Best alignment score: 788.0 (LEN: 797, IDY: 98.87), Total number of alignments: 1
+		One align captures most of this contig: 20196 20992 | 797 1 | 797 797 | 98.87 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_151774
+
+CONTIG: k91_116805 (658bp)
+Best alignment score: 654.0 (LEN: 658, IDY: 99.39), Total number of alignments: 1
+		One align captures most of this contig: 597249 597906 | 1 658 | 658 658 | 99.39 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_116805
+
+CONTIG: k91_45146 (1249bp)
+Best alignment score: 1237.0 (LEN: 1249, IDY: 99.04), Total number of alignments: 1
+		One align captures most of this contig: 317965 319214 | 1249 1 | 1250 1249 | 99.04 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_45146
+
+CONTIG: k91_8505 (961bp)
+Best alignment score: 947.0 (LEN: 957, IDY: 98.96), Total number of alignments: 1
+		One align captures most of this contig: 2298174 2299130 | 957 1 | 957 957 | 98.96 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_8505
+
+CONTIG: k91_45185 (951bp)
+Best alignment score: 914.0 (LEN: 931, IDY: 98.17), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 914.0, number of alignments: 1, unaligned bases: 20
+		Alignment: 2124249 2125179 | 21 951 | 931 931 | 98.17 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_45185
+
+CONTIG: k91_45338 (555bp)
+Best alignment score: 546.0 (LEN: 555, IDY: 98.38), Total number of alignments: 1
+		One align captures most of this contig: 2111574 2112128 | 555 1 | 555 555 | 98.38 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_45338
+
+CONTIG: k91_188673 (516bp)
+Best alignment score: 511.0 (LEN: 516, IDY: 99.03), Total number of alignments: 1
+		One align captures most of this contig: 492437 492952 | 516 1 | 516 516 | 99.03 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_188673
+
+CONTIG: k91_45470 (539bp)
+Best alignment score: 520.0 (LEN: 539, IDY: 96.47), Total number of alignments: 1
+		One align captures most of this contig: 428635 429173 | 1 539 | 539 539 | 96.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_45470
+
+CONTIG: k91_259688 (873bp)
+Best alignment score: 860.0 (LEN: 873, IDY: 98.51), Total number of alignments: 1
+		One align captures most of this contig: 543509 544381 | 873 1 | 873 873 | 98.51 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_259688
+
+CONTIG: k91_81012 (900bp)
+Best alignment score: 888.0 (LEN: 900, IDY: 98.67), Total number of alignments: 1
+		One align captures most of this contig: 1609360 1610259 | 900 1 | 900 900 | 98.67 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_81012
+
+CONTIG: k91_117385 (743bp)
+Best alignment score: 736.0 (LEN: 743, IDY: 99.06), Total number of alignments: 1
+		One align captures most of this contig: 1520395 1521137 | 743 1 | 743 743 | 99.06 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_117385
+
+CONTIG: k91_225055 (513bp)
+Best alignment score: 474.2 (LEN: 509, IDY: 93.16), Total number of alignments: 6
+		This contig has 6 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 2253426 2253934 | 5 513 | 509 509 | 93.16 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_225055
+			Skipping alignment 2211506 2212014 | 5 513 | 509 509 | 93.16 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_225055
+			Skipping alignment 2378366 2378874 | 5 513 | 509 509 | 93.16 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_225055
+			Skipping alignment 2397545 2398053 | 5 513 | 509 509 | 93.16 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_225055
+			Skipping alignment 471501 472009 | 513 5 | 509 509 | 93.16 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_225055
+			Skipping alignment 1962326 1962834 | 5 513 | 509 509 | 93.16 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_225055
+
+CONTIG: k91_152489 (635bp)
+Best alignment score: 629.0 (LEN: 635, IDY: 99.06), Total number of alignments: 1
+		One align captures most of this contig: 269779 270413 | 635 1 | 635 635 | 99.06 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_152489
+
+CONTIG: k91_117528 (546bp)
+Best alignment score: 525.0 (LEN: 531, IDY: 98.87), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 525.0, number of alignments: 1, unaligned bases: 15
+		Alignment: 196 726 | 531 1 | 531 531 | 98.87 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_117528
+
+CONTIG: k91_81423 (547bp)
+Best alignment score: 530.0 (LEN: 547, IDY: 96.89), Total number of alignments: 1
+		One align captures most of this contig: 1607186 1607732 | 1 547 | 547 547 | 96.89 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_81423
+
+CONTIG: k91_81474 (571bp)
+Best alignment score: 565.0 (LEN: 571, IDY: 98.95), Total number of alignments: 1
+		One align captures most of this contig: 249390 249960 | 1 571 | 571 571 | 98.95 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_81474
+
+CONTIG: k91_189360 (561bp)
+Best alignment score: 536.0 (LEN: 544, IDY: 98.53), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 536.0, number of alignments: 1, unaligned bases: 17
+		Alignment: 1425978 1426521 | 544 1 | 544 544 | 98.53 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_189360
+
+CONTIG: k91_81588 (1131bp)
+Best alignment score: 1119.0 (LEN: 1131, IDY: 98.94), Total number of alignments: 1
+		One align captures most of this contig: 2385033 2386163 | 1131 1 | 1131 1131 | 98.94 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_81588
+
+CONTIG: k91_117810 (670bp)
+Best alignment score: 663.0 (LEN: 670, IDY: 98.96), Total number of alignments: 1
+		One align captures most of this contig: 1464051 1464720 | 670 1 | 670 670 | 98.96 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_117810
+
+CONTIG: k91_260262 (1659bp)
+Best alignment score: 1644.1 (LEN: 1654, IDY: 99.40), Total number of alignments: 1
+		One align captures most of this contig: 1653215 1654868 | 6 1659 | 1654 1654 | 99.4 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_260262
+
+CONTIG: k91_152858 (537bp)
+Best alignment score: 532.0 (LEN: 537, IDY: 99.07), Total number of alignments: 1
+		One align captures most of this contig: 1068141 1068677 | 537 1 | 537 537 | 99.07 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_152858
+
+CONTIG: k91_189505 (613bp)
+Best alignment score: 611.0 (LEN: 613, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 285098 285710 | 613 1 | 613 613 | 99.67 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_189505
+
+CONTIG: k91_225601 (736bp)
+Best alignment score: 728.0 (LEN: 736, IDY: 98.91), Total number of alignments: 1
+		One align captures most of this contig: 9146 9881 | 736 1 | 736 736 | 98.91 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_225601
+
+CONTIG: k91_152895 (517bp)
+Best alignment score: 497.1 (LEN: 517, IDY: 96.15), Total number of alignments: 1
+		One align captures most of this contig: 2242533 2243050 | 517 1 | 518 517 | 96.15 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_152895
+
+CONTIG: k91_46196 (1099bp)
+Best alignment score: 1092.0 (LEN: 1099, IDY: 99.36), Total number of alignments: 1
+		One align captures most of this contig: 297025 298123 | 1 1099 | 1099 1099 | 99.36 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_46196
+
+CONTIG: k91_189573 (705bp)
+Best alignment score: 701.0 (LEN: 705, IDY: 99.43), Total number of alignments: 1
+		One align captures most of this contig: 2261371 2262075 | 705 1 | 705 705 | 99.43 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_189573
+
+CONTIG: k91_189629 (738bp)
+Best alignment score: 730.0 (LEN: 735, IDY: 99.32), Total number of alignments: 1
+		One align captures most of this contig: 1857441 1858175 | 735 1 | 735 735 | 99.32 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_189629
+
+CONTIG: k91_46290 (1106bp)
+Best alignment score: 1088.0 (LEN: 1106, IDY: 98.37), Total number of alignments: 1
+		One align captures most of this contig: 165690 166792 | 1 1106 | 1103 1106 | 98.37 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_46290
+
+CONTIG: k91_260590 (580bp)
+Best alignment score: 580.0 (LEN: 580, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 2289133 2289712 | 1 580 | 580 580 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_260590
+
+CONTIG: k91_225956 (1078bp)
+Best alignment score: 178.0 (LEN: 187, IDY: 95.19), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 178.0, number of alignments: 1, unaligned bases: 891
+		This contig is partially unaligned. (Aligned 187 out of 1078 non-N bases (17.35%))
+		Alignment: 718917 719103 | 1075 889 | 187 187 | 95.19 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_225956
+		Unaligned bases: 1 to 888 (888)
+		Unaligned bases: 1076 to 1078 (3)
+
+CONTIG: k91_189990 (1072bp)
+Best alignment score: 1057.0 (LEN: 1072, IDY: 98.60), Total number of alignments: 1
+		One align captures most of this contig: 1547825 1548896 | 1 1072 | 1072 1072 | 98.6 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_189990
+
+CONTIG: k91_226065 (667bp)
+Best alignment score: 659.0 (LEN: 667, IDY: 98.80), Total number of alignments: 1
+		One align captures most of this contig: 498590 499256 | 667 1 | 667 667 | 98.8 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_226065
+
+CONTIG: k91_226136 (540bp)
+Best alignment score: 534.0 (LEN: 540, IDY: 98.89), Total number of alignments: 1
+		One align captures most of this contig: 1783900 1784439 | 1 540 | 540 540 | 98.89 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_226136
+
+CONTIG: k91_153436 (559bp)
+Best alignment score: 545.0 (LEN: 555, IDY: 98.20), Total number of alignments: 1
+		One align captures most of this contig: 288344 288898 | 559 5 | 555 555 | 98.2 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_153436
+
+CONTIG: k91_46783 (1522bp)
+Best alignment score: 1513.9 (LEN: 1522, IDY: 99.47), Total number of alignments: 1
+		One align captures most of this contig: 1967320 1968841 | 1 1522 | 1522 1522 | 99.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_46783
+
+CONTIG: k91_82499 (679bp)
+Best alignment score: 674.0 (LEN: 679, IDY: 99.26), Total number of alignments: 1
+		One align captures most of this contig: 252377 253056 | 679 1 | 680 679 | 99.26 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_82499
+
+CONTIG: k91_10383 (609bp)
+Best alignment score: 604.0 (LEN: 609, IDY: 99.18), Total number of alignments: 1
+		One align captures most of this contig: 1506113 1506721 | 609 1 | 609 609 | 99.18 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_10383
+
+CONTIG: k91_190312 (520bp)
+Best alignment score: 77.0 (LEN: 77, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 77.0, number of alignments: 1, unaligned bases: 443
+		Alignment: 1921044 1921120 | 438 514 | 77 77 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_190312
+
+CONTIG: k91_10403 (1177bp)
+Best alignment score: 1147.0 (LEN: 1177, IDY: 97.45), Total number of alignments: 1
+		One align captures most of this contig: 1828919 1830095 | 1177 1 | 1177 1177 | 97.45 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_10403
+
+CONTIG: k91_153636 (1290bp)
+Best alignment score: 1258.0 (LEN: 1290, IDY: 97.52), Total number of alignments: 1
+		One align captures most of this contig: 372190 373479 | 1290 1 | 1290 1290 | 97.52 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_153636
+
+CONTIG: k91_261175 (666bp)
+Best alignment score: 644.0 (LEN: 666, IDY: 96.70), Total number of alignments: 2
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 602938 603604 | 1 666 | 667 666 | 96.7 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_261175
+			Skipping alignment 559835 560501 | 666 1 | 667 666 | 96.7 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_261175
+
+CONTIG: k91_153698 (555bp)
+Best alignment score: 555.0 (LEN: 555, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 2078322 2078876 | 1 555 | 555 555 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_153698
+
+CONTIG: k91_226452 (531bp)
+Best alignment score: 524.0 (LEN: 531, IDY: 98.68), Total number of alignments: 1
+		One align captures most of this contig: 283246 283776 | 1 531 | 531 531 | 98.68 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_226452
+
+CONTIG: k91_153785 (794bp)
+Best alignment score: 783.0 (LEN: 794, IDY: 98.61), Total number of alignments: 1
+		One align captures most of this contig: 1015192 1015985 | 794 1 | 794 794 | 98.61 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_153785
+
+CONTIG: k91_261375 (578bp)
+Best alignment score: 575.0 (LEN: 578, IDY: 99.48), Total number of alignments: 1
+		One align captures most of this contig: 2035414 2035991 | 1 578 | 578 578 | 99.48 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_261375
+
+CONTIG: k91_153944 (547bp)
+Best alignment score: 540.0 (LEN: 547, IDY: 98.72), Total number of alignments: 1
+		One align captures most of this contig: 121892 122438 | 547 1 | 547 547 | 98.72 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_153944
+
+CONTIG: k91_190802 (720bp)
+Best alignment score: 717.0 (LEN: 720, IDY: 99.58), Total number of alignments: 1
+		One align captures most of this contig: 151519 152238 | 720 1 | 720 720 | 99.58 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_190802
+
+CONTIG: k91_261817 (570bp)
+Best alignment score: 558.0 (LEN: 566, IDY: 98.59), Total number of alignments: 1
+		One align captures most of this contig: 847934 848499 | 5 570 | 566 566 | 98.59 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_261817
+
+CONTIG: k91_227000 (622bp)
+Best alignment score: 606.0 (LEN: 622, IDY: 97.43), Total number of alignments: 1
+		One align captures most of this contig: 275339 275960 | 1 622 | 622 622 | 97.43 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_227000
+
+CONTIG: k91_47862 (772bp)
+Best alignment score: 766.0 (LEN: 772, IDY: 99.22), Total number of alignments: 1
+		One align captures most of this contig: 783146 783917 | 772 1 | 772 772 | 99.22 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_47862
+
+CONTIG: k91_83405 (520bp)
+Best alignment score: 515.0 (LEN: 520, IDY: 99.04), Total number of alignments: 1
+		One align captures most of this contig: 1339973 1340492 | 520 1 | 520 520 | 99.04 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_83405
+
+CONTIG: k91_119325 (575bp)
+Best alignment score: 471.0 (LEN: 491, IDY: 95.93), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 471.0, number of alignments: 1, unaligned bases: 84
+		Alignment: 1672486 1672976 | 85 575 | 491 491 | 95.93 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_119325
+
+CONTIG: k91_261872 (625bp)
+Best alignment score: 229.0 (LEN: 238, IDY: 96.22), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 229.0, number of alignments: 1, unaligned bases: 387
+		Alignment: 1927166 1927402 | 625 388 | 237 238 | 96.22 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_261872
+
+CONTIG: k91_11196 (738bp)
+Best alignment score: 729.0 (LEN: 738, IDY: 98.78), Total number of alignments: 1
+		One align captures most of this contig: 2227166 2227904 | 1 738 | 739 738 | 98.78 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_11196
+
+CONTIG: k91_227117 (619bp)
+Best alignment score: 612.0 (LEN: 619, IDY: 98.87), Total number of alignments: 1
+		One align captures most of this contig: 552162 552780 | 619 1 | 619 619 | 98.87 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_227117
+
+CONTIG: k91_227129 (522bp)
+Best alignment score: 517.0 (LEN: 522, IDY: 99.04), Total number of alignments: 1
+		One align captures most of this contig: 1677503 1678024 | 522 1 | 522 522 | 99.04 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_227129
+
+CONTIG: k91_119516 (782bp)
+Best alignment score: 349.0 (LEN: 352, IDY: 99.15), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 349.0, number of alignments: 1, unaligned bases: 430
+		Alignment: 574962 575313 | 1 352 | 352 352 | 99.15 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_119516
+
+CONTIG: k91_11317 (707bp)
+Best alignment score: 697.0 (LEN: 707, IDY: 98.59), Total number of alignments: 1
+		One align captures most of this contig: 1078887 1079593 | 707 1 | 707 707 | 98.59 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_11317
+
+CONTIG: k91_227414 (566bp)
+Best alignment score: 558.0 (LEN: 566, IDY: 98.59), Total number of alignments: 1
+		One align captures most of this contig: 840708 841273 | 1 566 | 566 566 | 98.59 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_227414
+
+CONTIG: k91_262167 (918bp)
+Best alignment score: 911.0 (LEN: 918, IDY: 99.24), Total number of alignments: 1
+		One align captures most of this contig: 552778 553695 | 918 1 | 918 918 | 99.24 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_262167
+
+CONTIG: k91_119729 (787bp)
+Best alignment score: 784.0 (LEN: 787, IDY: 99.62), Total number of alignments: 1
+		One align captures most of this contig: 2097916 2098702 | 787 1 | 787 787 | 99.62 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_119729
+
+CONTIG: k91_191517 (651bp)
+Best alignment score: 648.0 (LEN: 651, IDY: 99.54), Total number of alignments: 1
+		One align captures most of this contig: 1791811 1792461 | 651 1 | 651 651 | 99.54 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_191517
+
+CONTIG: k91_154696 (694bp)
+Best alignment score: 693.0 (LEN: 694, IDY: 99.86), Total number of alignments: 1
+		One align captures most of this contig: 108761 109454 | 694 1 | 694 694 | 99.86 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_154696
+
+CONTIG: k91_48330 (685bp)
+Best alignment score: 680.0 (LEN: 685, IDY: 99.27), Total number of alignments: 1
+		One align captures most of this contig: 314561 315245 | 685 1 | 685 685 | 99.27 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_48330
+
+CONTIG: k91_119939 (508bp)
+Best alignment score: 496.0 (LEN: 508, IDY: 97.64), Total number of alignments: 1
+		One align captures most of this contig: 1211419 1211926 | 1 508 | 508 508 | 97.64 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_119939
+
+CONTIG: k91_191705 (568bp)
+Best alignment score: 563.0 (LEN: 568, IDY: 99.12), Total number of alignments: 1
+		One align captures most of this contig: 165114 165681 | 1 568 | 568 568 | 99.12 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_191705
+
+CONTIG: k91_84161 (787bp)
+Best alignment score: 775.0 (LEN: 787, IDY: 98.48), Total number of alignments: 1
+		One align captures most of this contig: 1603808 1604594 | 787 1 | 787 787 | 98.48 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_84161
+
+CONTIG: k91_191962 (627bp)
+Best alignment score: 620.0 (LEN: 627, IDY: 98.88), Total number of alignments: 1
+		One align captures most of this contig: 217388 218014 | 627 1 | 627 627 | 98.88 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_191962
+
+CONTIG: k91_48792 (1029bp)
+Best alignment score: 1021.0 (LEN: 1029, IDY: 99.22), Total number of alignments: 1
+		One align captures most of this contig: 1103076 1104104 | 1 1029 | 1029 1029 | 99.22 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_48792
+
+CONTIG: k91_262754 (924bp)
+Best alignment score: 911.0 (LEN: 924, IDY: 98.59), Total number of alignments: 1
+		One align captures most of this contig: 2259502 2260425 | 1 924 | 924 924 | 98.59 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_262754
+
+CONTIG: k91_84480 (536bp)
+Best alignment score: 530.0 (LEN: 536, IDY: 98.88), Total number of alignments: 1
+		One align captures most of this contig: 1756694 1757229 | 1 536 | 536 536 | 98.88 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_84480
+
+CONTIG: k91_49125 (1165bp)
+Best alignment score: 1155.1 (LEN: 1159, IDY: 99.66), Total number of alignments: 1
+		One align captures most of this contig: 302095 303254 | 7 1165 | 1160 1159 | 99.66 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_49125
+
+CONTIG: k91_84690 (1095bp)
+Best alignment score: 1053.1 (LEN: 1095, IDY: 96.17), Total number of alignments: 1
+		One align captures most of this contig: 334660 335754 | 1 1095 | 1095 1095 | 96.17 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_84690
+
+CONTIG: k91_155367 (1093bp)
+Best alignment score: 1086.0 (LEN: 1093, IDY: 99.36), Total number of alignments: 1
+		One align captures most of this contig: 1979096 1980188 | 1 1093 | 1093 1093 | 99.36 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_155367
+
+CONTIG: k91_12554 (570bp)
+Best alignment score: 568.0 (LEN: 570, IDY: 99.65), Total number of alignments: 1
+		One align captures most of this contig: 1994313 1994882 | 570 1 | 570 570 | 99.65 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_12554
+
+CONTIG: k91_155658 (871bp)
+Best alignment score: 864.0 (LEN: 871, IDY: 99.20), Total number of alignments: 1
+		One align captures most of this contig: 450325 451195 | 1 871 | 871 871 | 99.2 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_155658
+
+CONTIG: k91_263228 (908bp)
+Best alignment score: 655.0 (LEN: 659, IDY: 99.39), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 778.0, number of alignments: 2, unaligned bases: 74
+		This contig is misassembled.
+			Real Alignment 1: 55979 56153 | 1 175 | 175 175 | 98.86 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_263228
+			  Extensive misassembly (relocation, inconsistency = 3391) between these two alignments
+			Real Alignment 2: 59619 60277 | 250 908 | 659 659 | 99.39 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_263228
+
+CONTIG: k91_85063 (700bp)
+Best alignment score: 554.0 (LEN: 557, IDY: 99.46), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 554.0, number of alignments: 1, unaligned bases: 143
+		Alignment: 964475 965031 | 700 144 | 557 557 | 99.46 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_85063
+
+CONTIG: k91_12816 (743bp)
+Best alignment score: 735.0 (LEN: 743, IDY: 98.92), Total number of alignments: 1
+		One align captures most of this contig: 1010742 1011484 | 743 1 | 743 743 | 98.92 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_12816
+
+CONTIG: k91_12834 (1317bp)
+Best alignment score: 1304.0 (LEN: 1317, IDY: 99.01), Total number of alignments: 1
+		One align captures most of this contig: 2356976 2358292 | 1 1317 | 1317 1317 | 99.01 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_12834
+
+CONTIG: k91_192870 (746bp)
+Best alignment score: 740.0 (LEN: 746, IDY: 99.20), Total number of alignments: 1
+		One align captures most of this contig: 1947228 1947973 | 746 1 | 746 746 | 99.2 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_192870
+
+CONTIG: k91_85246 (720bp)
+Best alignment score: 718.0 (LEN: 720, IDY: 99.72), Total number of alignments: 1
+		One align captures most of this contig: 540745 541464 | 1 720 | 720 720 | 99.72 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_85246
+
+CONTIG: k91_85295 (858bp)
+Best alignment score: 799.0 (LEN: 825, IDY: 96.85), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 799.0, number of alignments: 1, unaligned bases: 33
+		Alignment: 207721 208545 | 825 1 | 825 825 | 96.85 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_85295
+
+CONTIG: k91_263464 (929bp)
+Best alignment score: 913.0 (LEN: 918, IDY: 99.46), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 913.0, number of alignments: 1, unaligned bases: 11
+		Alignment: 577392 578309 | 929 12 | 918 918 | 99.46 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_263464
+
+CONTIG: k91_13071 (662bp)
+Best alignment score: 655.0 (LEN: 662, IDY: 98.94), Total number of alignments: 1
+		One align captures most of this contig: 84223 84884 | 1 662 | 662 662 | 98.94 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_13071
+
+CONTIG: k91_49870 (525bp)
+Best alignment score: 249.0 (LEN: 251, IDY: 99.20), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 249.0, number of alignments: 1, unaligned bases: 274
+		Alignment: 144128 144378 | 275 525 | 251 251 | 99.2 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_49870
+
+CONTIG: k91_193218 (557bp)
+Best alignment score: 548.0 (LEN: 557, IDY: 98.38), Total number of alignments: 1
+		One align captures most of this contig: 1673682 1674237 | 557 1 | 556 557 | 98.38 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_193218
+
+CONTIG: k91_121322 (1063bp)
+Best alignment score: 1033.0 (LEN: 1063, IDY: 97.18), Total number of alignments: 1
+		One align captures most of this contig: 1815374 1816436 | 1063 1 | 1063 1063 | 97.18 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_121322
+
+CONTIG: k91_156204 (533bp)
+Best alignment score: 526.0 (LEN: 533, IDY: 98.69), Total number of alignments: 1
+		One align captures most of this contig: 572115 572647 | 533 1 | 533 533 | 98.69 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_156204
+
+CONTIG: k91_13483 (1382bp)
+Best alignment score: 1337.9 (LEN: 1352, IDY: 98.96), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 1337.9, number of alignments: 1, unaligned bases: 30
+		Alignment: 2230741 2232090 | 1382 31 | 1350 1352 | 98.96 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_13483
+
+CONTIG: k91_85773 (700bp)
+Best alignment score: 699.0 (LEN: 700, IDY: 99.86), Total number of alignments: 1
+		One align captures most of this contig: 2041809 2042508 | 1 700 | 700 700 | 99.86 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_85773
+
+CONTIG: k91_13560 (1155bp)
+Best alignment score: 1148.0 (LEN: 1155, IDY: 99.39), Total number of alignments: 1
+		One align captures most of this contig: 166904 168058 | 1 1155 | 1155 1155 | 99.39 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_13560
+
+CONTIG: k91_85846 (709bp)
+Best alignment score: 707.0 (LEN: 709, IDY: 99.72), Total number of alignments: 1
+		One align captures most of this contig: 1690526 1691234 | 709 1 | 709 709 | 99.72 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_85846
+
+CONTIG: k91_121667 (1582bp)
+Best alignment score: 1570.9 (LEN: 1582, IDY: 99.30), Total number of alignments: 1
+		One align captures most of this contig: 1888418 1889999 | 1 1582 | 1582 1582 | 99.3 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_121667
+
+CONTIG: k91_156602 (676bp)
+Best alignment score: 668.0 (LEN: 673, IDY: 99.26), Total number of alignments: 1
+		One align captures most of this contig: 209263 209935 | 673 1 | 673 673 | 99.26 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_156602
+
+CONTIG: k91_264233 (671bp)
+Best alignment score: 658.0 (LEN: 671, IDY: 98.06), Total number of alignments: 1
+		One align captures most of this contig: 794059 794729 | 671 1 | 671 671 | 98.06 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_264233
+
+CONTIG: k91_50637 (1444bp)
+Best alignment score: 1441.0 (LEN: 1444, IDY: 99.79), Total number of alignments: 1
+		One align captures most of this contig: 2123038 2124481 | 1 1444 | 1444 1444 | 99.79 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_50637
+
+CONTIG: k91_264372 (505bp)
+Best alignment score: 495.0 (LEN: 505, IDY: 98.02), Total number of alignments: 1
+		One align captures most of this contig: 2028728 2029232 | 505 1 | 505 505 | 98.02 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_264372
+
+CONTIG: k91_14040 (1297bp)
+Best alignment score: 1257.1 (LEN: 1297, IDY: 96.92), Total number of alignments: 1
+		One align captures most of this contig: 236734 238030 | 1297 1 | 1297 1297 | 96.92 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_14040
+
+CONTIG: k91_50885 (666bp)
+Best alignment score: 655.0 (LEN: 666, IDY: 98.35), Total number of alignments: 1
+		One align captures most of this contig: 1807577 1808242 | 1 666 | 666 666 | 98.35 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_50885
+
+CONTIG: k91_86347 (591bp)
+Best alignment score: 580.0 (LEN: 591, IDY: 98.14), Total number of alignments: 1
+		One align captures most of this contig: 1982951 1983532 | 1 591 | 582 591 | 98.14 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_86347
+
+CONTIG: k91_194171 (545bp)
+Best alignment score: 542.0 (LEN: 545, IDY: 99.45), Total number of alignments: 1
+		One align captures most of this contig: 1948947 1949491 | 1 545 | 545 545 | 99.45 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_194171
+
+CONTIG: k91_264631 (1115bp)
+Best alignment score: 566.0 (LEN: 574, IDY: 98.61), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 998.8, number of alignments: 2, unaligned bases: 46
+		This contig is misassembled.
+			Real Alignment 1: 1825902 1826396 | 495 1 | 495 495 | 98.79 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_264631
+			  Extensive misassembly (relocation, inconsistency = 459252) between these two alignments
+			Real Alignment 2: 1366030 1366603 | 542 1115 | 574 574 | 98.61 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_264631
+
+CONTIG: k91_230199 (709bp)
+Best alignment score: 699.0 (LEN: 709, IDY: 98.59), Total number of alignments: 1
+		One align captures most of this contig: 1873664 1874372 | 709 1 | 709 709 | 98.59 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_230199
+
+CONTIG: k91_194271 (809bp)
+Best alignment score: 808.0 (LEN: 809, IDY: 99.88), Total number of alignments: 1
+		One align captures most of this contig: 2187446 2188255 | 1 809 | 810 809 | 99.88 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_194271
+
+CONTIG: k91_157124 (1117bp)
+Best alignment score: 1077.0 (LEN: 1096, IDY: 98.27), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 1077.0, number of alignments: 1, unaligned bases: 21
+		Alignment: 2202140 2203226 | 1096 1 | 1087 1096 | 98.27 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_157124
+
+CONTIG: k91_194345 (904bp)
+Best alignment score: 895.0 (LEN: 904, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 2012270 2013173 | 1 904 | 904 904 | 99.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_194345
+
+CONTIG: k91_86607 (527bp)
+Best alignment score: 525.0 (LEN: 527, IDY: 99.62), Total number of alignments: 1
+		One align captures most of this contig: 730169 730695 | 527 1 | 527 527 | 99.62 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_86607
+
+CONTIG: k91_157207 (838bp)
+Best alignment score: 827.0 (LEN: 838, IDY: 98.69), Total number of alignments: 1
+		One align captures most of this contig: 1990628 1991465 | 838 1 | 838 838 | 98.69 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_157207
+
+CONTIG: k91_122385 (1070bp)
+Best alignment score: 1061.0 (LEN: 1070, IDY: 99.16), Total number of alignments: 1
+		One align captures most of this contig: 1489022 1490091 | 1 1070 | 1070 1070 | 99.16 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_122385
+
+CONTIG: k91_122463 (615bp)
+Best alignment score: 604.0 (LEN: 609, IDY: 99.18), Total number of alignments: 1
+		One align captures most of this contig: 950776 951384 | 1 609 | 609 609 | 99.18 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_122463
+
+CONTIG: k91_14470 (743bp)
+Best alignment score: 734.0 (LEN: 743, IDY: 98.79), Total number of alignments: 1
+		One align captures most of this contig: 556962 557704 | 743 1 | 743 743 | 98.79 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_14470
+
+CONTIG: k91_194529 (777bp)
+Best alignment score: 539.1 (LEN: 571, IDY: 94.42), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 539.1, number of alignments: 1, unaligned bases: 206
+		Alignment: 2271019 2271590 | 61 631 | 572 571 | 94.42 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_194529
+
+CONTIG: k91_194695 (1188bp)
+Best alignment score: 1181.0 (LEN: 1188, IDY: 99.41), Total number of alignments: 1
+		One align captures most of this contig: 693821 695008 | 1 1188 | 1188 1188 | 99.41 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_194695
+
+CONTIG: k91_14652 (976bp)
+Best alignment score: 968.0 (LEN: 976, IDY: 99.18), Total number of alignments: 1
+		One align captures most of this contig: 270836 271811 | 976 1 | 976 976 | 99.18 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_14652
+
+CONTIG: k91_14701 (701bp)
+Best alignment score: 697.0 (LEN: 701, IDY: 99.43), Total number of alignments: 1
+		One align captures most of this contig: 2092975 2093675 | 701 1 | 701 701 | 99.43 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_14701
+
+CONTIG: k91_51713 (765bp)
+Best alignment score: 762.0 (LEN: 765, IDY: 99.61), Total number of alignments: 1
+		One align captures most of this contig: 1814006 1814770 | 1 765 | 765 765 | 99.61 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_51713
+
+CONTIG: k91_194973 (566bp)
+Best alignment score: 563.0 (LEN: 566, IDY: 99.47), Total number of alignments: 1
+		One align captures most of this contig: 1713750 1714315 | 1 566 | 566 566 | 99.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_194973
+
+CONTIG: k91_51814 (643bp)
+Best alignment score: 632.0 (LEN: 643, IDY: 98.29), Total number of alignments: 1
+		One align captures most of this contig: 1996641 1997283 | 643 1 | 643 643 | 98.29 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_51814
+
+CONTIG: k91_14956 (521bp)
+Best alignment score: 510.0 (LEN: 521, IDY: 97.89), Total number of alignments: 1
+		One align captures most of this contig: 1371232 1371751 | 521 1 | 520 521 | 97.89 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_14956
+
+CONTIG: k91_230996 (929bp)
+Best alignment score: 894.0 (LEN: 929, IDY: 96.23), Total number of alignments: 1
+		One align captures most of this contig: 1247469 1248397 | 929 1 | 929 929 | 96.23 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_230996
+
+CONTIG: k91_51932 (581bp)
+Best alignment score: 581.0 (LEN: 581, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 743467 744047 | 581 1 | 581 581 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_51932
+
+CONTIG: k91_158069 (823bp)
+Best alignment score: 822.0 (LEN: 823, IDY: 99.88), Total number of alignments: 1
+		One align captures most of this contig: 255429 256251 | 1 823 | 823 823 | 99.88 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_158069
+
+CONTIG: k91_231476 (681bp)
+Best alignment score: 677.0 (LEN: 681, IDY: 99.41), Total number of alignments: 1
+		One align captures most of this contig: 506580 507260 | 1 681 | 681 681 | 99.41 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_231476
+
+CONTIG: k91_87868 (966bp)
+Best alignment score: 949.0 (LEN: 966, IDY: 98.24), Total number of alignments: 1
+		One align captures most of this contig: 2386925 2387890 | 966 1 | 966 966 | 98.24 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_87868
+
+CONTIG: k91_123559 (792bp)
+Best alignment score: 788.0 (LEN: 792, IDY: 99.49), Total number of alignments: 1
+		One align captures most of this contig: 2063800 2064591 | 1 792 | 792 792 | 99.49 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_123559
+
+CONTIG: k91_15635 (1023bp)
+Best alignment score: 1019.0 (LEN: 1023, IDY: 99.61), Total number of alignments: 1
+		One align captures most of this contig: 2312808 2313830 | 1023 1 | 1023 1023 | 99.61 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_15635
+
+CONTIG: k91_266245 (1882bp)
+Best alignment score: 1806.9 (LEN: 1882, IDY: 96.01), Total number of alignments: 1
+		One align captures most of this contig: 2188594 2190430 | 1882 1 | 1837 1882 | 96.01 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_266245
+
+CONTIG: k91_15706 (530bp)
+Best alignment score: 517.0 (LEN: 530, IDY: 97.55), Total number of alignments: 1
+		One align captures most of this contig: 1208512 1209041 | 1 530 | 530 530 | 97.55 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_15706
+
+CONTIG: k91_15907 (619bp)
+Best alignment score: 606.0 (LEN: 619, IDY: 97.90), Total number of alignments: 1
+		One align captures most of this contig: 2067939 2068557 | 1 619 | 619 619 | 97.9 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_15907
+
+CONTIG: k91_124105 (869bp)
+Best alignment score: 859.0 (LEN: 869, IDY: 98.85), Total number of alignments: 1
+		One align captures most of this contig: 235384 236252 | 1 869 | 869 869 | 98.85 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_124105
+
+CONTIG: k91_16063 (561bp)
+Best alignment score: 560.0 (LEN: 561, IDY: 99.82), Total number of alignments: 1
+		One align captures most of this contig: 1293710 1294270 | 561 1 | 561 561 | 99.82 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_16063
+
+CONTIG: k91_266992 (699bp)
+Best alignment score: 692.0 (LEN: 699, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 1753787 1754485 | 1 699 | 699 699 | 99.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_266992
+
+CONTIG: k91_159086 (1336bp)
+Best alignment score: 1312.0 (LEN: 1336, IDY: 98.20), Total number of alignments: 1
+		One align captures most of this contig: 2081002 2082336 | 1336 1 | 1335 1336 | 98.2 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_159086
+
+CONTIG: k91_53295 (818bp)
+Best alignment score: 811.0 (LEN: 818, IDY: 99.14), Total number of alignments: 1
+		One align captures most of this contig: 184748 185565 | 1 818 | 818 818 | 99.14 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_53295
+
+CONTIG: k91_267088 (685bp)
+Best alignment score: 677.0 (LEN: 685, IDY: 98.83), Total number of alignments: 1
+		One align captures most of this contig: 1524941 1525625 | 685 1 | 685 685 | 98.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_267088
+
+CONTIG: k91_16621 (685bp)
+Best alignment score: 664.0 (LEN: 685, IDY: 96.94), Total number of alignments: 1
+		One align captures most of this contig: 220485 221169 | 685 1 | 685 685 | 96.94 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_16621
+
+CONTIG: k91_159329 (1548bp)
+Best alignment score: 1543.0 (LEN: 1548, IDY: 99.68), Total number of alignments: 1
+		One align captures most of this contig: 2392211 2393758 | 1 1548 | 1548 1548 | 99.68 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_159329
+
+CONTIG: k91_232589 (517bp)
+Best alignment score: 95.0 (LEN: 95, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 95.0, number of alignments: 1, unaligned bases: 422
+		Alignment: 1725579 1725673 | 1 95 | 95 95 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_232589
+
+CONTIG: k91_53552 (1115bp)
+Best alignment score: 1109.0 (LEN: 1115, IDY: 99.46), Total number of alignments: 1
+		One align captures most of this contig: 1992068 1993182 | 1115 1 | 1115 1115 | 99.46 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_53552
+
+CONTIG: k91_232803 (1262bp)
+Best alignment score: 1250.0 (LEN: 1262, IDY: 99.05), Total number of alignments: 1
+		One align captures most of this contig: 2128058 2129319 | 1262 1 | 1262 1262 | 99.05 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_232803
+
+CONTIG: k91_159581 (673bp)
+Best alignment score: 647.0 (LEN: 652, IDY: 99.23), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 647.0, number of alignments: 1, unaligned bases: 21
+		Alignment: 180710 181361 | 1 652 | 652 652 | 99.23 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_159581
+
+CONTIG: k91_197080 (599bp)
+Best alignment score: 597.0 (LEN: 599, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 346712 347310 | 1 599 | 599 599 | 99.67 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_197080
+
+CONTIG: k91_17103 (619bp)
+Best alignment score: 612.0 (LEN: 619, IDY: 98.87), Total number of alignments: 1
+		One align captures most of this contig: 1806033 1806651 | 619 1 | 619 619 | 98.87 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_17103
+
+CONTIG: k91_17137 (546bp)
+Best alignment score: 458.0 (LEN: 458, IDY: 100.00), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 458.0, number of alignments: 1, unaligned bases: 88
+		Alignment: 997085 997542 | 546 89 | 458 458 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_17137
+
+CONTIG: k91_89524 (771bp)
+Best alignment score: 769.0 (LEN: 771, IDY: 99.74), Total number of alignments: 1
+		One align captures most of this contig: 986565 987335 | 771 1 | 771 771 | 99.74 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_89524
+
+CONTIG: k91_197343 (1083bp)
+Best alignment score: 1079.0 (LEN: 1083, IDY: 99.63), Total number of alignments: 1
+		One align captures most of this contig: 3500 4582 | 1083 1 | 1083 1083 | 99.63 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_197343
+
+CONTIG: k91_267831 (549bp)
+Best alignment score: 543.0 (LEN: 549, IDY: 98.91), Total number of alignments: 1
+		One align captures most of this contig: 563189 563737 | 1 549 | 549 549 | 98.91 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_267831
+
+CONTIG: k91_89754 (543bp)
+Best alignment score: 540.0 (LEN: 543, IDY: 99.45), Total number of alignments: 1
+		One align captures most of this contig: 1810909 1811451 | 1 543 | 543 543 | 99.45 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_89754
+
+CONTIG: k91_17394 (814bp)
+Best alignment score: 799.0 (LEN: 814, IDY: 98.16), Total number of alignments: 1
+		One align captures most of this contig: 2303612 2304425 | 814 1 | 814 814 | 98.16 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_17394
+
+CONTIG: k91_89777 (855bp)
+Best alignment score: 847.0 (LEN: 855, IDY: 99.06), Total number of alignments: 1
+		One align captures most of this contig: 1823620 1824474 | 1 855 | 855 855 | 99.06 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_89777
+
+CONTIG: k91_54353 (961bp)
+Best alignment score: 955.0 (LEN: 961, IDY: 99.38), Total number of alignments: 1
+		One align captures most of this contig: 1465379 1466339 | 961 1 | 961 961 | 99.38 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_54353
+
+CONTIG: k91_90015 (771bp)
+Best alignment score: 762.0 (LEN: 771, IDY: 98.83), Total number of alignments: 1
+		One align captures most of this contig: 2371794 2372564 | 1 771 | 771 771 | 98.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_90015
+
+CONTIG: k91_125752 (1174bp)
+Best alignment score: 1169.0 (LEN: 1174, IDY: 99.57), Total number of alignments: 1
+		One align captures most of this contig: 31779 32952 | 1 1174 | 1174 1174 | 99.57 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_125752
+
+CONTIG: k91_268242 (699bp)
+Best alignment score: 689.0 (LEN: 693, IDY: 99.42), Total number of alignments: 1
+		One align captures most of this contig: 2037005 2037697 | 7 699 | 693 693 | 99.42 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_268242
+
+CONTIG: k91_233692 (2049bp)
+Best alignment score: 2032.0 (LEN: 2049, IDY: 99.17), Total number of alignments: 1
+		One align captures most of this contig: 2286564 2288613 | 2049 1 | 2050 2049 | 99.17 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_233692
+
+CONTIG: k91_17747 (4705bp)
+Best alignment score: 4673.0 (LEN: 4705, IDY: 99.32), Total number of alignments: 6
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 1959926 1964003 | 4705 629 | 4078 4077 | 99.58 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_17747
+			Skipping alignment 470332 474409 | 629 4705 | 4078 4077 | 99.56 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_17747
+			Skipping alignment 2209106 2213155 | 4705 657 | 4050 4049 | 99.53 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_17747
+			Skipping alignment 2395145 2399194 | 4705 657 | 4050 4049 | 99.53 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_17747
+			Skipping alignment 2251026 2255075 | 4705 657 | 4050 4049 | 99.53 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_17747
+		One align captures most of this contig: 2375966 2380672 | 4705 1 | 4707 4705 | 99.32 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_17747
+
+CONTIG: k91_54552 (554bp)
+Best alignment score: 548.0 (LEN: 553, IDY: 99.10), Total number of alignments: 1
+		One align captures most of this contig: 1785455 1786007 | 1 553 | 553 553 | 99.1 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_54552
+
+CONTIG: k91_54584 (818bp)
+Best alignment score: 813.0 (LEN: 818, IDY: 99.39), Total number of alignments: 1
+		One align captures most of this contig: 696514 697331 | 818 1 | 818 818 | 99.39 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_54584
+
+CONTIG: k91_268433 (838bp)
+Best alignment score: 826.0 (LEN: 838, IDY: 98.57), Total number of alignments: 1
+		One align captures most of this contig: 128996 129833 | 1 838 | 838 838 | 98.57 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_268433
+
+CONTIG: k91_17985 (974bp)
+Best alignment score: 960.0 (LEN: 974, IDY: 98.56), Total number of alignments: 1
+		One align captures most of this contig: 2000971 2001944 | 1 974 | 974 974 | 98.56 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_17985
+
+CONTIG: k91_54749 (630bp)
+Best alignment score: 627.0 (LEN: 630, IDY: 99.52), Total number of alignments: 1
+		One align captures most of this contig: 1866262 1866891 | 1 630 | 630 630 | 99.52 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_54749
+
+CONTIG: k91_268561 (757bp)
+Best alignment score: 753.0 (LEN: 757, IDY: 99.47), Total number of alignments: 1
+		One align captures most of this contig: 117945 118702 | 757 1 | 758 757 | 99.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_268561
+
+CONTIG: k91_268571 (522bp)
+Best alignment score: 512.0 (LEN: 519, IDY: 98.65), Total number of alignments: 1
+		One align captures most of this contig: 342020 342538 | 4 522 | 519 519 | 98.65 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_268571
+
+CONTIG: k91_198185 (559bp)
+Best alignment score: 545.0 (LEN: 559, IDY: 97.50), Total number of alignments: 1
+		One align captures most of this contig: 1263406 1263964 | 1 559 | 559 559 | 97.5 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_198185
+
+CONTIG: k91_126152 (723bp)
+Best alignment score: 718.0 (LEN: 723, IDY: 99.31), Total number of alignments: 1
+		One align captures most of this contig: 249916 250638 | 723 1 | 723 723 | 99.31 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_126152
+
+CONTIG: k91_198237 (544bp)
+Best alignment score: 541.0 (LEN: 544, IDY: 99.45), Total number of alignments: 1
+		One align captures most of this contig: 138355 138898 | 1 544 | 544 544 | 99.45 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_198237
+
+CONTIG: k91_160774 (542bp)
+Best alignment score: 540.0 (LEN: 542, IDY: 99.63), Total number of alignments: 1
+		One align captures most of this contig: 1394516 1395057 | 542 1 | 542 542 | 99.63 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_160774
+
+CONTIG: k91_18172 (710bp)
+Best alignment score: 700.0 (LEN: 710, IDY: 98.59), Total number of alignments: 1
+		One align captures most of this contig: 424885 425594 | 710 1 | 710 710 | 98.59 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_18172
+
+CONTIG: k91_90563 (721bp)
+Best alignment score: 710.0 (LEN: 721, IDY: 98.47), Total number of alignments: 1
+		One align captures most of this contig: 1531443 1532163 | 721 1 | 721 721 | 98.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_90563
+
+CONTIG: k91_160844 (747bp)
+Best alignment score: 740.0 (LEN: 747, IDY: 99.06), Total number of alignments: 1
+		One align captures most of this contig: 1440690 1441436 | 1 747 | 747 747 | 99.06 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_160844
+
+CONTIG: k91_55071 (562bp)
+Best alignment score: 555.0 (LEN: 562, IDY: 98.75), Total number of alignments: 1
+		One align captures most of this contig: 2018774 2019335 | 1 562 | 562 562 | 98.75 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_55071
+
+CONTIG: k91_90635 (814bp)
+Best alignment score: 811.0 (LEN: 814, IDY: 99.63), Total number of alignments: 1
+		One align captures most of this contig: 2074067 2074880 | 1 814 | 814 814 | 99.63 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_90635
+
+CONTIG: k91_18327 (511bp)
+Best alignment score: 507.0 (LEN: 511, IDY: 99.22), Total number of alignments: 1
+		One align captures most of this contig: 1868227 1868737 | 1 511 | 511 511 | 99.22 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_18327
+
+CONTIG: k91_269004 (1049bp)
+Best alignment score: 1037.0 (LEN: 1049, IDY: 98.86), Total number of alignments: 1
+		One align captures most of this contig: 791573 792621 | 1049 1 | 1049 1049 | 98.86 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_269004
+
+CONTIG: k91_234621 (692bp)
+Best alignment score: 691.0 (LEN: 692, IDY: 99.86), Total number of alignments: 1
+		One align captures most of this contig: 27699 28389 | 692 1 | 691 692 | 99.86 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_234621
+
+CONTIG: k91_18594 (944bp)
+Best alignment score: 927.0 (LEN: 944, IDY: 98.20), Total number of alignments: 1
+		One align captures most of this contig: 784680 785623 | 1 944 | 944 944 | 98.2 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_18594
+
+CONTIG: k91_55557 (827bp)
+Best alignment score: 765.7 (LEN: 818, IDY: 93.61), Total number of alignments: 1
+		One align captures most of this contig: 1596260 1597077 | 827 10 | 818 818 | 93.61 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_55557
+
+CONTIG: k91_199051 (620bp)
+Best alignment score: 619.0 (LEN: 620, IDY: 99.84), Total number of alignments: 1
+		One align captures most of this contig: 2122046 2122665 | 1 620 | 620 620 | 99.84 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_199051
+
+CONTIG: k91_91301 (787bp)
+Best alignment score: 777.0 (LEN: 787, IDY: 98.73), Total number of alignments: 1
+		One align captures most of this contig: 1837385 1838171 | 1 787 | 787 787 | 98.73 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_91301
+
+CONTIG: k91_18966 (785bp)
+Best alignment score: 778.0 (LEN: 785, IDY: 99.11), Total number of alignments: 1
+		One align captures most of this contig: 1880555 1881339 | 785 1 | 785 785 | 99.11 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_18966
+
+CONTIG: k91_19016 (759bp)
+Best alignment score: 514.0 (LEN: 515, IDY: 99.81), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 701.6, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled.
+			Excluding internal overlap of size 11 between Alignment 1 and 2: 2109072 2109326 | 505 759 | 255 255 --> 2109083 2109326 | 516 759 | 244 244
+			Real Alignment 1: 2107488 2108002 | 1 515 | 515 515 | 99.81 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_19016
+			  Extensive misassembly (relocation, inconsistency = 1080) between these two alignments
+			Real Alignment 2: 2109083 2109326 | 516 759 | 244 244 | 99.61 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_19016
+
+CONTIG: k91_235101 (623bp)
+Best alignment score: 610.0 (LEN: 623, IDY: 97.91), Total number of alignments: 1
+		One align captures most of this contig: 145316 145937 | 623 1 | 622 623 | 97.91 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_235101
+
+CONTIG: k91_19161 (1415bp)
+Best alignment score: 1388.0 (LEN: 1403, IDY: 98.93), Total number of alignments: 1
+		One align captures most of this contig: 2302117 2303519 | 13 1415 | 1403 1403 | 98.93 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_19161
+
+CONTIG: k91_161977 (640bp)
+Best alignment score: 625.0 (LEN: 640, IDY: 97.66), Total number of alignments: 1
+		One align captures most of this contig: 2297416 2298055 | 640 1 | 640 640 | 97.66 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_161977
+
+CONTIG: k91_91869 (541bp)
+Best alignment score: 322.0 (LEN: 325, IDY: 99.08), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 322.0, number of alignments: 1, unaligned bases: 216
+		Alignment: 2192882 2193206 | 217 541 | 325 325 | 99.08 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_91869
+
+CONTIG: k91_162148 (725bp)
+Best alignment score: 715.0 (LEN: 725, IDY: 98.62), Total number of alignments: 1
+		One align captures most of this contig: 1486671 1487395 | 725 1 | 725 725 | 98.62 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_162148
+
+CONTIG: k91_162219 (518bp)
+Best alignment score: 518.0 (LEN: 518, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 116757 117274 | 1 518 | 518 518 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_162219
+
+CONTIG: k91_162338 (705bp)
+Best alignment score: 691.0 (LEN: 705, IDY: 98.01), Total number of alignments: 1
+		One align captures most of this contig: 332147 332851 | 1 705 | 705 705 | 98.01 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_162338
+
+CONTIG: k91_270597 (510bp)
+Best alignment score: 510.0 (LEN: 510, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 786531 787040 | 1 510 | 510 510 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_270597
+
+CONTIG: k91_92316 (518bp)
+Best alignment score: 513.0 (LEN: 518, IDY: 99.03), Total number of alignments: 1
+		One align captures most of this contig: 1405294 1405811 | 518 1 | 518 518 | 99.03 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_92316
+
+CONTIG: k91_200180 (756bp)
+Best alignment score: 751.0 (LEN: 756, IDY: 99.34), Total number of alignments: 1
+		One align captures most of this contig: 1134903 1135658 | 1 756 | 756 756 | 99.34 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_200180
+
+CONTIG: k91_270633 (841bp)
+Best alignment score: 828.0 (LEN: 841, IDY: 98.45), Total number of alignments: 1
+		One align captures most of this contig: 286426 287266 | 841 1 | 841 841 | 98.45 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_270633
+
+CONTIG: k91_162532 (519bp)
+Best alignment score: 508.0 (LEN: 519, IDY: 97.88), Total number of alignments: 1
+		One align captures most of this contig: 1937947 1938465 | 1 519 | 519 519 | 97.88 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_162532
+
+CONTIG: k91_162533 (778bp)
+Best alignment score: 768.0 (LEN: 778, IDY: 98.71), Total number of alignments: 1
+		One align captures most of this contig: 1777792 1778569 | 1 778 | 778 778 | 98.71 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_162533
+
+CONTIG: k91_20060 (873bp)
+Best alignment score: 862.0 (LEN: 873, IDY: 98.74), Total number of alignments: 1
+		One align captures most of this contig: 147683 148555 | 1 873 | 873 873 | 98.74 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_20060
+
+CONTIG: k91_236267 (719bp)
+Best alignment score: 712.0 (LEN: 719, IDY: 99.03), Total number of alignments: 1
+		One align captures most of this contig: 382574 383293 | 1 719 | 720 719 | 99.03 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_236267
+
+CONTIG: k91_163015 (693bp)
+Best alignment score: 686.0 (LEN: 693, IDY: 98.99), Total number of alignments: 1
+		One align captures most of this contig: 527271 527963 | 693 1 | 693 693 | 98.99 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_163015
+
+CONTIG: k91_271292 (590bp)
+Best alignment score: 584.0 (LEN: 590, IDY: 98.98), Total number of alignments: 1
+		One align captures most of this contig: 1149115 1149704 | 1 590 | 590 590 | 98.98 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_271292
+
+CONTIG: k91_92945 (876bp)
+Best alignment score: 865.0 (LEN: 876, IDY: 98.74), Total number of alignments: 1
+		One align captures most of this contig: 441644 442519 | 876 1 | 876 876 | 98.74 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_92945
+
+CONTIG: k91_236503 (997bp)
+Best alignment score: 989.0 (LEN: 997, IDY: 99.20), Total number of alignments: 1
+		One align captures most of this contig: 2235503 2236500 | 1 997 | 998 997 | 99.2 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_236503
+
+CONTIG: k91_57406 (809bp)
+Best alignment score: 803.0 (LEN: 809, IDY: 99.26), Total number of alignments: 1
+		One align captures most of this contig: 230764 231572 | 809 1 | 809 809 | 99.26 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_57406
+
+CONTIG: k91_236540 (867bp)
+Best alignment score: 851.0 (LEN: 855, IDY: 99.53), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 851.0, number of alignments: 1, unaligned bases: 12
+		Alignment: 2116222 2117076 | 855 1 | 855 855 | 99.53 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_236540
+
+CONTIG: k91_236596 (503bp)
+Best alignment score: 501.0 (LEN: 503, IDY: 99.60), Total number of alignments: 1
+		One align captures most of this contig: 2294231 2294733 | 503 1 | 503 503 | 99.6 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_236596
+
+CONTIG: k91_236763 (697bp)
+Best alignment score: 683.0 (LEN: 693, IDY: 98.56), Total number of alignments: 1
+		One align captures most of this contig: 1870240 1870932 | 693 1 | 693 693 | 98.56 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_236763
+
+CONTIG: k91_93256 (516bp)
+Best alignment score: 512.0 (LEN: 516, IDY: 99.22), Total number of alignments: 1
+		One align captures most of this contig: 1449078 1449593 | 1 516 | 516 516 | 99.22 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_93256
+
+CONTIG: k91_93304 (501bp)
+Best alignment score: 498.0 (LEN: 501, IDY: 99.40), Total number of alignments: 1
+		One align captures most of this contig: 2054070 2054570 | 501 1 | 501 501 | 99.4 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_93304
+
+CONTIG: k91_271769 (752bp)
+Best alignment score: 741.0 (LEN: 752, IDY: 98.54), Total number of alignments: 1
+		One align captures most of this contig: 91253 92004 | 1 752 | 752 752 | 98.54 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_271769
+
+CONTIG: k91_163522 (795bp)
+Best alignment score: 793.0 (LEN: 795, IDY: 99.75), Total number of alignments: 1
+		One align captures most of this contig: 2200229 2201023 | 795 1 | 795 795 | 99.75 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_163522
+
+CONTIG: k91_163567 (615bp)
+Best alignment score: 603.0 (LEN: 612, IDY: 98.53), Total number of alignments: 1
+		One align captures most of this contig: 1312776 1313388 | 615 4 | 613 612 | 98.53 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_163567
+
+CONTIG: k91_163627 (577bp)
+Best alignment score: 564.0 (LEN: 573, IDY: 98.43), Total number of alignments: 1
+		One align captures most of this contig: 293691 294263 | 577 5 | 573 573 | 98.43 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_163627
+
+CONTIG: k91_237145 (759bp)
+Best alignment score: 745.0 (LEN: 756, IDY: 98.54), Total number of alignments: 1
+		One align captures most of this contig: 1981821 1982576 | 1 756 | 756 756 | 98.54 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_237145
+
+CONTIG: k91_201540 (500bp)
+Best alignment score: 490.0 (LEN: 494, IDY: 99.19), Total number of alignments: 1
+		One align captures most of this contig: 437498 437991 | 500 7 | 494 494 | 99.19 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_201540
+
+CONTIG: k91_93808 (862bp)
+Best alignment score: 858.0 (LEN: 862, IDY: 99.54), Total number of alignments: 1
+		One align captures most of this contig: 322936 323797 | 1 862 | 862 862 | 99.54 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_93808
+
+CONTIG: k91_21057 (599bp)
+Best alignment score: 590.0 (LEN: 599, IDY: 98.50), Total number of alignments: 1
+		One align captures most of this contig: 700282 700880 | 599 1 | 599 599 | 98.5 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_21057
+
+CONTIG: k91_201695 (521bp)
+Best alignment score: 518.0 (LEN: 521, IDY: 99.42), Total number of alignments: 1
+		One align captures most of this contig: 434972 435492 | 1 521 | 521 521 | 99.42 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_201695
+
+CONTIG: k91_237449 (926bp)
+Best alignment score: 919.0 (LEN: 926, IDY: 99.24), Total number of alignments: 1
+		One align captures most of this contig: 1855823 1856748 | 1 926 | 926 926 | 99.24 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_237449
+
+CONTIG: k91_21192 (563bp)
+Best alignment score: 562.0 (LEN: 563, IDY: 99.82), Total number of alignments: 1
+		One align captures most of this contig: 1865519 1866081 | 563 1 | 563 563 | 99.82 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_21192
+
+CONTIG: k91_164062 (706bp)
+Best alignment score: 485.7 (LEN: 529, IDY: 91.81), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 560.1, number of alignments: 2, unaligned bases: 1
+		This contig is misassembled.
+			Excluding internal overlap of size 77 between Alignment 1 and 2: 42193 42445 | 705 453 | 253 253 --> 42193 42368 | 705 530 | 176 176
+			Real Alignment 1: 1730304 1730835 | 529 1 | 532 529 | 91.81 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_164062
+			  Extensive misassembly (relocation, inconsistency = 1687935) between these two alignments
+			Real Alignment 2: 42193 42368 | 705 530 | 176 176 | 92.97 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_164062
+
+CONTIG: k91_94112 (585bp)
+Best alignment score: 582.0 (LEN: 585, IDY: 99.49), Total number of alignments: 1
+		One align captures most of this contig: 247266 247850 | 1 585 | 585 585 | 99.49 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_94112
+
+CONTIG: k91_164200 (645bp)
+Best alignment score: 634.0 (LEN: 645, IDY: 98.29), Total number of alignments: 1
+		One align captures most of this contig: 103794 104438 | 645 1 | 645 645 | 98.29 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_164200
+
+CONTIG: k91_164321 (560bp)
+Best alignment score: 558.0 (LEN: 560, IDY: 99.64), Total number of alignments: 1
+		One align captures most of this contig: 1541017 1541576 | 1 560 | 560 560 | 99.64 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_164321
+
+CONTIG: k91_94399 (957bp)
+Best alignment score: 951.0 (LEN: 957, IDY: 99.37), Total number of alignments: 1
+		One align captures most of this contig: 16313 17269 | 1 957 | 957 957 | 99.37 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_94399
+
+CONTIG: k91_237911 (837bp)
+Best alignment score: 830.0 (LEN: 837, IDY: 99.16), Total number of alignments: 1
+		One align captures most of this contig: 1811700 1812536 | 837 1 | 837 837 | 99.16 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_237911
+
+CONTIG: k91_21614 (661bp)
+Best alignment score: 656.0 (LEN: 661, IDY: 99.24), Total number of alignments: 1
+		One align captures most of this contig: 2353624 2354284 | 1 661 | 661 661 | 99.24 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_21614
+
+CONTIG: k91_21669 (954bp)
+Best alignment score: 945.0 (LEN: 954, IDY: 99.06), Total number of alignments: 1
+		One align captures most of this contig: 463507 464460 | 954 1 | 954 954 | 99.06 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_21669
+
+CONTIG: k91_58963 (639bp)
+Best alignment score: 636.0 (LEN: 639, IDY: 99.53), Total number of alignments: 1
+		One align captures most of this contig: 1526110 1526747 | 1 639 | 638 639 | 99.53 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_58963
+
+CONTIG: k91_59086 (548bp)
+Best alignment score: 545.0 (LEN: 548, IDY: 99.45), Total number of alignments: 1
+		One align captures most of this contig: 2120695 2121242 | 548 1 | 548 548 | 99.45 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_59086
+
+CONTIG: k91_59095 (678bp)
+Best alignment score: 676.0 (LEN: 678, IDY: 99.71), Total number of alignments: 1
+		One align captures most of this contig: 1610254 1610931 | 1 678 | 678 678 | 99.71 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_59095
+
+CONTIG: k91_130283 (655bp)
+Best alignment score: 650.0 (LEN: 655, IDY: 99.24), Total number of alignments: 1
+		One align captures most of this contig: 1466793 1467447 | 655 1 | 655 655 | 99.24 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_130283
+
+CONTIG: k91_59166 (806bp)
+Best alignment score: 741.6 (LEN: 806, IDY: 92.01), Total number of alignments: 1
+		One align captures most of this contig: 978068 978875 | 1 806 | 808 806 | 92.01 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_59166
+
+CONTIG: k91_238258 (775bp)
+Best alignment score: 122.0 (LEN: 126, IDY: 96.83), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1962760 1962885 | 6 131 | 126 126 | 96.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_238258
+		Skipping redundant alignment 471450 471575 | 131 6 | 126 126 | 96.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_238258
+		Skipping redundant alignment 2211940 2212065 | 6 131 | 126 126 | 96.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_238258
+		Skipping redundant alignment 2378800 2378925 | 6 131 | 126 126 | 96.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_238258
+		Skipping redundant alignment 2397979 2398104 | 6 131 | 126 126 | 96.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_238258
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 122.0, number of alignments: 1, unaligned bases: 649
+		This contig is partially unaligned. (Aligned 126 out of 775 non-N bases (16.26%))
+		Alignment: 2253860 2253985 | 6 131 | 126 126 | 96.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_238258
+		Unaligned bases: 1 to 5 (5)
+		Unaligned bases: 132 to 775 (644)
+
+CONTIG: k91_238370 (532bp)
+Best alignment score: 527.0 (LEN: 530, IDY: 99.43), Total number of alignments: 1
+		One align captures most of this contig: 81782 82311 | 532 3 | 530 530 | 99.43 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_238370
+
+CONTIG: k91_130450 (542bp)
+Best alignment score: 538.0 (LEN: 542, IDY: 99.26), Total number of alignments: 1
+		One align captures most of this contig: 509425 509966 | 542 1 | 542 542 | 99.26 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_130450
+
+CONTIG: k91_130648 (693bp)
+Best alignment score: 635.0 (LEN: 665, IDY: 95.49), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 635.0, number of alignments: 1, unaligned bases: 28
+		Alignment: 595866 596530 | 665 1 | 665 665 | 95.49 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_130648
+
+CONTIG: k91_22339 (593bp)
+Best alignment score: 589.0 (LEN: 593, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 1884260 1884852 | 1 593 | 593 593 | 99.33 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_22339
+
+CONTIG: k91_238894 (687bp)
+Best alignment score: 680.0 (LEN: 687, IDY: 98.98), Total number of alignments: 1
+		One align captures most of this contig: 306836 307522 | 1 687 | 687 687 | 98.98 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_238894
+
+CONTIG: k91_60015 (985bp)
+Best alignment score: 977.0 (LEN: 985, IDY: 99.19), Total number of alignments: 1
+		One align captures most of this contig: 434006 434990 | 1 985 | 985 985 | 99.19 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_60015
+
+CONTIG: k91_22716 (712bp)
+Best alignment score: 705.0 (LEN: 712, IDY: 99.02), Total number of alignments: 1
+		One align captures most of this contig: 893398 894109 | 1 712 | 712 712 | 99.02 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_22716
+
+CONTIG: k91_22727 (787bp)
+Best alignment score: 787.0 (LEN: 787, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 369078 369864 | 1 787 | 787 787 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_22727
+
+CONTIG: k91_165741 (564bp)
+Best alignment score: 561.0 (LEN: 564, IDY: 99.47), Total number of alignments: 1
+		One align captures most of this contig: 580291 580854 | 564 1 | 564 564 | 99.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_165741
+
+CONTIG: k91_60355 (844bp)
+Best alignment score: 836.0 (LEN: 844, IDY: 99.05), Total number of alignments: 1
+		One align captures most of this contig: 1433489 1434332 | 844 1 | 844 844 | 99.05 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_60355
+
+CONTIG: k91_96050 (627bp)
+Best alignment score: 622.0 (LEN: 627, IDY: 99.20), Total number of alignments: 1
+		One align captures most of this contig: 118933 119559 | 1 627 | 627 627 | 99.2 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_96050
+
+CONTIG: k91_203773 (1490bp)
+Best alignment score: 1477.9 (LEN: 1490, IDY: 99.19), Total number of alignments: 1
+		One align captures most of this contig: 1977221 1978710 | 1 1490 | 1490 1490 | 99.19 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_203773
+
+CONTIG: k91_23175 (692bp)
+Best alignment score: 686.0 (LEN: 692, IDY: 99.13), Total number of alignments: 1
+		One align captures most of this contig: 1662762 1663453 | 692 1 | 692 692 | 99.13 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_23175
+
+CONTIG: k91_96126 (821bp)
+Best alignment score: 780.0 (LEN: 808, IDY: 96.53), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 780.0, number of alignments: 1, unaligned bases: 13
+		Alignment: 565187 565992 | 821 14 | 806 808 | 96.53 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_96126
+
+CONTIG: k91_96132 (513bp)
+Best alignment score: 462.0 (LEN: 474, IDY: 97.47), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 462.0, number of alignments: 1, unaligned bases: 39
+		Alignment: 1420294 1420767 | 474 1 | 474 474 | 97.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_96132
+
+CONTIG: k91_239726 (582bp)
+Best alignment score: 569.0 (LEN: 582, IDY: 97.77), Total number of alignments: 1
+		One align captures most of this contig: 2135682 2136263 | 1 582 | 582 582 | 97.77 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_239726
+
+CONTIG: k91_131746 (563bp)
+Best alignment score: 560.0 (LEN: 563, IDY: 99.47), Total number of alignments: 1
+		One align captures most of this contig: 277984 278546 | 1 563 | 563 563 | 99.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_131746
+
+CONTIG: k91_239736 (635bp)
+Best alignment score: 627.0 (LEN: 635, IDY: 98.74), Total number of alignments: 1
+		One align captures most of this contig: 213300 213934 | 1 635 | 635 635 | 98.74 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_239736
+
+CONTIG: k91_96254 (705bp)
+Best alignment score: 699.0 (LEN: 705, IDY: 99.15), Total number of alignments: 1
+		One align captures most of this contig: 2290872 2291576 | 1 705 | 705 705 | 99.15 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_96254
+
+CONTIG: k91_131812 (628bp)
+Best alignment score: 473.0 (LEN: 479, IDY: 98.75), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 473.0, number of alignments: 1, unaligned bases: 149
+		Alignment: 917479 917957 | 628 150 | 479 479 | 98.75 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_131812
+
+CONTIG: k91_60722 (744bp)
+Best alignment score: 740.0 (LEN: 744, IDY: 99.46), Total number of alignments: 1
+		One align captures most of this contig: 2383500 2384243 | 1 744 | 744 744 | 99.46 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_60722
+
+CONTIG: k91_131900 (502bp)
+Best alignment score: 497.0 (LEN: 502, IDY: 99.01), Total number of alignments: 1
+		One align captures most of this contig: 378817 379319 | 502 1 | 503 502 | 99.01 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_131900
+
+CONTIG: k91_23536 (538bp)
+Best alignment score: 528.0 (LEN: 538, IDY: 98.14), Total number of alignments: 1
+		One align captures most of this contig: 1782119 1782656 | 1 538 | 538 538 | 98.14 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_23536
+
+CONTIG: k91_204312 (1118bp)
+Best alignment score: 1078.0 (LEN: 1118, IDY: 96.42), Total number of alignments: 1
+		One align captures most of this contig: 764141 765258 | 1118 1 | 1118 1118 | 96.42 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_204312
+
+CONTIG: k91_132073 (542bp)
+Best alignment score: 538.0 (LEN: 542, IDY: 99.26), Total number of alignments: 1
+		One align captures most of this contig: 305151 305692 | 542 1 | 542 542 | 99.26 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_132073
+
+CONTIG: k91_274915 (717bp)
+Best alignment score: 481.0 (LEN: 486, IDY: 98.97), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 481.0, number of alignments: 1, unaligned bases: 231
+		Alignment: 941792 942277 | 232 717 | 486 486 | 98.97 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_274915
+
+CONTIG: k91_96591 (569bp)
+Best alignment score: 565.0 (LEN: 569, IDY: 99.30), Total number of alignments: 1
+		One align captures most of this contig: 2352642 2353210 | 569 1 | 569 569 | 99.3 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_96591
+
+CONTIG: k91_240124 (786bp)
+Best alignment score: 714.0 (LEN: 716, IDY: 99.72), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 714.0, number of alignments: 1, unaligned bases: 70
+		Alignment: 2033783 2034498 | 71 786 | 716 716 | 99.72 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_240124
+
+CONTIG: k91_96674 (501bp)
+Best alignment score: 500.0 (LEN: 501, IDY: 99.80), Total number of alignments: 1
+		One align captures most of this contig: 1613894 1614394 | 501 1 | 501 501 | 99.8 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_96674
+
+CONTIG: k91_23742 (585bp)
+Best alignment score: 566.0 (LEN: 585, IDY: 96.75), Total number of alignments: 1
+		One align captures most of this contig: 598293 598876 | 1 585 | 584 585 | 96.75 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_23742
+
+CONTIG: k91_166645 (818bp)
+Best alignment score: 811.0 (LEN: 818, IDY: 99.14), Total number of alignments: 1
+		One align captures most of this contig: 439691 440508 | 1 818 | 818 818 | 99.14 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_166645
+
+CONTIG: k91_23779 (679bp)
+Best alignment score: 665.0 (LEN: 679, IDY: 97.94), Total number of alignments: 1
+		One align captures most of this contig: 888937 889615 | 679 1 | 679 679 | 97.94 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_23779
+
+CONTIG: k91_132327 (531bp)
+Best alignment score: 530.0 (LEN: 531, IDY: 99.81), Total number of alignments: 1
+		One align captures most of this contig: 406455 406985 | 531 1 | 531 531 | 99.81 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_132327
+
+CONTIG: k91_240253 (1239bp)
+Best alignment score: 1215.0 (LEN: 1239, IDY: 98.06), Total number of alignments: 1
+		One align captures most of this contig: 18750 19988 | 1 1239 | 1239 1239 | 98.06 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_240253
+
+CONTIG: k91_96893 (577bp)
+Best alignment score: 574.0 (LEN: 577, IDY: 99.48), Total number of alignments: 1
+		One align captures most of this contig: 2205576 2206153 | 577 1 | 578 577 | 99.48 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_96893
+
+CONTIG: k91_275250 (512bp)
+Best alignment score: 510.0 (LEN: 512, IDY: 99.61), Total number of alignments: 1
+		One align captures most of this contig: 1623125 1623636 | 512 1 | 512 512 | 99.61 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_275250
+
+CONTIG: k91_24140 (931bp)
+Best alignment score: 926.0 (LEN: 931, IDY: 99.46), Total number of alignments: 1
+		One align captures most of this contig: 86509 87440 | 931 1 | 932 931 | 99.46 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_24140
+
+CONTIG: k91_61613 (517bp)
+Best alignment score: 508.0 (LEN: 517, IDY: 98.26), Total number of alignments: 1
+		One align captures most of this contig: 2217864 2218380 | 1 517 | 517 517 | 98.26 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_61613
+
+CONTIG: k91_61765 (766bp)
+Best alignment score: 758.0 (LEN: 766, IDY: 98.96), Total number of alignments: 1
+		One align captures most of this contig: 2047715 2048477 | 1 766 | 763 766 | 98.96 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_61765
+
+CONTIG: k91_205100 (508bp)
+Best alignment score: 502.0 (LEN: 504, IDY: 99.60), Total number of alignments: 1
+		One align captures most of this contig: 1878609 1879112 | 504 1 | 504 504 | 99.6 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_205100
+
+CONTIG: k91_275714 (958bp)
+Best alignment score: 942.0 (LEN: 958, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 2046619 2047574 | 958 1 | 956 958 | 98.33 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_275714
+
+CONTIG: k91_240878 (554bp)
+Best alignment score: 549.0 (LEN: 554, IDY: 99.10), Total number of alignments: 1
+		One align captures most of this contig: 140361 140914 | 554 1 | 554 554 | 99.1 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_240878
+
+CONTIG: k91_205225 (826bp)
+Best alignment score: 817.0 (LEN: 826, IDY: 98.91), Total number of alignments: 1
+		One align captures most of this contig: 432511 433336 | 1 826 | 826 826 | 98.91 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_205225
+
+CONTIG: k91_133010 (650bp)
+Best alignment score: 642.0 (LEN: 650, IDY: 98.77), Total number of alignments: 1
+		One align captures most of this contig: 2308418 2309067 | 1 650 | 650 650 | 98.77 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_133010
+
+CONTIG: k91_97475 (506bp)
+Best alignment score: 494.0 (LEN: 506, IDY: 97.63), Total number of alignments: 1
+		One align captures most of this contig: 1834554 1835060 | 506 1 | 507 506 | 97.63 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_97475
+
+CONTIG: k91_240975 (914bp)
+Best alignment score: 905.0 (LEN: 908, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 991971 992878 | 908 1 | 908 908 | 99.67 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_240975
+
+CONTIG: k91_133074 (821bp)
+Best alignment score: 807.0 (LEN: 809, IDY: 99.75), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 807.0, number of alignments: 1, unaligned bases: 12
+		Alignment: 2359101 2359909 | 809 1 | 809 809 | 99.75 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_133074
+
+CONTIG: k91_275990 (1105bp)
+Best alignment score: 1061.2 (LEN: 1105, IDY: 96.04), Total number of alignments: 1
+		One align captures most of this contig: 1174086 1175197 | 1 1105 | 1112 1105 | 96.04 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_275990
+
+CONTIG: k91_62016 (615bp)
+Best alignment score: 606.0 (LEN: 614, IDY: 98.70), Total number of alignments: 1
+		One align captures most of this contig: 231903 232516 | 1 614 | 614 614 | 98.7 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_62016
+
+CONTIG: k91_276075 (717bp)
+Best alignment score: 708.0 (LEN: 717, IDY: 98.74), Total number of alignments: 1
+		One align captures most of this contig: 1499984 1500700 | 717 1 | 717 717 | 98.74 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_276075
+
+CONTIG: k91_205440 (500bp)
+Best alignment score: 489.0 (LEN: 495, IDY: 98.79), Total number of alignments: 1
+		One align captures most of this contig: 2036269 2036763 | 6 500 | 495 495 | 98.79 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_205440
+
+CONTIG: k91_241191 (632bp)
+Best alignment score: 615.0 (LEN: 632, IDY: 97.31), Total number of alignments: 1
+		One align captures most of this contig: 850813 851444 | 1 632 | 632 632 | 97.31 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_241191
+
+CONTIG: k91_276161 (500bp)
+Best alignment score: 500.0 (LEN: 500, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 837432 837931 | 500 1 | 500 500 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_276161
+
+CONTIG: k91_97803 (723bp)
+Best alignment score: 694.0 (LEN: 723, IDY: 95.99), Total number of alignments: 1
+		One align captures most of this contig: 1319939 1320661 | 1 723 | 723 723 | 95.99 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_97803
+
+CONTIG: k91_205612 (728bp)
+Best alignment score: 713.0 (LEN: 728, IDY: 97.94), Total number of alignments: 1
+		One align captures most of this contig: 796280 797007 | 1 728 | 728 728 | 97.94 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_205612
+
+CONTIG: k91_24856 (949bp)
+Best alignment score: 519.0 (LEN: 533, IDY: 97.37), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 684.0, number of alignments: 2, unaligned bases: 248
+		This contig is misassembled.
+			Real Alignment 1: 145882 146406 | 1 533 | 525 533 | 97.37 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_24856
+			  Indel (> 5bp) between these two alignments: deletion of length 192; 0 mismatches (number of Ns: 0)
+			Real Alignment 2: 146663 146830 | 598 765 | 168 168 | 98.21 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_24856
+
+CONTIG: k91_241404 (622bp)
+Best alignment score: 616.0 (LEN: 622, IDY: 99.04), Total number of alignments: 1
+		One align captures most of this contig: 2351438 2352059 | 1 622 | 622 622 | 99.04 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_241404
+
+CONTIG: k91_276529 (608bp)
+Best alignment score: 599.0 (LEN: 608, IDY: 98.52), Total number of alignments: 1
+		One align captures most of this contig: 1467539 1468146 | 1 608 | 608 608 | 98.52 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_276529
+
+CONTIG: k91_62532 (863bp)
+Best alignment score: 854.0 (LEN: 857, IDY: 99.65), Total number of alignments: 1
+		One align captures most of this contig: 871020 871876 | 857 1 | 857 857 | 99.65 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_62532
+
+CONTIG: k91_62569 (969bp)
+Best alignment score: 958.0 (LEN: 969, IDY: 98.86), Total number of alignments: 1
+		One align captures most of this contig: 2214958 2215926 | 969 1 | 969 969 | 98.86 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_62569
+
+CONTIG: k91_206042 (627bp)
+Best alignment score: 614.0 (LEN: 624, IDY: 98.40), Total number of alignments: 1
+		One align captures most of this contig: 321750 322373 | 624 1 | 624 624 | 98.4 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_206042
+
+CONTIG: k91_168188 (502bp)
+Best alignment score: 488.0 (LEN: 502, IDY: 97.21), Total number of alignments: 1
+		One align captures most of this contig: 1839188 1839689 | 502 1 | 502 502 | 97.21 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_168188
+
+CONTIG: k91_276772 (539bp)
+Best alignment score: 538.0 (LEN: 539, IDY: 99.81), Total number of alignments: 1
+		One align captures most of this contig: 108206 108744 | 539 1 | 539 539 | 99.81 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_276772
+
+CONTIG: k91_168287 (562bp)
+Best alignment score: 557.0 (LEN: 562, IDY: 99.11), Total number of alignments: 1
+		One align captures most of this contig: 1860100 1860661 | 1 562 | 562 562 | 99.11 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_168287
+
+CONTIG: k91_276890 (769bp)
+Best alignment score: 545.1 (LEN: 573, IDY: 95.13), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 545.1, number of alignments: 1, unaligned bases: 196
+		Alignment: 939199 939768 | 578 6 | 570 573 | 95.13 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_276890
+
+CONTIG: k91_206174 (1163bp)
+Best alignment score: 1155.0 (LEN: 1162, IDY: 99.40), Total number of alignments: 1
+		One align captures most of this contig: 620228 621389 | 1 1162 | 1162 1162 | 99.4 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_206174
+
+CONTIG: k91_25580 (573bp)
+Best alignment score: 566.0 (LEN: 573, IDY: 98.78), Total number of alignments: 1
+		One align captures most of this contig: 1231322 1231894 | 573 1 | 573 573 | 98.78 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_25580
+
+CONTIG: k91_25600 (618bp)
+Best alignment score: 608.0 (LEN: 618, IDY: 98.38), Total number of alignments: 1
+		One align captures most of this contig: 897302 897919 | 1 618 | 618 618 | 98.38 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_25600
+
+CONTIG: k91_98793 (513bp)
+Best alignment score: 510.0 (LEN: 513, IDY: 99.42), Total number of alignments: 1
+		One align captures most of this contig: 1348353 1348865 | 1 513 | 513 513 | 99.42 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_98793
+
+CONTIG: k91_242352 (1193bp)
+Best alignment score: 1183.0 (LEN: 1193, IDY: 99.16), Total number of alignments: 1
+		One align captures most of this contig: 2193395 2194588 | 1 1193 | 1194 1193 | 99.16 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_242352
+
+CONTIG: k91_168856 (1078bp)
+Best alignment score: 1072.0 (LEN: 1078, IDY: 99.44), Total number of alignments: 1
+		One align captures most of this contig: 1623920 1624996 | 1078 1 | 1077 1078 | 99.44 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_168856
+
+CONTIG: k91_98963 (631bp)
+Best alignment score: 630.0 (LEN: 631, IDY: 99.84), Total number of alignments: 1
+		One align captures most of this contig: 777770 778400 | 1 631 | 631 631 | 99.84 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_98963
+
+CONTIG: k91_242527 (796bp)
+Best alignment score: 554.0 (LEN: 578, IDY: 95.85), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 636.0, number of alignments: 2, unaligned bases: 79
+		This contig is misassembled.
+			Real Alignment 1: 2226300 2226877 | 578 1 | 578 578 | 95.85 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_242527
+			  Extensive misassembly (relocation, inconsistency = 3989) between these two alignments
+			Real Alignment 2: 2222093 2222231 | 796 658 | 139 139 | 94.96 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_242527
+
+CONTIG: k91_63582 (740bp)
+Best alignment score: 718.0 (LEN: 740, IDY: 97.03), Total number of alignments: 1
+		One align captures most of this contig: 135522 136261 | 740 1 | 740 740 | 97.03 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_63582
+
+CONTIG: k91_277612 (790bp)
+Best alignment score: 751.0 (LEN: 775, IDY: 96.90), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 751.0, number of alignments: 1, unaligned bases: 15
+		Alignment: 1963932 1964706 | 16 790 | 775 775 | 96.9 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_277612
+
+CONTIG: k91_63617 (533bp)
+Best alignment score: 524.0 (LEN: 533, IDY: 98.31), Total number of alignments: 1
+		One align captures most of this contig: 2241812 2242344 | 533 1 | 533 533 | 98.31 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_63617
+
+CONTIG: k91_99093 (756bp)
+Best alignment score: 749.0 (LEN: 756, IDY: 99.08), Total number of alignments: 1
+		One align captures most of this contig: 847157 847913 | 1 756 | 757 756 | 99.08 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_99093
+
+CONTIG: k91_277817 (866bp)
+Best alignment score: 857.0 (LEN: 866, IDY: 98.96), Total number of alignments: 1
+		One align captures most of this contig: 122352 123218 | 1 866 | 867 866 | 98.96 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_277817
+
+CONTIG: k91_207051 (1349bp)
+Best alignment score: 82.0 (LEN: 83, IDY: 98.80), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 82.0, number of alignments: 1, unaligned bases: 1266
+		This contig is partially unaligned. (Aligned 83 out of 1349 non-N bases (6.15%))
+		Alignment: 1034106 1034188 | 481 563 | 83 83 | 98.8 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_207051
+		Unaligned bases: 1 to 480 (480)
+		Unaligned bases: 564 to 1349 (786)
+
+CONTIG: k91_207124 (515bp)
+Best alignment score: 494.1 (LEN: 506, IDY: 97.64), Total number of alignments: 1
+		One align captures most of this contig: 2238356 2238861 | 10 515 | 506 506 | 97.64 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_207124
+
+CONTIG: k91_277911 (531bp)
+Best alignment score: 525.0 (LEN: 531, IDY: 98.87), Total number of alignments: 1
+		One align captures most of this contig: 328567 329097 | 1 531 | 531 531 | 98.87 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_277911
+
+CONTIG: k91_207170 (715bp)
+Best alignment score: 699.0 (LEN: 703, IDY: 99.43), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 699.0, number of alignments: 1, unaligned bases: 12
+		Alignment: 308313 309015 | 706 4 | 703 703 | 99.43 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_207170
+
+CONTIG: k91_99455 (697bp)
+Best alignment score: 690.0 (LEN: 697, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 1561442 1562137 | 1 697 | 696 697 | 99.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_99455
+
+CONTIG: k91_64131 (577bp)
+Best alignment score: 546.2 (LEN: 577, IDY: 94.67), Total number of alignments: 1
+		One align captures most of this contig: 113827 114404 | 1 577 | 578 577 | 94.67 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_64131
+
+CONTIG: k91_169618 (541bp)
+Best alignment score: 533.0 (LEN: 541, IDY: 98.52), Total number of alignments: 1
+		One align captures most of this contig: 1893604 1894144 | 541 1 | 541 541 | 98.52 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_169618
+
+CONTIG: k91_135263 (504bp)
+Best alignment score: 501.0 (LEN: 504, IDY: 99.40), Total number of alignments: 1
+		One align captures most of this contig: 485064 485567 | 1 504 | 504 504 | 99.4 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_135263
+
+CONTIG: k91_64274 (584bp)
+Best alignment score: 579.0 (LEN: 584, IDY: 99.15), Total number of alignments: 1
+		One align captures most of this contig: 1546575 1547161 | 584 1 | 587 584 | 99.15 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_64274
+
+CONTIG: k91_169830 (673bp)
+Best alignment score: 671.0 (LEN: 673, IDY: 99.70), Total number of alignments: 1
+		One align captures most of this contig: 813839 814511 | 1 673 | 673 673 | 99.7 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_169830
+
+CONTIG: k91_278360 (1141bp)
+Best alignment score: 1133.0 (LEN: 1141, IDY: 99.30), Total number of alignments: 1
+		One align captures most of this contig: 465560 466701 | 1141 1 | 1142 1141 | 99.3 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_278360
+
+CONTIG: k91_207885 (501bp)
+Best alignment score: 487.0 (LEN: 501, IDY: 97.21), Total number of alignments: 1
+		One align captures most of this contig: 371984 372484 | 501 1 | 501 501 | 97.21 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_207885
+
+CONTIG: k91_278599 (720bp)
+Best alignment score: 619.0 (LEN: 630, IDY: 98.25), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 619.0, number of alignments: 1, unaligned bases: 90
+		Alignment: 274725 275353 | 720 91 | 629 630 | 98.25 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_278599
+
+CONTIG: k91_64715 (1033bp)
+Best alignment score: 1029.0 (LEN: 1033, IDY: 99.61), Total number of alignments: 1
+		One align captures most of this contig: 1862269 1863301 | 1033 1 | 1033 1033 | 99.61 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_64715
+
+CONTIG: k91_100304 (911bp)
+Best alignment score: 899.0 (LEN: 911, IDY: 98.68), Total number of alignments: 1
+		One align captures most of this contig: 725458 726368 | 1 911 | 911 911 | 98.68 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_100304
+
+CONTIG: k91_100350 (758bp)
+Best alignment score: 746.0 (LEN: 758, IDY: 98.42), Total number of alignments: 1
+		One align captures most of this contig: 2129496 2130253 | 1 758 | 758 758 | 98.42 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_100350
+
+CONTIG: k91_64829 (666bp)
+Best alignment score: 656.0 (LEN: 666, IDY: 98.50), Total number of alignments: 1
+		One align captures most of this contig: 2365200 2365865 | 1 666 | 666 666 | 98.5 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_64829
+
+CONTIG: k91_243964 (534bp)
+Best alignment score: 531.0 (LEN: 534, IDY: 99.44), Total number of alignments: 1
+		One align captures most of this contig: 1254283 1254816 | 534 1 | 534 534 | 99.44 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_243964
+
+CONTIG: k91_279099 (798bp)
+Best alignment score: 791.0 (LEN: 798, IDY: 99.12), Total number of alignments: 1
+		One align captures most of this contig: 830369 831166 | 1 798 | 798 798 | 99.12 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_279099
+
+CONTIG: k91_100684 (746bp)
+Best alignment score: 166.0 (LEN: 169, IDY: 98.22), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 229.0, number of alignments: 3, unaligned bases: 414
+		This contig is misassembled.
+			Warning! This contig is more unaligned than misassembled. Contig length is 746 (number of Ns: 0) and total length of all aligns is 332
+		Alignment: 718835 718910 | 76 1 | 76 76 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_100684
+		Alignment: 710912 711080 | 257 89 | 169 169 | 98.22 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_100684
+		Alignment: 707591 707677 | 746 660 | 87 87 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_100684
+		Unaligned bases: 414
+
+CONTIG: k91_170700 (742bp)
+Best alignment score: 713.0 (LEN: 738, IDY: 96.61), Total number of alignments: 1
+		One align captures most of this contig: 402226 402963 | 1 738 | 738 738 | 96.61 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_170700
+
+CONTIG: k91_136268 (519bp)
+Best alignment score: 519.0 (LEN: 519, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1953899 1954417 | 1 519 | 519 519 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_136268
+
+CONTIG: k91_65131 (1482bp)
+Best alignment score: 1466.0 (LEN: 1482, IDY: 98.92), Total number of alignments: 1
+		One align captures most of this contig: 257910 259391 | 1482 1 | 1482 1482 | 98.92 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_65131
+
+CONTIG: k91_208594 (599bp)
+Best alignment score: 594.0 (LEN: 599, IDY: 99.17), Total number of alignments: 1
+		One align captures most of this contig: 903004 903602 | 1 599 | 599 599 | 99.17 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_208594
+
+CONTIG: k91_170828 (588bp)
+Best alignment score: 583.0 (LEN: 588, IDY: 99.15), Total number of alignments: 1
+		One align captures most of this contig: 54906 55493 | 588 1 | 588 588 | 99.15 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_170828
+
+CONTIG: k91_65239 (1208bp)
+Best alignment score: 1204.0 (LEN: 1208, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 1621558 1622765 | 1 1208 | 1208 1208 | 99.67 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_65239
+
+CONTIG: k91_170890 (587bp)
+Best alignment score: 586.0 (LEN: 587, IDY: 99.83), Total number of alignments: 1
+		One align captures most of this contig: 185671 186257 | 1 587 | 587 587 | 99.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_170890
+
+CONTIG: k91_27581 (692bp)
+Best alignment score: 676.0 (LEN: 692, IDY: 97.69), Total number of alignments: 1
+		One align captures most of this contig: 276466 277156 | 692 1 | 691 692 | 97.69 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_27581
+
+CONTIG: k91_136533 (635bp)
+Best alignment score: 632.0 (LEN: 635, IDY: 99.53), Total number of alignments: 1
+		One align captures most of this contig: 350091 350725 | 1 635 | 635 635 | 99.53 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_136533
+
+CONTIG: k91_171024 (601bp)
+Best alignment score: 601.0 (LEN: 601, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 2267490 2268090 | 601 1 | 601 601 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_171024
+
+CONTIG: k91_208856 (749bp)
+Best alignment score: 738.0 (LEN: 749, IDY: 98.53), Total number of alignments: 1
+		One align captures most of this contig: 1993231 1993979 | 1 749 | 749 749 | 98.53 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_208856
+
+CONTIG: k91_136699 (646bp)
+Best alignment score: 640.0 (LEN: 646, IDY: 99.07), Total number of alignments: 1
+		One align captures most of this contig: 425647 426292 | 1 646 | 646 646 | 99.07 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_136699
+
+CONTIG: k91_171187 (571bp)
+Best alignment score: 565.0 (LEN: 571, IDY: 98.95), Total number of alignments: 1
+		One align captures most of this contig: 391984 392554 | 571 1 | 571 571 | 98.95 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_171187
+
+CONTIG: k91_101301 (666bp)
+Best alignment score: 648.0 (LEN: 653, IDY: 99.23), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 648.0, number of alignments: 1, unaligned bases: 13
+		Alignment: 123471 124123 | 653 1 | 653 653 | 99.23 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_101301
+
+CONTIG: k91_279802 (523bp)
+Best alignment score: 522.0 (LEN: 523, IDY: 99.81), Total number of alignments: 1
+		One align captures most of this contig: 1255646 1256168 | 1 523 | 523 523 | 99.81 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_279802
+
+CONTIG: k91_101365 (672bp)
+Best alignment score: 656.0 (LEN: 668, IDY: 98.20), Total number of alignments: 1
+		One align captures most of this contig: 1484764 1485431 | 1 668 | 668 668 | 98.2 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_101365
+
+CONTIG: k91_28058 (1087bp)
+Best alignment score: 1075.0 (LEN: 1087, IDY: 98.90), Total number of alignments: 1
+		One align captures most of this contig: 2255285 2256371 | 1 1087 | 1087 1087 | 98.9 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_28058
+
+CONTIG: k91_136934 (558bp)
+Best alignment score: 555.0 (LEN: 558, IDY: 99.46), Total number of alignments: 1
+		One align captures most of this contig: 1256327 1256884 | 1 558 | 558 558 | 99.46 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_136934
+
+CONTIG: k91_101473 (532bp)
+Best alignment score: 523.0 (LEN: 532, IDY: 98.31), Total number of alignments: 1
+		One align captures most of this contig: 1964586 1965117 | 1 532 | 532 532 | 98.31 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_101473
+
+CONTIG: k91_136964 (1279bp)
+Best alignment score: 1267.0 (LEN: 1279, IDY: 99.06), Total number of alignments: 1
+		One align captures most of this contig: 2070898 2072176 | 1279 1 | 1279 1279 | 99.06 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_136964
+
+CONTIG: k91_244947 (539bp)
+Best alignment score: 530.0 (LEN: 539, IDY: 98.33), Total number of alignments: 1
+		One align captures most of this contig: 342638 343176 | 1 539 | 539 539 | 98.33 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_244947
+
+CONTIG: k91_280027 (843bp)
+Best alignment score: 832.0 (LEN: 838, IDY: 99.28), Total number of alignments: 1
+		One align captures most of this contig: 2216579 2217415 | 843 6 | 837 838 | 99.28 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_280027
+
+CONTIG: k91_280128 (571bp)
+Best alignment score: 569.0 (LEN: 571, IDY: 99.65), Total number of alignments: 1
+		One align captures most of this contig: 440939 441509 | 571 1 | 571 571 | 99.65 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_280128
+
+CONTIG: k91_171665 (762bp)
+Best alignment score: 742.0 (LEN: 751, IDY: 98.80), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 742.0, number of alignments: 1, unaligned bases: 11
+		Alignment: 137579 138329 | 12 762 | 751 751 | 98.8 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_171665
+
+CONTIG: k91_66215 (741bp)
+Best alignment score: 731.0 (LEN: 741, IDY: 98.65), Total number of alignments: 1
+		One align captures most of this contig: 883174 883916 | 741 1 | 743 741 | 98.65 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_66215
+
+CONTIG: k91_101992 (1017bp)
+Best alignment score: 1011.0 (LEN: 1017, IDY: 99.41), Total number of alignments: 1
+		One align captures most of this contig: 742452 743468 | 1017 1 | 1017 1017 | 99.41 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_101992
+
+CONTIG: k91_66357 (808bp)
+Best alignment score: 798.0 (LEN: 808, IDY: 98.76), Total number of alignments: 1
+		One align captures most of this contig: 1802259 1803066 | 808 1 | 808 808 | 98.76 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_66357
+
+CONTIG: k91_66440 (532bp)
+Best alignment score: 531.0 (LEN: 532, IDY: 99.81), Total number of alignments: 1
+		One align captures most of this contig: 1359762 1360293 | 1 532 | 532 532 | 99.81 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_66440
+
+CONTIG: k91_172127 (835bp)
+Best alignment score: 828.0 (LEN: 835, IDY: 99.16), Total number of alignments: 1
+		One align captures most of this contig: 96249 97082 | 835 1 | 834 835 | 99.16 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_172127
+
+CONTIG: k91_210098 (862bp)
+Best alignment score: 839.0 (LEN: 860, IDY: 97.56), Total number of alignments: 1
+		One align captures most of this contig: 1835192 1836050 | 3 862 | 859 860 | 97.56 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_210098
+
+CONTIG: k91_137933 (687bp)
+Best alignment score: 680.0 (LEN: 686, IDY: 99.13), Total number of alignments: 1
+		One align captures most of this contig: 2204834 2205519 | 1 686 | 686 686 | 99.13 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_137933
+
+CONTIG: k91_280897 (699bp)
+Best alignment score: 656.0 (LEN: 699, IDY: 93.85), Total number of alignments: 1
+		One align captures most of this contig: 303910 304579 | 699 1 | 670 699 | 93.85 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_280897
+
+CONTIG: k91_245946 (769bp)
+Best alignment score: 760.0 (LEN: 769, IDY: 98.83), Total number of alignments: 1
+		One align captures most of this contig: 418871 419639 | 1 769 | 769 769 | 98.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_245946
+
+CONTIG: k91_246016 (502bp)
+Best alignment score: 487.0 (LEN: 501, IDY: 97.21), Total number of alignments: 1
+		One align captures most of this contig: 856452 856951 | 2 502 | 500 501 | 97.21 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_246016
+
+CONTIG: k91_172589 (1184bp)
+Best alignment score: 1173.0 (LEN: 1184, IDY: 99.07), Total number of alignments: 1
+		One align captures most of this contig: 2079718 2080900 | 1184 1 | 1183 1184 | 99.07 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_172589
+
+CONTIG: k91_138139 (1428bp)
+Best alignment score: 1410.0 (LEN: 1428, IDY: 98.74), Total number of alignments: 1
+		One align captures most of this contig: 2256960 2258387 | 1428 1 | 1428 1428 | 98.74 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_138139
+
+CONTIG: k91_281160 (558bp)
+Best alignment score: 549.0 (LEN: 558, IDY: 98.39), Total number of alignments: 1
+		One align captures most of this contig: 550471 551028 | 558 1 | 558 558 | 98.39 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_281160
+
+CONTIG: k91_138212 (500bp)
+Best alignment score: 496.0 (LEN: 500, IDY: 99.20), Total number of alignments: 1
+		One align captures most of this contig: 460900 461399 | 500 1 | 500 500 | 99.2 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_138212
+
+CONTIG: k91_102794 (608bp)
+Best alignment score: 599.0 (LEN: 608, IDY: 98.52), Total number of alignments: 1
+		One align captures most of this contig: 360788 361393 | 608 1 | 606 608 | 98.52 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_102794
+
+CONTIG: k91_29318 (500bp)
+Best alignment score: 491.0 (LEN: 500, IDY: 98.20), Total number of alignments: 1
+		One align captures most of this contig: 583420 583919 | 1 500 | 500 500 | 98.2 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_29318
+
+CONTIG: k91_29353 (502bp)
+Best alignment score: 501.0 (LEN: 502, IDY: 99.80), Total number of alignments: 1
+		One align captures most of this contig: 562367 562868 | 1 502 | 502 502 | 99.8 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_29353
+
+CONTIG: k91_172839 (565bp)
+Best alignment score: 503.0 (LEN: 511, IDY: 98.43), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 503.0, number of alignments: 1, unaligned bases: 54
+		Alignment: 2058373 2058883 | 55 565 | 511 511 | 98.43 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_172839
+
+CONTIG: k91_138665 (531bp)
+Best alignment score: 527.0 (LEN: 531, IDY: 99.25), Total number of alignments: 1
+		One align captures most of this contig: 734248 734779 | 531 1 | 532 531 | 99.25 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_138665
+
+CONTIG: k91_103181 (514bp)
+Best alignment score: 511.0 (LEN: 514, IDY: 99.42), Total number of alignments: 1
+		One align captures most of this contig: 1567252 1567764 | 514 1 | 513 514 | 99.42 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_103181
+
+CONTIG: k91_29748 (505bp)
+Best alignment score: 403.0 (LEN: 414, IDY: 97.34), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 403.0, number of alignments: 1, unaligned bases: 91
+		Alignment: 1282049 1282462 | 5 418 | 414 414 | 97.34 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_29748
+
+CONTIG: k91_29755 (683bp)
+Best alignment score: 682.0 (LEN: 683, IDY: 99.85), Total number of alignments: 1
+		One align captures most of this contig: 67092 67774 | 1 683 | 683 683 | 99.85 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_29755
+
+CONTIG: k91_138858 (597bp)
+Best alignment score: 587.0 (LEN: 597, IDY: 98.32), Total number of alignments: 1
+		One align captures most of this contig: 1765334 1765930 | 1 597 | 597 597 | 98.32 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_138858
+
+CONTIG: k91_211344 (759bp)
+Best alignment score: 752.0 (LEN: 759, IDY: 99.08), Total number of alignments: 1
+		One align captures most of this contig: 2183582 2184340 | 1 759 | 759 759 | 99.08 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_211344
+
+CONTIG: k91_29923 (618bp)
+Best alignment score: 612.0 (LEN: 616, IDY: 99.35), Total number of alignments: 1
+		One align captures most of this contig: 1853748 1854363 | 616 1 | 616 616 | 99.35 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_29923
+
+CONTIG: k91_67993 (858bp)
+Best alignment score: 327.0 (LEN: 338, IDY: 96.76), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 327.0, number of alignments: 1, unaligned bases: 520
+		This contig is partially unaligned. (Aligned 338 out of 858 non-N bases (39.39%))
+		Alignment: 2046115 2046453 | 338 1 | 339 338 | 96.76 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_67993
+		Unaligned bases: 339 to 858 (520)
+
+CONTIG: k91_30016 (503bp)
+Best alignment score: 498.0 (LEN: 503, IDY: 99.01), Total number of alignments: 1
+		One align captures most of this contig: 501726 502228 | 503 1 | 503 503 | 99.01 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_30016
+
+CONTIG: k91_68068 (905bp)
+Best alignment score: 888.0 (LEN: 899, IDY: 98.78), Total number of alignments: 1
+		One align captures most of this contig: 482764 483662 | 899 1 | 899 899 | 98.78 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_68068
+
+CONTIG: k91_282316 (1167bp)
+Best alignment score: 1139.0 (LEN: 1167, IDY: 97.60), Total number of alignments: 1
+		One align captures most of this contig: 682643 683795 | 1 1167 | 1153 1167 | 97.6 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_282316
+
+CONTIG: k91_247501 (652bp)
+Best alignment score: 639.0 (LEN: 652, IDY: 98.01), Total number of alignments: 1
+		One align captures most of this contig: 131055 131706 | 652 1 | 652 652 | 98.01 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_247501
+
+CONTIG: k91_247658 (1126bp)
+Best alignment score: 1124.0 (LEN: 1126, IDY: 99.82), Total number of alignments: 1
+		One align captures most of this contig: 1332524 1333649 | 1 1126 | 1126 1126 | 99.82 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_247658
+
+CONTIG: k91_68807 (656bp)
+Best alignment score: 644.0 (LEN: 656, IDY: 98.17), Total number of alignments: 1
+		One align captures most of this contig: 107257 107912 | 1 656 | 656 656 | 98.17 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_68807
+
+CONTIG: k91_247819 (632bp)
+Best alignment score: 618.0 (LEN: 632, IDY: 97.78), Total number of alignments: 1
+		One align captures most of this contig: 1572793 1573424 | 1 632 | 632 632 | 97.78 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_247819
+
+CONTIG: k91_174419 (630bp)
+Best alignment score: 618.0 (LEN: 630, IDY: 98.10), Total number of alignments: 1
+		One align captures most of this contig: 97416 98045 | 1 630 | 630 630 | 98.1 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_174419
+
+CONTIG: k91_69012 (736bp)
+Best alignment score: 724.0 (LEN: 736, IDY: 98.37), Total number of alignments: 1
+		One align captures most of this contig: 732086 732821 | 1 736 | 736 736 | 98.37 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_69012
+
+CONTIG: k91_212374 (724bp)
+Best alignment score: 719.0 (LEN: 724, IDY: 99.31), Total number of alignments: 1
+		One align captures most of this contig: 1989936 1990659 | 1 724 | 724 724 | 99.31 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_212374
+
+CONTIG: k91_248107 (501bp)
+Best alignment score: 492.0 (LEN: 494, IDY: 99.60), Total number of alignments: 1
+		One align captures most of this contig: 548012 548505 | 8 501 | 494 494 | 99.6 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_248107
+
+CONTIG: k91_31024 (574bp)
+Best alignment score: 567.0 (LEN: 574, IDY: 98.78), Total number of alignments: 1
+		One align captures most of this contig: 868904 869477 | 574 1 | 574 574 | 98.78 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_31024
+
+CONTIG: k91_248288 (555bp)
+Best alignment score: 541.0 (LEN: 555, IDY: 97.48), Total number of alignments: 1
+		One align captures most of this contig: 1237232 1237786 | 1 555 | 555 555 | 97.48 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_248288
+
+CONTIG: k91_69278 (549bp)
+Best alignment score: 466.0 (LEN: 476, IDY: 97.90), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 466.0, number of alignments: 1, unaligned bases: 73
+		Alignment: 1643404 1643879 | 1 476 | 476 476 | 97.9 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_69278
+
+CONTIG: k91_104891 (1196bp)
+Best alignment score: 1188.0 (LEN: 1196, IDY: 99.33), Total number of alignments: 1
+		One align captures most of this contig: 300697 301892 | 1 1196 | 1196 1196 | 99.33 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_104891
+
+CONTIG: k91_104954 (692bp)
+Best alignment score: 685.0 (LEN: 692, IDY: 98.99), Total number of alignments: 1
+		One align captures most of this contig: 1452223 1452914 | 692 1 | 692 692 | 98.99 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_104954
+
+CONTIG: k91_212881 (994bp)
+Best alignment score: 984.0 (LEN: 994, IDY: 98.99), Total number of alignments: 1
+		One align captures most of this contig: 2038923 2039916 | 994 1 | 994 994 | 98.99 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_212881
+
+CONTIG: k91_31364 (544bp)
+Best alignment score: 527.2 (LEN: 544, IDY: 96.91), Total number of alignments: 1
+		One align captures most of this contig: 2305078 2305627 | 544 1 | 550 544 | 96.91 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_31364
+
+CONTIG: k91_283472 (1126bp)
+Best alignment score: 1120.0 (LEN: 1126, IDY: 99.47), Total number of alignments: 1
+		One align captures most of this contig: 2090474 2091599 | 1126 1 | 1126 1126 | 99.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_283472
+
+CONTIG: k91_31559 (650bp)
+Best alignment score: 524.0 (LEN: 579, IDY: 90.50), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 524.0, number of alignments: 1, unaligned bases: 71
+		Alignment: 2281412 2281990 | 20 598 | 579 579 | 90.5 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_31559
+
+CONTIG: k91_31569 (614bp)
+Best alignment score: 537.0 (LEN: 544, IDY: 98.71), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 537.0, number of alignments: 1, unaligned bases: 70
+		Alignment: 134475 135018 | 1 544 | 544 544 | 98.71 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_31569
+
+CONTIG: k91_175166 (981bp)
+Best alignment score: 973.0 (LEN: 981, IDY: 99.18), Total number of alignments: 1
+		One align captures most of this contig: 72733 73713 | 981 1 | 981 981 | 99.18 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_175166
+
+CONTIG: k91_105450 (527bp)
+Best alignment score: 525.0 (LEN: 527, IDY: 99.62), Total number of alignments: 1
+		One align captures most of this contig: 1288639 1289165 | 527 1 | 527 527 | 99.62 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_105450
+
+CONTIG: k91_31735 (567bp)
+Best alignment score: 551.0 (LEN: 567, IDY: 97.18), Total number of alignments: 1
+		One align captures most of this contig: 1631236 1631802 | 567 1 | 567 567 | 97.18 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_31735
+
+CONTIG: k91_70039 (679bp)
+Best alignment score: 509.0 (LEN: 520, IDY: 97.88), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 611.0, number of alignments: 2, unaligned bases: 50
+		This contig is misassembled.
+			Real Alignment 1: 1606668 1606776 | 109 1 | 109 109 | 93.58 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_70039
+			  Indel (> 5bp) between these two alignments: insertion of length 50; 0 mismatches (number of Ns: 0)
+			Real Alignment 2: 1606149 1606667 | 679 160 | 519 520 | 97.88 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_70039
+
+CONTIG: k91_249055 (1194bp)
+Best alignment score: 1175.0 (LEN: 1194, IDY: 98.41), Total number of alignments: 1
+		One align captures most of this contig: 77495 78687 | 1194 1 | 1193 1194 | 98.41 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_249055
+
+CONTIG: k91_249069 (1072bp)
+Best alignment score: 1050.2 (LEN: 1072, IDY: 97.97), Total number of alignments: 1
+		One align captures most of this contig: 1462855 1463938 | 1072 1 | 1084 1072 | 97.97 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_249069
+
+CONTIG: k91_249070 (1104bp)
+Best alignment score: 1086.0 (LEN: 1104, IDY: 98.37), Total number of alignments: 1
+		One align captures most of this contig: 1414595 1415698 | 1 1104 | 1104 1104 | 98.37 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_249070
+
+CONTIG: k91_175446 (615bp)
+Best alignment score: 607.0 (LEN: 615, IDY: 98.70), Total number of alignments: 1
+		One align captures most of this contig: 2228492 2229106 | 615 1 | 615 615 | 98.7 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_175446
+
+CONTIG: k91_213486 (542bp)
+Best alignment score: 524.0 (LEN: 540, IDY: 97.04), Total number of alignments: 1
+		One align captures most of this contig: 1882461 1883000 | 1 540 | 540 540 | 97.04 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_213486
+
+CONTIG: k91_175505 (728bp)
+Best alignment score: 711.0 (LEN: 717, IDY: 99.16), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 711.0, number of alignments: 1, unaligned bases: 11
+		Alignment: 1821616 1822332 | 12 728 | 717 717 | 99.16 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_175505
+
+CONTIG: k91_249191 (688bp)
+Best alignment score: 674.0 (LEN: 688, IDY: 97.97), Total number of alignments: 1
+		One align captures most of this contig: 1951910 1952597 | 688 1 | 688 688 | 97.97 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_249191
+
+CONTIG: k91_284051 (649bp)
+Best alignment score: 641.0 (LEN: 649, IDY: 98.77), Total number of alignments: 1
+		One align captures most of this contig: 1861514 1862163 | 649 1 | 650 649 | 98.77 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_284051
+
+CONTIG: k91_175635 (1286bp)
+Best alignment score: 1261.0 (LEN: 1282, IDY: 98.36), Total number of alignments: 1
+		One align captures most of this contig: 684441 685722 | 1286 5 | 1282 1282 | 98.36 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_175635
+
+CONTIG: k91_175650 (588bp)
+Best alignment score: 588.0 (LEN: 588, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 2112369 2112956 | 588 1 | 588 588 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_175650
+
+CONTIG: k91_213705 (581bp)
+Best alignment score: 547.0 (LEN: 581, IDY: 94.15), Total number of alignments: 1
+		One align captures most of this contig: 1136826 1137406 | 581 1 | 581 581 | 94.15 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_213705
+
+CONTIG: k91_70356 (737bp)
+Best alignment score: 707.0 (LEN: 720, IDY: 98.19), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 707.0, number of alignments: 1, unaligned bases: 17
+		Alignment: 1349815 1350534 | 720 1 | 720 720 | 98.19 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_70356
+
+CONTIG: k91_284329 (855bp)
+		This contig is unaligned. (855 bp)
+		Unaligned bases: 855 (number of Ns: 0)
+
+CONTIG: k91_214056 (1045bp)
+Best alignment score: 1041.0 (LEN: 1045, IDY: 99.62), Total number of alignments: 1
+		One align captures most of this contig: 2366259 2367302 | 1045 1 | 1044 1045 | 99.62 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_214056
+
+CONTIG: k91_141757 (1384bp)
+Best alignment score: 1362.0 (LEN: 1384, IDY: 98.41), Total number of alignments: 1
+		One align captures most of this contig: 584659 586042 | 1 1384 | 1384 1384 | 98.41 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_141757
+
+CONTIG: k91_214244 (543bp)
+Best alignment score: 539.0 (LEN: 543, IDY: 99.26), Total number of alignments: 1
+		One align captures most of this contig: 143385 143927 | 543 1 | 543 543 | 99.26 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_214244
+
+CONTIG: k91_249915 (681bp)
+Best alignment score: 674.0 (LEN: 681, IDY: 98.97), Total number of alignments: 1
+		One align captures most of this contig: 366569 367249 | 681 1 | 681 681 | 98.97 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_249915
+
+CONTIG: k91_106553 (560bp)
+Best alignment score: 553.0 (LEN: 560, IDY: 98.75), Total number of alignments: 1
+		One align captures most of this contig: 1972188 1972747 | 560 1 | 560 560 | 98.75 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_106553
+
+CONTIG: k91_32708 (580bp)
+Best alignment score: 549.0 (LEN: 571, IDY: 96.15), Total number of alignments: 1
+		One align captures most of this contig: 1747729 1748299 | 571 1 | 571 571 | 96.15 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_32708
+
+CONTIG: k91_70974 (1618bp)
+Best alignment score: 1574.0 (LEN: 1605, IDY: 98.07), Total number of alignments: 1
+		One align captures most of this contig: 238071 239675 | 1 1605 | 1605 1605 | 98.07 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_70974
+
+CONTIG: k91_106642 (1210bp)
+Best alignment score: 1204.0 (LEN: 1210, IDY: 99.50), Total number of alignments: 1
+		One align captures most of this contig: 2185169 2186378 | 1 1210 | 1210 1210 | 99.5 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_106642
+
+CONTIG: k91_142315 (678bp)
+Best alignment score: 656.1 (LEN: 676, IDY: 97.05), Total number of alignments: 1
+		One align captures most of this contig: 2139746 2140422 | 676 1 | 677 676 | 97.05 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_142315
+
+CONTIG: k91_285244 (568bp)
+Best alignment score: 560.0 (LEN: 568, IDY: 98.59), Total number of alignments: 1
+		One align captures most of this contig: 212305 212872 | 568 1 | 568 568 | 98.59 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_285244
+
+CONTIG: k91_71576 (680bp)
+Best alignment score: 672.0 (LEN: 680, IDY: 98.82), Total number of alignments: 1
+		One align captures most of this contig: 154959 155638 | 1 680 | 680 680 | 98.82 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_71576
+
+CONTIG: k91_177010 (608bp)
+Best alignment score: 599.0 (LEN: 608, IDY: 98.52), Total number of alignments: 1
+		One align captures most of this contig: 1276955 1277561 | 608 1 | 607 608 | 98.52 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_177010
+
+CONTIG: k91_107314 (579bp)
+Best alignment score: 570.0 (LEN: 579, IDY: 98.45), Total number of alignments: 1
+		One align captures most of this contig: 1898885 1899463 | 1 579 | 579 579 | 98.45 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_107314
+
+CONTIG: k91_107336 (743bp)
+Best alignment score: 737.0 (LEN: 743, IDY: 99.19), Total number of alignments: 1
+		One align captures most of this contig: 410522 411264 | 743 1 | 743 743 | 99.19 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_107336
+
+CONTIG: k91_285491 (743bp)
+Best alignment score: 736.0 (LEN: 743, IDY: 99.06), Total number of alignments: 1
+		One align captures most of this contig: 1578331 1579073 | 743 1 | 743 743 | 99.06 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_285491
+
+CONTIG: k91_71818 (724bp)
+Best alignment score: 694.0 (LEN: 710, IDY: 97.75), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 694.0, number of alignments: 1, unaligned bases: 14
+		Alignment: 159932 160637 | 710 1 | 706 710 | 97.75 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_71818
+
+CONTIG: k91_250852 (535bp)
+Best alignment score: 477.0 (LEN: 479, IDY: 99.58), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 477.0, number of alignments: 1, unaligned bases: 56
+		Alignment: 2063343 2063821 | 56 534 | 479 479 | 99.58 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_250852
+
+CONTIG: k91_71858 (1919bp)
+Best alignment score: 1901.0 (LEN: 1919, IDY: 99.06), Total number of alignments: 1
+		One align captures most of this contig: 324162 326080 | 1 1919 | 1919 1919 | 99.06 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_71858
+
+CONTIG: k91_177286 (725bp)
+Best alignment score: 717.0 (LEN: 725, IDY: 98.90), Total number of alignments: 1
+		One align captures most of this contig: 1817793 1818517 | 1 725 | 725 725 | 98.9 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_177286
+
+CONTIG: k91_177365 (797bp)
+Best alignment score: 793.0 (LEN: 797, IDY: 99.50), Total number of alignments: 1
+		One align captures most of this contig: 218662 219458 | 1 797 | 797 797 | 99.5 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_177365
+
+CONTIG: k91_215363 (705bp)
+Best alignment score: 702.0 (LEN: 705, IDY: 99.57), Total number of alignments: 1
+		One align captures most of this contig: 2075356 2076060 | 1 705 | 705 705 | 99.57 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_215363
+
+CONTIG: k91_177393 (546bp)
+Best alignment score: 454.0 (LEN: 458, IDY: 99.13), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 454.0, number of alignments: 1, unaligned bases: 88
+		Alignment: 1366769 1367226 | 546 89 | 458 458 | 99.13 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_177393
+
+CONTIG: k91_107660 (505bp)
+Best alignment score: 502.0 (LEN: 505, IDY: 99.41), Total number of alignments: 1
+		One align captures most of this contig: 1884835 1885339 | 1 505 | 505 505 | 99.41 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_107660
+
+CONTIG: k91_143152 (696bp)
+Best alignment score: 696.0 (LEN: 696, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 1938672 1939367 | 696 1 | 696 696 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_143152
+
+CONTIG: k91_143189 (792bp)
+Best alignment score: 790.0 (LEN: 792, IDY: 99.75), Total number of alignments: 1
+		One align captures most of this contig: 2388653 2389444 | 792 1 | 792 792 | 99.75 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_143189
+
+CONTIG: k91_33838 (715bp)
+Best alignment score: 668.0 (LEN: 689, IDY: 96.95), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 668.0, number of alignments: 1, unaligned bases: 26
+		Alignment: 1417720 1418408 | 8 696 | 689 689 | 96.95 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_33838
+
+CONTIG: k91_215490 (616bp)
+Best alignment score: 612.0 (LEN: 616, IDY: 99.35), Total number of alignments: 1
+		One align captures most of this contig: 244129 244744 | 1 616 | 616 616 | 99.35 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_215490
+
+CONTIG: k91_177632 (672bp)
+Best alignment score: 663.0 (LEN: 672, IDY: 98.66), Total number of alignments: 1
+		One align captures most of this contig: 1115903 1116574 | 1 672 | 672 672 | 98.66 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_177632
+
+CONTIG: k91_286079 (1897bp)
+Best alignment score: 1863.0 (LEN: 1897, IDY: 98.21), Total number of alignments: 1
+		One align captures most of this contig: 14357 16246 | 1 1897 | 1890 1897 | 98.21 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_286079
+
+CONTIG: k91_251432 (567bp)
+Best alignment score: 562.0 (LEN: 567, IDY: 99.12), Total number of alignments: 1
+		One align captures most of this contig: 2296206 2296772 | 567 1 | 567 567 | 99.12 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_251432
+
+CONTIG: k91_286390 (810bp)
+Best alignment score: 802.0 (LEN: 809, IDY: 99.13), Total number of alignments: 1
+		One align captures most of this contig: 1820597 1821405 | 2 810 | 809 809 | 99.13 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_286390
+
+CONTIG: k91_34709 (1148bp)
+Best alignment score: 1137.0 (LEN: 1145, IDY: 99.30), Total number of alignments: 1
+		One align captures most of this contig: 101585 102729 | 1148 4 | 1145 1145 | 99.3 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_34709
+
+CONTIG: k91_34971 (1006bp)
+Best alignment score: 1000.0 (LEN: 1006, IDY: 99.40), Total number of alignments: 1
+		One align captures most of this contig: 1998442 1999447 | 1006 1 | 1006 1006 | 99.4 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_34971
+
+CONTIG: k91_34999 (908bp)
+Best alignment score: 848.1 (LEN: 908, IDY: 93.40), Total number of alignments: 1
+		One align captures most of this contig: 1390146 1391014 | 1 908 | 869 908 | 93.4 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_34999
+
+CONTIG: k91_178650 (1054bp)
+Best alignment score: 1045.0 (LEN: 1054, IDY: 99.15), Total number of alignments: 1
+		One align captures most of this contig: 69004 70058 | 1054 1 | 1055 1054 | 99.15 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_178650
+
+CONTIG: k91_287075 (699bp)
+Best alignment score: 691.0 (LEN: 698, IDY: 99.00), Total number of alignments: 1
+		One align captures most of this contig: 594700 595397 | 698 1 | 698 698 | 99.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_287075
+
+CONTIG: k91_287125 (854bp)
+Best alignment score: 841.0 (LEN: 854, IDY: 98.48), Total number of alignments: 1
+		One align captures most of this contig: 864559 865412 | 854 1 | 854 854 | 98.48 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_287125
+
+CONTIG: k91_178942 (883bp)
+Best alignment score: 879.0 (LEN: 883, IDY: 99.55), Total number of alignments: 1
+		One align captures most of this contig: 745540 746422 | 1 883 | 883 883 | 99.55 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_178942
+
+CONTIG: k91_35420 (632bp)
+Best alignment score: 621.1 (LEN: 632, IDY: 98.28), Total number of alignments: 1
+		One align captures most of this contig: 1627771 1628408 | 632 1 | 638 632 | 98.28 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_35420
+
+CONTIG: k91_178991 (676bp)
+Best alignment score: 669.0 (LEN: 676, IDY: 98.97), Total number of alignments: 1
+		One align captures most of this contig: 373939 374615 | 1 676 | 677 676 | 98.97 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_178991
+
+CONTIG: k91_35534 (594bp)
+Best alignment score: 592.0 (LEN: 594, IDY: 99.66), Total number of alignments: 1
+		One align captures most of this contig: 1385484 1386077 | 1 594 | 594 594 | 99.66 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_35534
+
+CONTIG: k91_179537 (579bp)
+Best alignment score: 574.0 (LEN: 579, IDY: 99.14), Total number of alignments: 1
+		One align captures most of this contig: 1533177 1533755 | 1 579 | 579 579 | 99.14 | Lactococcus_lactis_subsp._lactis_CV56_NC_017486.1 k91_179537
+
+CONTIG: k91_108746 (999bp)
+Best alignment score: 633.0 (LEN: 686, IDY: 92.27), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 633.0, number of alignments: 1, unaligned bases: 313
+		Alignment: 31371 32056 | 1 686 | 686 686 | 92.27 | Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1 k91_108746
+
+CONTIG: k91_182692 (634bp)
+Best alignment score: 225.3 (LEN: 241, IDY: 93.47), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 13258 13499 | 394 634 | 242 241 | 93.09 | Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1 k91_182692
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 225.3, number of alignments: 1, unaligned bases: 393
+		Alignment: 18774 19014 | 634 394 | 241 241 | 93.47 | Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1 k91_182692
+
+CONTIG: k91_254910 (1634bp)
+Best alignment score: 1052.0 (LEN: 1132, IDY: 92.93), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 1052.0, number of alignments: 1, unaligned bases: 502
+		Alignment: 8001 9132 | 1142 11 | 1132 1132 | 92.93 | Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1 k91_254910
+
+CONTIG: k91_77201 (525bp)
+Best alignment score: 217.0 (LEN: 221, IDY: 98.19), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 28779 28880 | 149 48 | 102 102 | 95.1 | Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1 k91_77201
+		Skipping redundant alignment 18794 19014 | 148 368 | 221 221 | 98.19 | Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1 k91_77201
+			The best set is below. Score: 307.0, number of alignments: 2, unaligned bases: 205
+		This contig is misassembled.
+			Real Alignment 1: 13969 14067 | 146 48 | 99 99 | 95.96 | Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1 k91_77201
+			  Gap between these two alignments (local misassembly). Inconsistency = 488
+			Real Alignment 2: 13258 13479 | 368 148 | 222 221 | 97.75 | Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1 k91_77201
+
+CONTIG: k91_160898 (509bp)
+Best alignment score: 153.0 (LEN: 157, IDY: 97.45), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 494 579 | 135 221 | 86 87 | 97.7 | Lactococcus_lactis_subsp._lactis_CV56_NC_017483.1 k91_160898
+			The best set is below. Score: 153.0, number of alignments: 1, unaligned bases: 352
+		Alignment: 1 157 | 64 220 | 157 157 | 97.45 | Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1 k91_160898
+
+CONTIG: k91_176275 (505bp)
+Best alignment score: 487.0 (LEN: 493, IDY: 98.79), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 487.0, number of alignments: 1, unaligned bases: 12
+		Alignment: 16496 16988 | 1 493 | 493 493 | 98.79 | Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1 k91_176275
+
+CONTIG: k91_70981 (704bp)
+Best alignment score: 135.0 (LEN: 138, IDY: 97.83), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 28745 28881 | 139 275 | 137 137 | 97.81 | Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1 k91_70981
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 135.0, number of alignments: 1, unaligned bases: 566
+		Alignment: 18204 18341 | 276 139 | 138 138 | 97.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1 k91_70981
+
+CONTIG: k91_11515 (1539bp)
+Best alignment score: 616.0 (LEN: 618, IDY: 99.68), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 616.0, number of alignments: 1, unaligned bases: 921
+		This contig is partially unaligned. (Aligned 618 out of 1539 non-N bases (40.16%))
+		Alignment: 20848 21465 | 618 1 | 618 618 | 99.68 | Lactococcus_lactis_subsp._lactis_CV56_NC_017484.1 k91_11515
+		Unaligned bases: 619 to 1539 (921)
+
+CONTIG: k91_86132 (515bp)
+Best alignment score: 272.0 (LEN: 285, IDY: 95.44), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 272.0, number of alignments: 1, unaligned bases: 230
+		Alignment: 21375 21659 | 515 231 | 285 285 | 95.44 | Lactococcus_lactis_subsp._lactis_CV56_NC_017484.1 k91_86132
+
+CONTIG: k91_22226 (592bp)
+Best alignment score: 586.0 (LEN: 592, IDY: 98.99), Total number of alignments: 1
+		One align captures most of this contig: 7469 8059 | 592 1 | 591 592 | 98.99 | Lactococcus_lactis_subsp._lactis_CV56_NC_017484.1 k91_22226
+
+CONTIG: k91_137893 (967bp)
+Best alignment score: 903.4 (LEN: 967, IDY: 93.42), Total number of alignments: 1
+		One align captures most of this contig: 4066 5033 | 1 967 | 968 967 | 93.42 | Lactococcus_lactis_subsp._lactis_CV56_NC_017484.1 k91_137893
+
+CONTIG: k91_19874 (2876bp)
+Best alignment score: 135.0 (LEN: 139, IDY: 97.12), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 135.0, number of alignments: 1, unaligned bases: 2737
+		This contig is partially unaligned. (Aligned 139 out of 2876 non-N bases (4.83%))
+		Alignment: 2819 2957 | 2876 2738 | 139 139 | 97.12 | Lactococcus_lactis_subsp._lactis_CV56_NC_017485.1 k91_19874
+		Unaligned bases: 1 to 2737 (2737)
+
+CONTIG: k91_130620 (1209bp)
+Best alignment score: 133.0 (LEN: 143, IDY: 93.01), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 133.0, number of alignments: 1, unaligned bases: 1066
+		This contig is partially unaligned. (Aligned 143 out of 1209 non-N bases (11.83%))
+		Alignment: 1742 1884 | 454 312 | 143 143 | 93.01 | Lactococcus_lactis_subsp._lactis_CV56_NC_017483.1 k91_130620
+		Unaligned bases: 1 to 311 (311)
+		Unaligned bases: 455 to 1209 (755)
+
+CONTIG: k91_205884 (566bp)
+Best alignment score: 138.0 (LEN: 144, IDY: 95.83), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 138.0, number of alignments: 1, unaligned bases: 422
+		Alignment: 24589 24732 | 566 423 | 144 144 | 95.83 | Lactococcus_lactis_subsp._lactis_CV56_NC_017483.1 k91_205884
+
+CONTIG: k91_30228 (863bp)
+Best alignment score: 750.1 (LEN: 798, IDY: 94.00), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 24226 24341 | 116 1 | 116 116 | 100.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017483.1 k91_30228
+		Skipping redundant alignment 11020 11768 | 60 806 | 749 747 | 93.46 | Lactococcus_lactis_subsp._lactis_CV56_NC_017487.1 k91_30228
+			The best set is below. Score: 750.1, number of alignments: 1, unaligned bases: 65
+		Alignment: 16253 17052 | 857 60 | 800 798 | 94.0 | Lactococcus_lactis_subsp._lactis_CV56_NC_017483.1 k91_30228
+
+CONTIG: k91_32327 (573bp)
+Best alignment score: 388.0 (LEN: 408, IDY: 95.10), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 388.0, number of alignments: 1, unaligned bases: 165
+		Alignment: 24272 24679 | 408 1 | 408 408 | 95.1 | Lactococcus_lactis_subsp._lactis_CV56_NC_017483.1 k91_32327
+
+Analyzing coverage...
+Writing SNPs into /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/runs_per_reference/Lactococcus_lactis_subsp._lactis_CV56/contigs_reports/minimap_output/final-contigs.used_snps
+
+Analysis is finished!
+Founded SNPs were written into /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/runs_per_reference/Lactococcus_lactis_subsp._lactis_CV56/contigs_reports/minimap_output/final-contigs.used_snps
+
+Results:
+	Local Misassemblies: 1
+	Misassemblies: 9
+		Relocations: 9
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 9
+	Misassembled Contig Bases: 8308
+	Misassemblies Inter-Contig Overlap ("Extra" Aligned Bases): 0
+Unaligned Contigs: 1 + 10 part
+Half Unaligned Contigs with Misassemblies: 1
+Unaligned Bases in Fully and Partially Unaligned Contigs: 14610
+
+Ambiguously Mapped Contigs: 9
+Total Bases in Ambiguously Mapped Contigs: 9870
+"Extra" Aligned Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used (there is no "extra" aligned bases).
+
+	Covered Bases in Reference: 470926
+	Raw Aligned Bases in Assembly: 473551
+	Total Aligned Bases in Assembly (with "Extras"): 473551
+
+	SNPs: 5897
+	Insertions: 366
+	Deletions: 472
+

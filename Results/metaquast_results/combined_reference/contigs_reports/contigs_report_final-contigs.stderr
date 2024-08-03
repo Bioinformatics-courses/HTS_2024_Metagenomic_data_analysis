@@ -1,0 +1,20 @@
+[M::mm_idx_gen::1.780*1.33] collected minimizers
+[M::mm_idx_gen::1.964*1.81] sorted minimizers
+[M::main::1.964*1.81] loaded/built the index for 440 target sequence(s)
+[M::mm_mapopt_update::2.161*1.74] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 440
+[M::mm_idx_stat::2.279*1.70] distinct minimizers: 18586656 (95.83% are singletons); average occurrences: 1.058; average spacing: 10.001; total length: 196713673
+[M::worker_pipeline::3.558*3.45] mapped 66434 sequences
+[M::main] Version: 2.28-r1209
+[M::main] CMD: /home/fedgen/anaconda3/envs/metagenomics/bin/minimap2 -c -x asm10 -B5 -O4,16 --no-long-join -r 200 -N 100 -s 65 -z 200 --mask-level 1 --min-occ 200 -g 2500 --score-N 2 --cs -t 8 /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_corrected_input/combined_reference.fasta /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/combined_reference/../quast_corrected_input/final-contigs.fa
+[M::main] Real time: 3.570 sec; CPU: 12.300 sec; Peak RSS: 1.240 GB
+[M::mm_idx_gen::0.408*1.00] collected minimizers
+[M::mm_idx_gen::0.570*2.40] sorted minimizers
+[M::main::0.570*2.40] loaded/built the index for 144 target sequence(s)
+[M::mm_mapopt_update::0.596*2.33] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 144
+[M::mm_idx_stat::0.612*2.30] distinct minimizers: 2994980 (96.28% are singletons); average occurrences: 1.050; average spacing: 10.003; total length: 31445514
+[M::worker_pipeline::1.407*4.29] mapped 66434 sequences
+[M::main] Version: 2.28-r1209
+[M::main] CMD: /home/fedgen/anaconda3/envs/metagenomics/bin/minimap2 -c -x asm10 -B5 -O4,16 --no-long-join -r 200 -N 100 -s 65 -z 200 --mask-level 1 --min-occ 200 -g 2500 --score-N 2 --cs -t 8 /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/quast_corrected_input/combined_reference.fasta /home/fedgen/Desktop/HTS_2024_Metagenomic_data_analysis/metaquast_results/combined_reference/../quast_corrected_input/final-contigs.fa__2
+[M::main] Real time: 1.418 sec; CPU: 6.044 sec; Peak RSS: 1.641 GB
