@@ -1,8 +1,8 @@
-Title: Metagenomic Assembly and Analysis of the Coffee Fermentation Ecosystem
-Project Overview
+#Title: Metagenomic Assembly and Analysis of the Coffee Fermentation Ecosystem
+## Project Overview
 This project aims to conduct a comprehensive metagenomic assembly and quality evaluation of the coffee fermentation ecosystem using shotgun metagenomic data. The analysis leverages advanced bioinformatics tools such as FastQC, MEGAHIT, MetaQUAST, and Bandage to identify and characterize the microorganisms present at different time points during the coffee fermentation process.
 
-Objectives
+## Objectives
 Assemble Metagenomic Data: Utilize MEGAHIT to assemble the metagenomic sequences obtained from the coffee fermentation ecosystem at six different time points.
 Quality Assessment: Evaluate the quality of the raw sequencing data using FastQC and the assembled contigs using MetaQUAST.
 Visualization: Employ Bandage for visual representation of the assembly graphs to gain insights into the structure and complexity of the microbial communities.
@@ -10,19 +10,32 @@ Microbial Identification: Identify and characterize the microorganisms present i
 Statement of the Problem
 The fermentation process is crucial in determining the quality and flavor profile of coffee. However, the specific microbial dynamics during fermentation are not well understood. This project seeks to bridge this knowledge gap by performing a temporal metagenomic analysis to unravel the structure of the coffee fermentation microbiome.
 
-Methodology
-Data Collection: Obtain raw sequencing data from the study “Temporal shotgun metagenomic dissection of the coffee fermentation ecosystem.” The sample has been sequenced using Illumina MiSeq with whole genome sequencing.
-Quality Control: Use FastQC to perform an initial quality check of the raw sequencing reads. Generate quality reports and identify any issues such as low-quality bases or adapter contamination.
-Metagenomic Assembly: o Use MEGAHIT for assembling the high-quality reads into contigs. o Optimize assembly parameters to achieve the best possible assembly quality.
-Assembly Quality Assessment: o Utilize MetaQUAST to evaluate the quality of the assembled contigs. o Analyze metrics such as N50, L50, and misassemblies to assess the accuracy and completeness of the assembly.
-Visualization: o Employ Bandage to visualize the assembly graphs. o Interpret the graphs to understand the structure and complexity of the microbial communities.
-Microbial Identification: o Use appropriate bioinformatics tools and databases to identify the microorganisms present in the assembled contigs. o Compare the microbial communities across different time points to observe temporal changes.
-Tools and Environment
+## **Methodology**
+***Data Collection:*** 
+Obtain raw sequencing data from the study “Temporal shotgun metagenomic dissection of the coffee fermentation ecosystem.” The sample has been sequenced using Illumina MiSeq with whole genome sequencing.
+***Quality Control:*** 
+   o Use FastQC to perform an initial quality check of the raw sequencing reads. 
+   o Generate quality reports and identify any issues such as low-quality bases or adapter contamination.
+***Metagenomic Assembly:*** 
+  o Use MEGAHIT for assembling the high-quality reads into contigs. 
+  o Optimize assembly parameters to achieve the best possible assembly quality.
+***Assembly Quality Assessment:*** 
+  o Utilize MetaQUAST to evaluate the quality of the assembled contigs. 
+  o Analyze metrics such as N50, L50, and misassemblies to assess the accuracy and completeness of the assembly.
+***Visualization:*** 
+  o Employ Bandage to visualize the assembly graphs. 
+  o Interpret the graphs to understand the structure and complexity of the microbial communities.
+***Microbial Identification:*** 
+  o Use appropriate bioinformatics tools and databases to identify the microorganisms present in the assembled contigs. 
+  o Compare the microbial communities across different time points to observe temporal changes.
+
+##**Tools and Environment**
 Operating System: Linux
 Quality Control: FastQC
 Assembly Tool: MEGAHIT
 Quality Assessment: MetaQUAST
 Visualization: Bandage
-Reference
+
+##** Reference**
 Polina Polunina, & Bérénice Batut. (2023). Traing Data for “Assembly of metagenomic sequencing data” tutorial [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7818827
 
