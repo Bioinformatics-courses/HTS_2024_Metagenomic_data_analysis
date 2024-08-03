@@ -33,26 +33,26 @@ The sample has been sequenced using Illumina MiSeq with whole genome sequencing.
 Use FastQC to perform an initial quality check of the raw sequencing reads.
 Generate quality reports and identify any issues such as low-quality bases or adapter contamination.
 3.	**_Metagenomic Assembly_**:
-o	Use MEGAHIT for assembling the high-quality reads into contigs.
-o	Optimize assembly parameters to achieve the best possible assembly quality.
+  o Use MEGAHIT for assembling the high-quality reads into contigs.
+  o	Optimize assembly parameters to achieve the best possible assembly quality.
 4.	**_Assembly Quality Assessment_**:
-o	Utilize MetaQUAST to evaluate the quality of the assembled contigs.
-o	Analyze metrics such as N50, L50, and misassemblies to assess the accuracy and completeness of the assembly.
+  o	Utilize MetaQUAST to evaluate the quality of the assembled contigs.
+  o	Analyze metrics such as N50, L50, and misassemblies to assess the accuracy and completeness of the assembly.
 5.	**_Visualization_**:
-o	Employ Bandage to visualize the assembly graphs.
-o	Interpret the graphs to understand the structure and complexity of the microbial communities.
+  o	Employ Bandage to visualize the assembly graphs.
+  o	Interpret the graphs to understand the structure and complexity of the microbial communities.
 6.	**_Microbial Identification_**:
-o	Use appropriate bioinformatics tools and databases to identify the microorganisms present in the assembled contigs.
-o	Compare the microbial communities across different time points to observe temporal changes.
+  o	Use appropriate bioinformatics tools and databases to identify the microorganisms present in the assembled contigs.
+  o	Compare the microbial communities across different time points to observe temporal changes.
 
 
-## Tools and Environment
+## **Tools and Environment**
 * Operating System: Linux
 * Quality Control: FastQC
 * Assembly Tool: MEGAHIT
 * Quality Assessment: MetaQUAST
 * Visualization: Bandage
 
-## Reference
+## **Reference**
 Polina Polunina, & Bérénice Batut. (2023). Traing Data for "Assembly of metagenomic sequencing data" tutorial [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7818827
 
