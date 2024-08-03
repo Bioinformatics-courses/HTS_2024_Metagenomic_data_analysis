@@ -26,22 +26,22 @@ The fermentation process is crucial in determining the quality and flavor profil
 ## **Methodology**
 
 
-1.	**_Data Collection_**:
+1.	***`Data Collection:`***
 Obtain raw sequencing data from the study "Temporal shotgun metagenomic dissection of the coffee fermentation ecosystem."
 The sample has been sequenced using Illumina MiSeq with whole genome sequencing.
-2.	**_Quality Control_**:
+2.	***Quality Control:***
 Use FastQC to perform an initial quality check of the raw sequencing reads.
 Generate quality reports and identify any issues such as low-quality bases or adapter contamination.
-3.	**_Metagenomic Assembly_**:
+3.	***Metagenomic Assembly:***
   o Use MEGAHIT for assembling the high-quality reads into contigs.
   o	Optimize assembly parameters to achieve the best possible assembly quality.
-4.	**_Assembly Quality Assessment_**:
+4.	***Assembly Quality Assessment:***
   o	Utilize MetaQUAST to evaluate the quality of the assembled contigs.
   o	Analyze metrics such as N50, L50, and misassemblies to assess the accuracy and completeness of the assembly.
-5.	**_Visualization_**:
+5.	***Visualization:***
   o	Employ Bandage to visualize the assembly graphs.
   o	Interpret the graphs to understand the structure and complexity of the microbial communities.
-6.	**_Microbial Identification_**:
+6.	***Microbial Identification:***
   o	Use appropriate bioinformatics tools and databases to identify the microorganisms present in the assembled contigs.
   o	Compare the microbial communities across different time points to observe temporal changes.
 
