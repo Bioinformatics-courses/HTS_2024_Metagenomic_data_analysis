@@ -4,7 +4,7 @@ output: html_document
 date: "2024-08-02"
 ---
 
-# <font size="10"><b>Title: Metagenomic Assembly and Analysis of the Coffee Fermentation Ecosystem</b></font>
+# **Title: Metagenomic Assembly and Analysis of the Coffee Fermentation Ecosystem**
 
 
 # **Project Overview**
